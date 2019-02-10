@@ -3,6 +3,7 @@
 | Title | Year | Author | Keywords |
 | --- | --- | --- | --- |
 | Automatic exploit generation |  |  |  | Fuzz |
+| evaluating fuzz testing |  |  |  | Fuzz |
 | Predicting vulnerable software components |  |  |  | Fuzz |
 | Scheduling Black-box Mutational Fuzzing |  |  |  | Fuzz |
 | Symbolic execution for software testing three decades later |  |  |  | Fuzz |
@@ -13,16 +14,26 @@
 | --- | --- | --- | --- |
 | Attention Is All You Need |  |  |  | Fuzz |
 | Deep Reinforcement Fuzzing |  |  |  | Fuzz |
+| fuzzing art, science and engineering |  |  |  | Fuzz |
+| Leveraging Textual Specifications for Grammar-based Fuzzing of Network Protocols |  |  |  | Fuzz |
+| neural machine translation inspired binary code similarity comparison beyond function pairs |  |  |  | Fuzz |
+| NEUZZ Efficient Fuzzing with Neural Program Learning |  |  |  | Fuzz |
+| NEUZZ Efficient Fuzzing with Neural Program Smoothing |  |  |  | Fuzz |
+| Not all bytes are equal  Neural byte sieve for fuzzing |  |  |  | Fuzz |
+| Smart Greybox Fuzzing |  |  |  | Fuzz |
+| TensorFuzz Debugging Neural Networks with Coverage-GUided Fuzzing |  |  |  | Fuzz |
 
 # blackhat
 
 | Title | Year | Author | Keywords |
 | --- | --- | --- | --- |
-| the power of pair one template that reveals 100 plus uaf ie vulnerabilities |  |  |  | Fuzz |
+| Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing |  |  |  | Fuzz |
+| the power of pair one template that reveals 100 plus uaf ie vulnerabilities | 2014 |  |  | Fuzz |
 | Arnaboldi Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing |  |  |  | Fuzz |
+| Molinyawe Shell On Earth From Browser To System Compromise | 2016 |  |  | Fuzz |
+| Stone Pixel Perfect Timing Attacks with HTML5 | 2013 |  |  | WebSec |
 | Molinyawe Shell On Earth From Browser To System Compromise |  |  |  | Fuzz |
-| Stone Pixel Perfect Timing Attacks with HTML5 WP |  |  |  | Fuzz |
-| Molinyawe Shell On Earth From Browser To System Compromise |  |  |  | Fuzz |
+| WebAssembly A New World of Native Exploits On The Web | 2018 |  |  | WebAssembly |
 
 # canwest
 
