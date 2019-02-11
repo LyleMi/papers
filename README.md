@@ -8,7 +8,7 @@
 | Scheduling Black-box Mutational Fuzzing |  |  |  | Fuzz |
 | Symbolic execution for software testing three decades later |  |  |  | Fuzz |
 
-# arxiv
+# Arxiv
 
 | Title | Year | Author | Keywords |
 | --- | --- | --- | --- |
@@ -23,7 +23,7 @@
 | Smart Greybox Fuzzing |  |  |  | Fuzz |
 | TensorFuzz Debugging Neural Networks with Coverage-GUided Fuzzing |  |  |  | Fuzz |
 
-# blackhat
+# Blackhat
 
 | Title | Year | Author | Keywords |
 | --- | --- | --- | --- |
@@ -35,27 +35,28 @@
 | Molinyawe Shell On Earth From Browser To System Compromise |  |  |  | Fuzz |
 | WebAssembly A New World of Native Exploits On The Web | 2018 |  |  | WebAssembly |
 
-# canwest
+# CSS
 
 | Title | Year | Author | Keywords |
 | --- | --- | --- | --- |
-| Shellcodes are for the 99 |  |  |  | Fuzz |
-
-# css
-
-| Title | Year | Author | Keywords |
-| --- | --- | --- | --- |
+| Block Oriented Programming Automating Data-Only Attacks |  |  |  | Exploit |
+| Code-Reuse Attacks for the Web Breaking Cross-Site Scripting Mitigations via Script Gadgets | |  |  | Web XSS |
 | Deterministic Browser |  |  |  | Fuzz |
-| IMF Infeered Model based Fuzzer |  |  |  | Fuzz |
+| Directed Greybox Fuzzing |  |  |  | Fuzz |
+| HyCC: Compilation of Hybrid Protocols for Practical Secure Computation |  |  |  | Fuzz |
+| POISED Spotting Twitter Spam Off the Beaten Paths |  |  |  | |
+| Predicting Impending Exposure to Malicious Content from User Behavior |  |  |  | |
+| IMF Infeered Model-based Fuzzer |  |  |  | Fuzz |
+| POISED Spotting Twitter Spam Off the Beaten Paths |  |  |  | |
 
-# defcon
+# Defcon
 
 | Title | Year | Author | Keywords |
 | --- | --- | --- | --- |
 | Analysis of Mutation and Generation Based Fuzzing |  |  |  | Fuzz |
 | defcon 22 geoff mcdonald meddle framework updated |  |  |  | Fuzz |
 
-# hitb
+# HITB
 
 | Title | Year | Author | Keywords |
 | --- | --- | --- | --- |
@@ -63,7 +64,7 @@
 | The Secret of ChakraCore |  | Linan Hao and Long Liu |  |  |
 | From Out of Memory to Remote Code Execution Yuki Chen PacSec2017 final |  |  |  | Fuzz |
 
-# ieee
+# IEEE S&P
 
 | Title | Year | Author | Keywords |
 | --- | --- | --- | --- |
@@ -106,6 +107,12 @@
 | Taking Browsers Fuzzing to the next (DOM) Level |  |  |  | Fuzz |
 | the art of fuzzing slides |  |  |  | Fuzz |
 | ZeroNights2017 darko fuzzer |  |  |  | Fuzz |
+
+# Secwest
+
+| Title | Year | Author | Keywords |
+| --- | --- | --- | --- |
+| Shellcodes are for the 99 |  |  |  | Fuzz |
 
 # usenix
 
