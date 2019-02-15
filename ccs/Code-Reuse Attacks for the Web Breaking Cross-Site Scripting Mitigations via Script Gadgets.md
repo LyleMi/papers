@@ -83,6 +83,15 @@ node.appendChild(input);
 
 - Gadgets in expression parsers 一些现代的js框架把html作为语言的一部分，会parse html中一些特别的地方，并转换为js执行
 
+## 5. Pervalence of Script Gadgets
+
+### 5.3 Limitations
+
+- only first level links
+- no user interaction
+- no authentication
+- verfication does not focus on mitigation bypass
+
 ## 参考链接
 
 https://github.com/google/security-research-pocs/tree/master/script-gadgets
