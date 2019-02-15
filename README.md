@@ -1,7 +1,7 @@
 # ACM
 
 | Title | Year | Keywords |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Automatic exploit generation | | Fuzz |
 | evaluating fuzz testing | | Fuzz |
 | Predicting vulnerable software components | | Fuzz |
@@ -11,7 +11,7 @@
 # Arxiv
 
 | Title | Year | Keywords |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Attention Is All You Need | | Fuzz |
 | Deep Reinforcement Fuzzing | | Fuzz |
 | fuzzing art, science and engineering | | Fuzz |
@@ -26,7 +26,7 @@
 # Blackhat
 
 | Title | Year | Keywords |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing | | Fuzz |
 | the power of pair one template that reveals 100 plus uaf ie vulnerabilities | 2014 | Fuzz |
 | Arnaboldi Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing | | Fuzz |
@@ -38,7 +38,7 @@
 # CSS
 
 | Title | Year | Keywords |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 25 Million flows later - Large-scale detection of DOM-based XSS | 2013 | | XSS |
 | Block Oriented Programming Automating Data-Only Attacks | | Exploit |
 | Code-Reuse Attacks for the Web Breaking Cross-Site Scripting Mitigations via Script Gadgets | | Web XSS |
@@ -53,14 +53,14 @@
 # Defcon
 
 | Title | Year | Keywords |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Analysis of Mutation and Generation Based Fuzzing | | Fuzz |
 | defcon 22 geoff mcdonald meddle framework updated | | Fuzz |
 
 # HITB
 
 | Title | Year | Keywords |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | CLOSING KEYNOTE   Natalie Silvanovich   The ECMA and The Chakra | | Fuzz |
 | The Secret of ChakraCore | | |
 | From Out of Memory to Remote Code Execution Yuki Chen PacSec2017 final | | Fuzz |
@@ -68,7 +68,7 @@
 # IEEE S&P
 
 | Title | Year | Keywords |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Browser Fuzzing by Scheduled Mutation and Generation of Document Object Models | | Fuzz |
 | CollAFL Path Sensitive Fuzzing | | Fuzz |
 | GramFuzz Fuzzing Testing of Web Browsers Based on Grammar Analysis and Structural Mutation | | Fuzz |
@@ -80,7 +80,7 @@
 # misc
 
 | Title | Year | Keywords |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | browser ui security whitepaper | | Fuzz |
 | Critical Vulnerability in Browser Security Metrics | | Fuzz |
 | cure53 browser security whitepaper | | Fuzz |
@@ -94,13 +94,13 @@
 # ms
 
 | Title | Year | Keywords |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | neural fuzzing mcr | | Fuzz |
 
 # ppt
 
 | Title | Year | Keywords |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 1day browser exploitaion | | Fuzz |
 | Blink Rendering | | Fuzz |
 | BrowserFuzzing | 2014 | |
@@ -112,12 +112,12 @@
 # Secwest
 
 | Title | Year | Keywords |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Shellcodes are for the 99 | | Fuzz |
 
 # usenix
 
 | Title | Year | Keywords |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Fuzzing with Code Fragments | | Fuzz |
 | Optimizing seed selection for fuzzing | | Fuzz |
