@@ -35,6 +35,12 @@
 | Molinyawe Shell On Earth From Browser To System Compromise | | Fuzz |
 | WebAssembly A New World of Native Exploits On The Web | 2018 | WebAssembly |
 
+# Blog
+
+| Title | Year | Keywords |
+| --- | --- | --- |
+| IDN Visual Security Deep Thinking | 2019 | IDN |
+
 # CSS
 
 | Title | Year | Keywords |
@@ -77,7 +83,7 @@
 | Software Crash Analysis for Automatic Exploit Generation by Modeling Attacks as Symbolic Continuations | | Fuzz |
 | Violating Assumptions with Fuzzing | | Fuzz |
 
-# misc
+# Misc
 
 | Title | Year | Keywords |
 | --- | --- | --- |
@@ -91,13 +97,19 @@
 | The Security Architecture of the Chromium Browser | | Fuzz |
 | X41 Browser Security White Paper | | Fuzz |
 
-# ms
+# MS
 
 | Title | Year | Keywords |
 | --- | --- | --- |
 | neural fuzzing mcr | | Fuzz |
 
-# ppt
+# Offensive Con
+
+| Title | Year | Keywords |
+| --- | --- | --- |
+| Guided Fuzzing for JavaScript Engines by Samuel Groß | 2019 | Fuzz |
+
+# PPT
 
 | Title | Year | Keywords |
 | --- | --- | --- |
@@ -115,7 +127,7 @@
 | --- | --- | --- |
 | Shellcodes are for the 99 | | Fuzz |
 
-# usenix
+# Usenix
 
 | Title | Year | Keywords |
 | --- | --- | --- |
