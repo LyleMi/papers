@@ -108,6 +108,9 @@
 | Title | Year | Keywords |
 | --- | --- | --- |
 | Guided Fuzzing for JavaScript Engines by Samuel Groß | 2019 | Fuzz |
+| Chrome IPC Exploitation | 2019 | Exploit |
+| Attacking Edge Through the JavaScript Compiler | 2019 | Exploit |
+| Coverage-Guided USB Fuzzing with Syzkaller | 2019 | Fuzz |
 
 # PPT
 
