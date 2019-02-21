@@ -47,7 +47,7 @@
 | --- | --- | --- |
 | 25 Million flows later - Large-scale detection of DOM-based XSS | 2013 | | XSS |
 | Block Oriented Programming Automating Data-Only Attacks | | Exploit |
-| Code-Reuse Attacks for the Web Breaking Cross-Site Scripting Mitigations via Script Gadgets | | Web XSS |
+| Code-Reuse Attacks for the Web Breaking Cross-Site Scripting Mitigations via Script Gadgets | 2017 | Web XSS |
 | Deterministic Browser | | Fuzz |
 | Directed Greybox Fuzzing | | Fuzz |
 | HyCC: Compilation of Hybrid Protocols for Practical Secure Computation | | Fuzz |
