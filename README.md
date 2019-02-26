@@ -136,3 +136,4 @@
 | --- | --- | --- |
 | Fuzzing with Code Fragments | | Fuzz |
 | Optimizing seed selection for fuzzing | | Fuzz |
+| Automatic Generation of Data-Oriented Exploits | 2015 | Exploit DOP |
