@@ -34,6 +34,7 @@
 | Stone Pixel Perfect Timing Attacks with HTML5 | 2013 | WebSec |
 | Molinyawe Shell On Earth From Browser To System Compromise | | Fuzz |
 | WebAssembly A New World of Native Exploits On The Web | 2018 | WebAssembly |
+| It's A PHP Unserialization Vulnerability Jim But Not As We Know It | 2018 | PHP Unserialization |
 
 # Blog
 
@@ -130,6 +131,7 @@
 | Taking Browsers Fuzzing to the next (DOM) Level | | Fuzz |
 | the art of fuzzing slides | | Fuzz |
 | ZeroNights2017 darko fuzzer | | Fuzz |
+| Attacking Modern Web Technologies | 2018 | HTML5 Security |
 
 # Secwest
 
