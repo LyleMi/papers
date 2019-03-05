@@ -147,3 +147,4 @@
 | Fuzzing with Code Fragments | | Fuzz |
 | Optimizing seed selection for fuzzing | | Fuzz |
 | Automatic Generation of Data-Oriented Exploits | 2015 | Exploit DOP |
+| Syntia: Synthesizing the Semantics of Obfuscated Code | 2017 | Obfuscate |
