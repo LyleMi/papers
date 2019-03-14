@@ -110,6 +110,7 @@
 | --- | --- | --- |
 | NAUTILUS:Fishing for Deep Bugs with Grammars | 2019 | Fuzz |
 | Neural Machine Translation Inspired Binary Code Similarity Comparison beyond Function Pairs | 2019 | NLP Binary |
+| Don’t Trust The Locals: Investigating the Prevalence of Persistent Client-Side Cross-Site Scripting in the Wild | 2019 | XSS |
 
 # Offensive Con
 
