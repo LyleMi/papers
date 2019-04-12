@@ -27,19 +27,19 @@
 
 | Title | Year | Keywords |
 | --- | --- | --- |
+| Dont Trust The DOM Bypassing XSS Mitigations Via Script Gadgets | | Web |
 | Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing | | Fuzz |
-| the power of pair one template that reveals 100 plus uaf ie vulnerabilities | 2014 | Fuzz |
-| Arnaboldi Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing | | Fuzz |
+| It's A PHP Unserialization Vulnerability Jim But Not As We Know It | | |
 | Molinyawe Shell On Earth From Browser To System Compromise | 2016 | Fuzz |
+| the power of pair one template that reveals 100 plus uaf ie vulnerabilities | 2014 | Fuzz |
 | Stone Pixel Perfect Timing Attacks with HTML5 | 2013 | WebSec |
-| Molinyawe Shell On Earth From Browser To System Compromise | | Fuzz |
 | WebAssembly A New World of Native Exploits On The Web | 2018 | WebAssembly |
-| It's A PHP Unserialization Vulnerability Jim But Not As We Know It | 2018 | PHP Unserialization |
 
 # Blog
 
 | Title | Year | Keywords |
 | --- | --- | --- |
+| Edge Type Confusion 利用 | | |
 | IDN Visual Security Deep Thinking | 2019 | IDN |
 
 # CSS
@@ -52,10 +52,18 @@
 | Deterministic Browser | | Fuzz |
 | Directed Greybox Fuzzing | | Fuzz |
 | HyCC: Compilation of Hybrid Protocols for Practical Secure Computation | | Fuzz |
-| POISED Spotting Twitter Spam Off the Beaten Paths | | |
-| Predicting Impending Exposure to Malicious Content from User Behavior | | |
 | IMF Infeered Model-based Fuzzer | | Fuzz |
 | POISED Spotting Twitter Spam Off the Beaten Paths | | |
+| Predicting Impending Exposure to Malicious Content from User Behavior | | |
+| Rewriting History Changing the Archived Web from the Present |
+| SemFuzz Semantics-based Automatic Generation of Proof-of-Concept Exploits | | |
+| The TypTop System Personalized Typo-Tolerant Password Checking | | |
+| Threat Intelligence Computing | | |
+| towards a desired directed grey box fuzzer | | |
+| Trends, challenge, and shifts in software vulnerability mitigation | | |
+| Web Sixth Sense A Study of Scripts Accessing Smartphone Sensors | | |
+| When Good Components Go Bad Formally Secure Compilation Despite Dynamic Compromise | | |
+| Yet Another Text Captcha Solver A Generative Adversarial Network Based Approach | | |
 
 # Defcon
 
@@ -108,19 +116,20 @@
 
 | Title | Year | Keywords |
 | --- | --- | --- |
+| Don’t Trust The Locals: Investigating the Prevalence of Persistent Client-Side Cross-Site Scripting in the Wild | 2019 | XSS |
 | NAUTILUS:Fishing for Deep Bugs with Grammars | 2019 | Fuzz |
 | Neural Machine Translation Inspired Binary Code Similarity Comparison beyond Function Pairs | 2019 | NLP Binary |
-| Don’t Trust The Locals: Investigating the Prevalence of Persistent Client-Side Cross-Site Scripting in the Wild | 2019 | XSS |
+| VulDeePecker | | |
 
 # Offensive Con
 
 | Title | Year | Keywords |
 | --- | --- | --- |
+| Attacking Edge Through the JavaScript Compiler | 2019 | Exploit |
+| Chrome IPC Exploitation | 2019 | Exploit |
+| Coverage-Guided USB Fuzzing with Syzkaller | 2019 | Fuzz |
 | From Assembly to JavaScript and back | 2018 | |
 | Guided Fuzzing for JavaScript Engines by Samuel Groß | 2019 | Fuzz |
-| Chrome IPC Exploitation | 2019 | Exploit |
-| Attacking Edge Through the JavaScript Compiler | 2019 | Exploit |
-| Coverage-Guided USB Fuzzing with Syzkaller | 2019 | Fuzz |
 
 # PPT
 
@@ -139,13 +148,28 @@
 
 | Title | Year | Keywords |
 | --- | --- | --- |
+| Chakra vulnerability and exploit bypass all system mitigation | | |
 | Shellcodes are for the 99 | | Fuzz |
 
 # Usenix
 
 | Title | Year | Keywords |
 | --- | --- | --- |
+| An Empirical Analysis of Single Sign-On Account Hijacking and Session Management on the Web | | |
+| an Empirical Study of CORS | | |
+| Author Attribute Anonymity by Adversarial Training of Neural Machine Translation | | |
+| Automatic Generation of Data-Oriented Exploits | | |
+| Empirical Analysis of Redirection Hijacking in Content Delivery Networks | | |
+| Fortifying Web Protocols via Browser-Side Security Monitoring | | |
+| Fuze | | |
 | Fuzzing with Code Fragments | | Fuzz |
+| Generalized Transferability for Evasion and Poisoning Attacks | | |
+| MoonShine Optimizing OS Fuzzer Seed Selection with Trace Distillation | | |
+| NAVEX Precise and Scalable Exploit Generation for Dynamic Web Applications | | |
 | Optimizing seed selection for fuzzing | | Fuzz |
-| Automatic Generation of Data-Oriented Exploits | 2015 | Exploit DOP |
+| QSYM A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing | | |
+| Reverse Engineering Ethereum’s Opaque Smart Contracts | | |
+| SoK Make JIT-Spray Great Again | | |
 | Syntia: Synthesizing the Semantics of Obfuscated Code | 2017 | Obfuscate |
+| Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts | | |
+| Watermarking Deep Neural Networks by Backdooring | | |
