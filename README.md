@@ -29,6 +29,7 @@
 | --- | --- | --- |
 | Dont Trust The DOM Bypassing XSS Mitigations Via Script Gadgets | | Web |
 | Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing | | Fuzz |
+| HEIST HTTP Encrypted Information Can Be Stolen Through TCP Windows | 2016 | HTTPS Side-Channel |
 | It's A PHP Unserialization Vulnerability Jim But Not As We Know It | | |
 | Molinyawe Shell On Earth From Browser To System Compromise | 2016 | Fuzz |
 | the power of pair one template that reveals 100 plus uaf ie vulnerabilities | 2014 | Fuzz |
@@ -159,11 +160,13 @@
 | an Empirical Study of CORS | | |
 | Author Attribute Anonymity by Adversarial Training of Neural Machine Translation | | |
 | Automatic Generation of Data-Oriented Exploits | | |
+| Effective Attacks and Provable Defenses for Website Fingerprinting | 2014 | Fingerprint |
 | Empirical Analysis of Redirection Hijacking in Content Delivery Networks | | |
 | Fortifying Web Protocols via Browser-Side Security Monitoring | | |
 | Fuze | | |
 | Fuzzing with Code Fragments | | Fuzz |
 | Generalized Transferability for Evasion and Poisoning Attacks | | |
+| k-fingerprinting A Robust Scalable Website Fingerprinting Technique | 2016 | fingerprint |
 | MoonShine Optimizing OS Fuzzer Seed Selection with Trace Distillation | | |
 | NAVEX Precise and Scalable Exploit Generation for Dynamic Web Applications | | |
 | Optimizing seed selection for fuzzing | | Fuzz |
