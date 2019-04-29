@@ -87,6 +87,7 @@
 | --- | --- | --- |
 | Browser Fuzzing by Scheduled Mutation and Generation of Document Object Models | | Fuzz |
 | CollAFL Path Sensitive Fuzzing | | Fuzz |
+| Full-speed Fuzzing Reducing Fuzzing Overhead through Coverage-guided Tracing | 2019 | Fuzz |
 | GramFuzz Fuzzing Testing of Web Browsers Based on Grammar Analysis and Structural Mutation | | Fuzz |
 | Research on Android browser fuzzing based on bitmap structure | | Fuzz |
 | Skyfire Data Driven Seed Generation for Fuzzing | | Fuzz |
