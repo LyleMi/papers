@@ -87,9 +87,11 @@
 | --- | --- | --- |
 | Browser Fuzzing by Scheduled Mutation and Generation of Document Object Models | | Fuzz |
 | CollAFL Path Sensitive Fuzzing | | Fuzz |
+| End User and Administrator Mental Models of HTTPS | 2019 | Web |
 | Full-speed Fuzzing Reducing Fuzzing Overhead through Coverage-guided Tracing | 2019 | Fuzz |
 | GramFuzz Fuzzing Testing of Web Browsers Based on Grammar Analysis and Structural Mutation | | Fuzz |
 | Research on Android browser fuzzing based on bitmap structure | | Fuzz |
+| Resident Evil Understanding Residential IP Proxy as a Dark Service | 2019 | 生态 |
 | Skyfire Data Driven Seed Generation for Fuzzing | | Fuzz |
 | Software Crash Analysis for Automatic Exploit Generation by Modeling Attacks as Symbolic Continuations | | Fuzz |
 | Violating Assumptions with Fuzzing | | Fuzz |
@@ -152,6 +154,12 @@
 | --- | --- | --- |
 | Chakra vulnerability and exploit bypass all system mitigation | | |
 | Shellcodes are for the 99 | | Fuzz |
+
+# SIGPLAN
+
+| Title | Year | Keywords |
+| --- | --- | --- |
+| Parser-Directed Fuzzing | | Fuzz |
 
 # Usenix
 
