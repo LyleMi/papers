@@ -90,6 +90,8 @@
 | End User and Administrator Mental Models of HTTPS | 2019 | Web |
 | Full-speed Fuzzing Reducing Fuzzing Overhead through Coverage-guided Tracing | 2019 | Fuzz |
 | GramFuzz Fuzzing Testing of Web Browsers Based on Grammar Analysis and Structural Mutation | | Fuzz |
+| HOLMES Real-time APT Detection through Correlation of Suspicious Information Flows | 2019 | APT |
+| RAZZER Finding Kernel Race Bugs through Fuzzing | 2019 | Fuzz Kernel Race |
 | Research on Android browser fuzzing based on bitmap structure | | Fuzz |
 | Resident Evil Understanding Residential IP Proxy as a Dark Service | 2019 | 生态 |
 | Skyfire Data Driven Seed Generation for Fuzzing | | Fuzz |
