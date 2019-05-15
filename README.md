@@ -15,6 +15,7 @@
 | Attention Is All You Need | | Fuzz |
 | Deep Reinforcement Fuzzing | | Fuzz |
 | fuzzing art, science and engineering | | Fuzz |
+| Improving Grey-Box Fuzzing by Modeling Program Behavior | 2019 | Fuzz |
 | Leveraging Textual Specifications for Grammar-based Fuzzing of Network Protocols | | Fuzz |
 | neural machine translation inspired binary code similarity comparison beyond function pairs | | Fuzz |
 | NEUZZ Efficient Fuzzing with Neural Program Learning | | Fuzz |
@@ -89,8 +90,10 @@
 | CollAFL Path Sensitive Fuzzing | | Fuzz |
 | End User and Administrator Mental Models of HTTPS | 2019 | Web |
 | Full-speed Fuzzing Reducing Fuzzing Overhead through Coverage-guided Tracing | 2019 | Fuzz |
+| Fuzzing File Systems via Two-Dimensional Input Space Exploration | 2019 | Fuzz |
 | GramFuzz Fuzzing Testing of Web Browsers Based on Grammar Analysis and Structural Mutation | | Fuzz |
 | HOLMES Real-time APT Detection through Correlation of Suspicious Information Flows | 2019 | APT |
+| ProFuzzer On-the-fly Input Type Probing for Better Zero-day Vulnerability Discovery | 2019 | Fuzz |
 | RAZZER Finding Kernel Race Bugs through Fuzzing | 2019 | Fuzz Kernel Race |
 | Research on Android browser fuzzing based on bitmap structure | | Fuzz |
 | Resident Evil Understanding Residential IP Proxy as a Dark Service | 2019 | 生态 |
