@@ -52,16 +52,16 @@
 | Block Oriented Programming Automating Data-Only Attacks | | Exploit |
 | Code-Reuse Attacks for the Web Breaking Cross-Site Scripting Mitigations via Script Gadgets | 2017 | Web XSS |
 | Deterministic Browser | | Fuzz |
-| Directed Greybox Fuzzing | | Fuzz |
+| Directed Greybox Fuzzing | 2017 | Fuzz |
+| Hawkeye: towards a desired directed grey box fuzzer | 2018 | Fuzz |
 | HyCC: Compilation of Hybrid Protocols for Practical Secure Computation | | Fuzz |
 | IMF Infeered Model-based Fuzzer | | Fuzz |
-| POISED Spotting Twitter Spam Off the Beaten Paths | | |
+| POISED Spotting Twitter Spam Off the Beaten Paths | | Spam |
 | Predicting Impending Exposure to Malicious Content from User Behavior | | |
-| Rewriting History Changing the Archived Web from the Present |
+| Rewriting History Changing the Archived Web from the Present | | |
 | SemFuzz Semantics-based Automatic Generation of Proof-of-Concept Exploits | | |
 | The TypTop System Personalized Typo-Tolerant Password Checking | | |
-| Threat Intelligence Computing | | |
-| towards a desired directed grey box fuzzer | | |
+| Threat Intelligence Computing | | Threat Intelligence |
 | Trends, challenge, and shifts in software vulnerability mitigation | | |
 | Web Sixth Sense A Study of Scripts Accessing Smartphone Sensors | | |
 | When Good Components Go Bad Formally Secure Compilation Despite Dynamic Compromise | | |
@@ -91,7 +91,7 @@
 | End User and Administrator Mental Models of HTTPS | 2019 | Web |
 | Full-speed Fuzzing Reducing Fuzzing Overhead through Coverage-guided Tracing | 2019 | Fuzz |
 | Fuzzing File Systems via Two-Dimensional Input Space Exploration | 2019 | Fuzz |
-| GramFuzz Fuzzing Testing of Web Browsers Based on Grammar Analysis and Structural Mutation | | Fuzz |
+| GramFuzz: Fuzzing Testing of Web Browsers Based on Grammar Analysis and Structural Mutation | 2013 | Fuzz |
 | HOLMES Real-time APT Detection through Correlation of Suspicious Information Flows | 2019 | APT |
 | ProFuzzer On-the-fly Input Type Probing for Better Zero-day Vulnerability Discovery | 2019 | Fuzz |
 | RAZZER Finding Kernel Race Bugs through Fuzzing | 2019 | Fuzz Kernel Race |
@@ -138,7 +138,7 @@
 | Chrome IPC Exploitation | 2019 | Exploit |
 | Coverage-Guided USB Fuzzing with Syzkaller | 2019 | Fuzz |
 | From Assembly to JavaScript and back | 2018 | |
-| Guided Fuzzing for JavaScript Engines by Samuel Groß | 2019 | Fuzz |
+| Fuzzil: Guided Fuzzing for JavaScript Engines by Samuel Groß | 2019 | Fuzz |
 
 # PPT
 
@@ -164,21 +164,21 @@
 
 | Title | Year | Keywords |
 | --- | --- | --- |
-| Parser-Directed Fuzzing | | Fuzz |
+| Parser-Directed Fuzzing | 2019 | Fuzz |
 
 # Usenix
 
 | Title | Year | Keywords |
 | --- | --- | --- |
-| An Empirical Analysis of Single Sign-On Account Hijacking and Session Management on the Web | | |
-| an Empirical Study of CORS | | |
+| An Empirical Analysis of Single Sign-On Account Hijacking and Session Management on the Web | 2019 | Web, SSO |
+| An Empirical Study of CORS | 2018 | CORS |
 | Author Attribute Anonymity by Adversarial Training of Neural Machine Translation | | |
 | Automatic Generation of Data-Oriented Exploits | | |
 | Effective Attacks and Provable Defenses for Website Fingerprinting | 2014 | Fingerprint |
-| Empirical Analysis of Redirection Hijacking in Content Delivery Networks | | |
+| Empirical Analysis of Redirection Hijacking in Content Delivery Networks | 2018 | CDN |
 | Fortifying Web Protocols via Browser-Side Security Monitoring | | |
-| Fuze | | |
-| Fuzzing with Code Fragments | | Fuzz |
+| Fuze | 2018 | |
+| Fuzzing with Code Fragments | 2018 | Fuzz |
 | Generalized Transferability for Evasion and Poisoning Attacks | | |
 | k-fingerprinting A Robust Scalable Website Fingerprinting Technique | 2016 | fingerprint |
 | MoonShine Optimizing OS Fuzzer Seed Selection with Trace Distillation | | |
@@ -189,4 +189,4 @@
 | SoK Make JIT-Spray Great Again | | |
 | Syntia: Synthesizing the Semantics of Obfuscated Code | 2017 | Obfuscate |
 | Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts | | |
-| Watermarking Deep Neural Networks by Backdooring | | |
+| Watermarking Deep Neural Networks by Backdooring | 2018 | Deep Learning |
