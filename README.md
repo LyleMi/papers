@@ -12,9 +12,11 @@
 
 | Title | Year | Keywords |
 | --- | --- | --- |
+| Adaptive Grey-Box Fuzz-Testing with Thompson Sampling | | Fuzz |
 | Attention Is All You Need | | Fuzz |
 | Deep Reinforcement Fuzzing | | Fuzz |
-| fuzzing art, science and engineering | | Fuzz |
+| Fuzzing Art, Science and Engineering | | Fuzz |
+| FuzzerGym A Competitive Framework for Fuzzing | | Fuzz |
 | Improving Grey-Box Fuzzing by Modeling Program Behavior | 2019 | Fuzz |
 | Leveraging Textual Specifications for Grammar-based Fuzzing of Network Protocols | | Fuzz |
 | neural machine translation inspired binary code similarity comparison beyond function pairs | | Fuzz |
@@ -51,7 +53,7 @@
 | 25 Million flows later - Large-scale detection of DOM-based XSS | 2013 | | XSS |
 | Block Oriented Programming Automating Data-Only Attacks | | Exploit |
 | Code-Reuse Attacks for the Web Breaking Cross-Site Scripting Mitigations via Script Gadgets | 2017 | Web XSS |
-| Deterministic Browser | | Fuzz |
+| Deterministic Browser | | Browser |
 | Directed Greybox Fuzzing | 2017 | Fuzz |
 | Hawkeye: towards a desired directed grey box fuzzer | 2018 | Fuzz |
 | HyCC: Compilation of Hybrid Protocols for Practical Secure Computation | | Fuzz |
@@ -152,6 +154,7 @@
 | the art of fuzzing slides | | Fuzz |
 | ZeroNights2017 darko fuzzer | | Fuzz |
 | Attacking Modern Web Technologies | 2018 | HTML5 Security |
+| php_internals_exploit_dev | 2018 | PHP Fuzz |
 
 # Secwest
 
@@ -182,6 +185,7 @@
 | Generalized Transferability for Evasion and Poisoning Attacks | | |
 | k-fingerprinting A Robust Scalable Website Fingerprinting Technique | 2016 | fingerprint |
 | MoonShine Optimizing OS Fuzzer Seed Selection with Trace Distillation | | |
+| MOPT-Optimized Mutation Scheduling for Fuzzers | 2019 | Fuzz |
 | NAVEX Precise and Scalable Exploit Generation for Dynamic Web Applications | | |
 | Optimizing seed selection for fuzzing | | Fuzz |
 | QSYM A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing | | |
