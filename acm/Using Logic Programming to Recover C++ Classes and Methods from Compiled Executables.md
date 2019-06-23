@@ -27,8 +27,7 @@ OO编程范例侧重于复杂的，用户创建的数据称为绑定相关数据
 进一步加剧这些问题的是高级别的事实编译期间C++对象的抽象丢失
 进程，这使得分析C++可执行文件难以为人类服务分析师和自动算法都一样。 例如，一种算法搜索免费使用后的漏洞需要了解对象构造函数[7]，以及试图理解的分析师恶意软件样本的行为将从知道中大大受益哪些方法在相关类[9]。 研究人员也有证明了许多漏洞利用保护措施更有效C++抽象，以及保护和效率的水平改进了C++抽象的准确性。 例如，研究人员在可执行级控制流完整性（CFI）保护中系统[1,35]最近表明了整体保护水平通过合并可以显着改善攻击关于C++抽象的知识[8,19,21,34]。
 
-虽然有可以从可执行文件中恢复C++抽象的现有系统，它们中的大多数依赖于虚函数表（vftables）作为其主要信息源，因此只考虑多态
-类（即具有虚方法的类）。
+虽然有可以从可执行文件中恢复C++抽象的现有系统，它们中的大多数依赖于虚函数表（vftables）作为其主要信息源，因此只考虑多态类（即具有虚方法的类）。
 
 在本文中，我们通过开发一个新的来解决这个限制系统，OOAnalyzer，可以准确地恢复详细的C++抽象关于所有类和方法，包括类列表，每个类的方法，之间的关系（例如继承）类，以及构造函数和特殊方法的列表虚拟方法。 OOAnalyzer避免了以前工作的局限性通过利用复杂的推理系统来自各种来源的信息，包括一些产量关于所有类型的信息（即，不仅仅是多态的类）。 例如，OOAnalyzer可以观察对象的动作用于学习关系的指针，例如方法调用方法和类之间，这些信息与任何在目标程序中调用的方法。
 
@@ -353,29 +352,83 @@ OOAnalyzer恢复了例如Firefox和MySQL这种复杂程序和基于C++的恶意�
 
 # Paper summary
 
-在本文中，作者提出了一个名为OOAnalyzer的系统，该系统可以静态的从可执行文件中以一个可扩展的方式恢复详细的C++抽象信息。
+在本文中，作者提出了一个名为OOAnalyzer的系统，该系统可以静态辅助对可执行文件的分析，分析出程序中的相关类之间的关系（比如继承关系等），并且快速了解各个类内部的各个组成部分（例如方法、数据成员、虚函数表、构造函数与析构函数等）。
 
-该系统的主要想法是结合对手工分析中涉及到的逻辑推理，领域知识和直觉做一个实现。
+该系统的主要想法是在二进制代码中识别简单的模式，基于这些模式，使用逻辑推理并结合相关领域的专业知识，甚至是一些直觉（Intuition）等方法来分析目标程序。
 
-而后作者编纂了这个将轻量级符号分析与基于Prolog的推理相结合的系统。与大多数现有工作不同，OOAnalyzer能够恢复多态和非多态C++类。
+而后作者基于轻量级符号执行与基于Prolog的推理相结合的系统。把分析转换成一个代码形式。
+
+与大多数现有工作不同，OOAnalyzer能够恢复多态和非多态C++类。
 
 作者在实验中表明OOAnalyzer在测试语料库中达到了87%的准确率，语料库中包括恶意软件和真实世界的软件。
 
+In this paper, the author proposes a system called OOAnalyzer, which can statically assist in the analysis of executable files, analyze the relationships between related classes in the program (such as inheritance relationships, etc.), and quickly understand the internals of each class. The various components (such as methods, data, virtual function tables, constructors and destructors, etc.).
+
+The main idea of the system is to identify simple patterns in binary code, based on these patterns, using logical reasoning and combining relevant domain expertise, even some intuitive methods to analyze the target program.
+
+The author then performs a system based on lightweight-based notation combined with preamble-based reasoning. Convert the analysis into a coded form.
+
+Unlike most existing jobs, OOAnalyzer is able to recover polymorphic and non-polymorphic C++ classes.
+
+The authors showed in the experiment that OOAnalyzer achieved 87% accuracy in the test corpus, including malware and real-world software.
+
 # Paper strengths
 
-作者及其团队在非多态类的识别上持续做出贡献。尤其是基于静态方法还原C++非多态类的识别问题上做出了开创性工作。
++ OOAnalyzer 基于静态分析而不是动态分析。
++ OOAnalyzer 不需要依赖于 RTTI 和 VFTable 来恢复类。
++ OOAnalyzer 可以恢复出具有多态和非多态类形式的类的相关信息。
++ OOAnalyzer 对类的构造函数、成员方法和虚函数表的恢复效果非常好，平均准确度达到88% 以上。
+
++ OOAnalyzer is based on static analysis rather than dynamic analysis.
++ OOAnalyzer does not need to rely on RTTI and VFTable to recover classes.
++ OOAnalyzer can recover information about classes with polymorphic and non-polymorphic classes.
++ OOAnalyzer has a very good recovery effect on the constructor, member method and virtual function table of the class, with an average accuracy of over 88%.
 
 # Paper weaknesses
 
-作者仅仅和自己之前的工作做了对比，没有和其他实验做对比。对比不够充分。
+OOAnalyzer分析规则基于专家经验，需要大量的手工分析。
 
-在选取实验样本上，作者也只选取了较小的二进制文件。没有就较大的二进制文件做分析。虽然提到了Firefox，但是没有就Firefox的核心库xul.dll进行分析。
+如果程序进行了一定的优化处理，OOAnalyzer表现会不太好。
 
-分析规则基于专家经验，规则没有自动化。
+OOAnalyzer的分析限于Visual Studio的ABI，耦合性太高，不易迁移。
+
+OOAnalyzer 无法执行分析不可达的函数。
+
+如果在不同的类中出现了相同的方法，则 OOAnalyzer 也可能会误以为它们是同一个类。
+
++ The OOAnalyzer analysis rules are based on expert experience and require extensive manual analysis.
+
++ If the program is optimized, the OOAnalyzer will not perform well.
+
++ OOAnalyzer's analysis is limited to Visual Studio's ABI, which is too coupled and difficult to migrate.
+
++ OOAnalyzer cannot analysis functions which are unreachable.
+
++ OOAnalyzer may also mistakenly think that they are the same class if the same method occurs in different classes.
 
 # Comments for Author
 
+作者仅仅和自己之前的工作做了对比，没有选择其他工作完成实验做对比，对比不够充分。
+
+在选取实验样本上，作者只选取了较小的二进制文件，没有就较大的二进制文件做分析。作者虽然在实验中提到了Firefox，但是没有就Firefox的核心库xul.dll进行分析。
+
+The author only compared it with his previous work, did not choose other work to complete the experiment to compare, the contrast is not enough.
+
+On the selection of the experimental sample, the author only selected a smaller binary file, and did not analyze the larger binary file. Although the author mentioned Firefox in the experiment, there is no analysis of Firefox's core library xul.dll.
+
 # Comments for PC
+
+作者在文中介绍的这款工具，是一款功能强大的 C++ 高级语言抽象结构恢复工具，相比于其它的工具存在很多的优势。
+
+这款工具能够对分析C++程序提供了很多有用的信息，特别是对于我们逆向一些由 C++ 开发的恶意程序，能够让我们方便的了解到恶意程序内部的构造，可以提高我们的对恶意程序的分析效率。
+
+但是这款工具也存在一些可供改进的点，例如工具的时间复杂度过高，对复杂软件的分析能力可能存在问题。另外它对析构函数的识别效果不佳。而且对于编译器优化之后的程序的分析效果也不理想。
+
+The tool introduced by the author in this article is a powerful C++ high-level language abstract structure recovery tool, which has many advantages over other tools.
+
+This tool provides a lot of useful information for analyzing C++ programs, especially for us to reverse some malicious programs developed by C++, which allows us to easily understand the internal structure of malicious programs and improve our analysis of malicious programs. effectiveness.
+
+However, there are some points for improvement in this tool. For example, the time complexity of the tool is too high, and the analysis ability of complex software may be problematic. In addition, its recognition of the destructor is not good. Moreover, the analysis of the program after compiler optimization is not satisfactory.
 
 # 其他
 
