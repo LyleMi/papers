@@ -859,5 +859,12 @@
         "date": "2016",
         "tag": ["GAN", "Machine Learning"],
         "conference": "IEEE S&P"
+    },
+    "124": {
+        "title": "Synode: Understanding and Automatically Preventing Injection Attacks on Node.js",
+        "author": "SOLA",
+        "date": "2019",
+        "tag": ["Web", "Auomatica"],
+        "conference": "NDSS"
     }
 }
