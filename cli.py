@@ -39,6 +39,12 @@ def main():
     opts = parser.parse_args()
     papers = loadJson()
 
+    '''
+    # when need add new tag
+    for i in papers:
+        papers[i]['org'] = '' # or []
+    '''
+
     if opts.search:
         keyword = opts.search
         for i in papers:
@@ -51,12 +57,14 @@ def main():
         nindex = len(papers) + 1
         title = input('title?')
         author = input('author (split with ",")?')
+        org = input('organization?')
         tag = input('tag (split with "-")?')
         date = input('date?')
         conference = input('conference?')
         newpaper = {}
         newpaper["title"] = title
         newpaper["author"] = author
+        newpaper["org"] = org
         newpaper["date"] = date
         newpaper["tag"] = tag.split('-')
         newpaper["conference"] = conference
