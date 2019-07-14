@@ -39,35 +39,36 @@ def main():
     opts = parser.parse_args()
     papers = loadJson()
 
-    '''
     # when need add new tag
     for i in papers:
-        papers[i]['org'] = '' # or []
-    '''
+        papers[i]['Reading Notes'] = []
+        papers[i]['Slides'] = ''
+        papers[i]['Code'] = ''
+        # papers[i]['new keyword'] = '' # or []
 
     if opts.search:
         keyword = opts.search
         for i in papers:
             p = papers[i]
-            if keyword in p['title'].lower():
+            if keyword in p['Title'].lower():
                 print(beautify(json.dumps(p)))
-            elif keyword in p['tag']:
+            elif keyword in p['Tag']:
                 print(beautify(json.dumps(p)))
     elif opts.add:
         nindex = len(papers) + 1
-        title = input('title?')
-        author = input('author (split with ",")?')
-        org = input('organization?')
-        tag = input('tag (split with "-")?')
-        date = input('date?')
-        conference = input('conference?')
+        title = input('Title?')
+        author = input('Author (split with ",")?')
+        org = input('Organization?')
+        tag = input('Tag (split with "-")?')
+        date = input('Date?')
+        conference = input('Conference?')
         newpaper = {}
-        newpaper["title"] = title
-        newpaper["author"] = author
-        newpaper["org"] = org
-        newpaper["date"] = date
-        newpaper["tag"] = tag.split('-')
-        newpaper["conference"] = conference
+        newpaper["Title"] = title
+        newpaper["Author"] = author
+        newpaper["Org"] = org
+        newpaper["Date"] = date
+        newpaper["Tag"] = tag.split('-')
+        newpaper["Conference"] = conference
         papers[nindex] = newpaper
         print('add', newpaper)
         dumpJson(papers)
