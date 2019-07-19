@@ -1,7 +1,7 @@
 # ACM
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | Automatic exploit generation |  |  |  | Fuzz |
 | evaluating fuzz testing |  |  |  | Fuzz |
 | Predicting vulnerable software components |  |  |  | Fuzz |
@@ -12,7 +12,7 @@
 # Arxiv
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | Adaptive Grey-Box Fuzz-Testing with Thompson Sampling |  |  |  | Fuzz |
 | Attention Is All You Need |  |  |  | Fuzz |
 | Deep Reinforcement Fuzzing |  |  |  | Fuzz |
@@ -30,7 +30,7 @@
 # AsiaCCS
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | Practical Side-Channel Attacks against WPA-TKIP | Domien Schepers |  | 2019 | Wi Fi |
 | ScriptProtect: Mitigating UnsafeThird-Party JavaScript Practices | Marius Musch | TU Braunschweig | 2019 | XSS |
 | A Feature-Oriented Corpus for Understanding, Evaluating and Improving Fuzz Testing | Xiaogang Zhu | Swinburne University of Technology | 2019 | Fuzzing |
@@ -39,7 +39,7 @@
 # Blackhat
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | Dont Trust The DOM Bypassing XSS Mitigations Via Script Gadgets |  |  |  | Web |
 | Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing |  |  |  | Fuzz |
 | HEIST HTTP Encrypted Information Can Be Stolen Through TCP Windows |  |  | 2016 | HTTPS Side-Channel |
@@ -52,14 +52,14 @@
 # Blog
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | Edge Type Confusion 利用 |  |  |  |  |
 | IDN Visual Security Deep Thinking |  |  | 2019 | IDN |
 
 # CCS
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | 25 Million flows later - Large-scale detection of DOM-based XSS |  |  | 2013 |  |
 | Block Oriented Programming Automating Data-Only Attacks |  |  |  | Exploit |
 | Code-Reuse Attacks for the Web Breaking Cross-Site Scripting Mitigations via Script Gadgets |  |  | 2017 | Web XSS |
@@ -82,14 +82,14 @@
 # Defcon
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | Analysis of Mutation and Generation Based Fuzzing |  |  |  | Fuzz |
 | defcon 22 geoff mcdonald meddle framework updated |  |  |  | Fuzz |
 
 # HITB
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | CLOSING KEYNOTE   Natalie Silvanovich   The ECMA and The Chakra |  |  |  | Fuzz |
 | The Secret of ChakraCore |  |  |  |  |
 | From Out of Memory to Remote Code Execution Yuki Chen PacSec2017 final |  |  |  | Fuzz |
@@ -97,7 +97,7 @@
 # IEEE
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | Browser Fuzzing by Scheduled Mutation and Generation of Document Object Models |  |  |  | Fuzz |
 | CollAFL Path Sensitive Fuzzing |  |  |  | Fuzz |
 | End User and Administrator Mental Models of HTTPS |  |  | 2019 | Web |
@@ -117,7 +117,7 @@
 # IEEE S&P
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | HVLearn: Automated black-box analysis of hostname verification in SSL/TLS implementations | Sivakorn |  | 2017 | Fuzz |
 | The Limitations of Deep Learning in Adversarial Settings | Nicolas Papernot |  | 2016 | GAN Machine Learning |
 | SAVIOR: Towards Bug-Driven Hybrid Testing |  |  | 2020 | Fuzz Hybrid |
@@ -126,19 +126,19 @@
 # IEEE-ACM
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | Learn&Fuzz: Machine Learning for Input Fuzzing | Godefroid |  | 2017 | Fuzz |
 
 # MS
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | neural fuzzing mcr |  |  |  | Fuzz |
 
 # Misc
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | browser ui security whitepaper |  |  |  | Fuzz |
 | Critical Vulnerability in Browser Security Metrics |  |  |  | Fuzz |
 | cure53 browser security whitepaper |  |  |  | Fuzz |
@@ -152,7 +152,7 @@
 # NDSS
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | Don’t Trust The Locals: Investigating the Prevalence of Persistent Client-Side Cross-Site Scripting in the Wild |  |  | 2019 | XSS |
 | NAUTILUS:Fishing for Deep Bugs with Grammars |  |  | 2019 | Fuzz Browser |
 | Neural Machine Translation Inspired Binary Code Similarity Comparison beyond Function Pairs |  |  | 2019 | NLP Binary |
@@ -163,7 +163,7 @@
 # Offensive
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | Attacking Edge Through the JavaScript Compiler |  |  | 2019 | Exploit |
 | Chrome IPC Exploitation |  |  | 2019 | Exploit |
 | Coverage-Guided USB Fuzzing with Syzkaller |  |  | 2019 | Fuzz |
@@ -173,7 +173,7 @@
 # PPT
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | 1day browser exploitaion |  |  |  | Fuzz |
 | Blink Rendering |  |  |  | Fuzz |
 | BrowserFuzzing |  |  | 2014 |  |
@@ -187,21 +187,21 @@
 # SIGPLAN
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | Parser-Directed Fuzzing |  |  | 2019 | Fuzz |
 | Synthesizing program input grammars | Osbert Bastani |  | 2017 | Fuzz |
 
 # Secwest
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | Chakra vulnerability and exploit bypass all system mitigation |  |  |  |  |
 | Shellcodes are for the 99% |  |  |  | Fuzz |
 
 # Usenix
 
 | Title | Author | Organization | Year | Keywords |
-| --- |--- |--- |--- |
+| --- | --- | --- | --- |
 | An Empirical Analysis of Single Sign-On Account Hijacking and Session Management on the Web |  |  | 2019 | Web, SSO |
 | An Empirical Study of CORS |  |  | 2018 | CORS |
 | Author Attribute Anonymity by Adversarial Training of Neural Machine Translation |  |  |  |  |

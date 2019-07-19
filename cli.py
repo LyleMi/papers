@@ -40,7 +40,7 @@ def genReadme(papers):
                 'Title', 'Author', 'Organization', 'Year', 'Keywords'
             ])
             s += ' |\n'
-            s += '| ' + '--- |' * 4 + '\n'
+            s += '|' + ' --- |' * 4 + '\n'
             for p in pc[c]:
                 s += '| '
                 s += ' | '.join([
