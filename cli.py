@@ -20,9 +20,39 @@ def dumpJson(papers):
         fp.write(beautify(json.dumps(papers)))
 
 
-def genReadme():
-    pass
+def genReadme(papers):
+    pc = {}
+    conferences = set()
+    for p in papers:
+        if papers[p]['Conference'] not in pc:
+            pc[papers[p]['Conference']] = []
+        conferences.add(papers[p]['Conference'])
+        pc[papers[p]['Conference']].append(papers[p])
+    conferences = list(conferences)
+    conferences.sort()
 
+    with open('README.md', 'wb') as fh:
+        for c in conferences:
+            s = ''
+            s += '# ' + c + '\n\n'
+            s += '| '
+            s += ' | '.join([
+                'Title', 'Author', 'Organization', 'Year', 'Keywords'
+            ])
+            s += ' |\n'
+            s += '| ' + '--- |' * 4 + '\n'
+            for p in pc[c]:
+                s += '| '
+                s += ' | '.join([
+                    p['Title'],
+                    p['Author'],
+                    p['Org'],
+                    p['Date'],
+                    ' '.join(p['Tag'])
+                ])
+                s += ' |\n'
+            s += '\n'
+            fh.write(s.encode('utf-8'))
 
 def main():
     parser = argparse.ArgumentParser(
@@ -36,15 +66,17 @@ def main():
         '-s', '--search', metavar='search', default='',
         help='search keyword'
     )
+    parser.add_argument(
+        '-g', '--gen', action="store_true", help='gen README'
+    )
     opts = parser.parse_args()
     papers = loadJson()
 
+    '''
     # when need add new tag
     for i in papers:
-        papers[i]['Reading Notes'] = []
-        papers[i]['Slides'] = ''
-        papers[i]['Code'] = ''
-        # papers[i]['new keyword'] = '' # or []
+        # papers[i]['NewKeyword'] = '' # or []
+    '''
 
     if opts.search:
         keyword = opts.search
@@ -72,6 +104,8 @@ def main():
         papers[nindex] = newpaper
         print('add', newpaper)
         dumpJson(papers)
+    elif opts.gen:
+        genReadme(papers)
     else:
         parser.print_help()
 
