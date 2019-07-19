@@ -104,6 +104,7 @@ def main():
         papers[nindex] = newpaper
         print('add', newpaper)
         dumpJson(papers)
+        genReadme(papers)
     elif opts.gen:
         genReadme(papers)
     else:

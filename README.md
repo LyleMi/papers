@@ -94,6 +94,15 @@
 | The Secret of ChakraCore |  |  |  |  |
 | From Out of Memory to Remote Code Execution Yuki Chen PacSec2017 final |  |  |  | Fuzz |
 
+# ICSE
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Superion Grammar-Aware Greybox Fuzzing | Junjie Wang | Fudan University | 2019 | Fuzz AST |
+| DifFuzz Differential Fuzzing for Side-Channel Analysis | Shirin Nilizadeh | uta.edu | 2019 | Differential Fuzz |
+| REST-ler: Automatic Intelligent REST API Fuzzing | Vaggelis Atlidakis | Columbia University | 2019 | Fuzz Web RESTful |
+| SLF: Fuzzing without Valid Seed Inputs | Wei You | Purdue University | 2019 | Fuzz |
+
 # IEEE
 
 | Title | Author | Organization | Year | Keywords |
@@ -109,7 +118,6 @@
 | RAZZER Finding Kernel Race Bugs through Fuzzing |  |  | 2019 | Fuzz Kernel Race |
 | Research on Android browser fuzzing based on bitmap structure |  |  |  | Fuzz |
 | Resident Evil Understanding Residential IP Proxy as a Dark Service |  |  | 2019 | 生态 |
-| Skyfire Data Driven Seed Generation for Fuzzing |  |  |  | Fuzz |
 | Software Crash Analysis for Automatic Exploit Generation by Modeling Attacks as Symbolic Continuations |  |  |  | Fuzz |
 | Violating Assumptions with Fuzzing |  |  |  | Fuzz |
 | Angora: Efficient Fuzzing by Principled Search | Peng Chen |  | 2018 | Fuzz |
@@ -118,10 +126,12 @@
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| Skyfire Data Driven Seed Generation for Fuzzing |  |  |  | Fuzz |
 | HVLearn: Automated black-box analysis of hostname verification in SSL/TLS implementations | Sivakorn |  | 2017 | Fuzz |
 | The Limitations of Deep Learning in Adversarial Settings | Nicolas Papernot |  | 2016 | GAN Machine Learning |
 | SAVIOR: Towards Bug-Driven Hybrid Testing |  |  | 2020 | Fuzz Hybrid |
 | SAVIOR: Towards Bug-Driven Hybrid Testing |  |  | 2020 |  |
+| NEZHA: Efficient Domain-Independent Differential Testing |  |  | 2017 | Fuzz Differential |
 
 # IEEE-ACM
 
@@ -159,6 +169,7 @@
 | VulDeePecker |  |  |  |  |
 | Synode: Understanding and Automatically Preventing Injection Attacks on Node.js | SOLA |  | 2019 | Web Auomatica |
 | REDQUEEN: Fuzzing with Input-to-State Correspondence | Cornelius Aschermann,Sergej Schumilo,Tim Blazytko,Robert Gawlik and Thorsten Holz |  | 2019 | Fuzz |
+| VUzzer Application-aware Evolutionary Fuzzing | Sanjay Rawat |  | 2017 | Fuzz |
 
 # Offensive
 
@@ -169,6 +180,13 @@
 | Coverage-Guided USB Fuzzing with Syzkaller |  |  | 2019 | Fuzz |
 | From Assembly to JavaScript and back |  |  | 2018 |  |
 | Fuzzil: Guided Fuzzing for JavaScript Engines by Samuel Groß |  |  | 2019 | Fuzz |
+
+# PLDI
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Coverage-Directed Differential Testing of JVM Implementations | Yuting Chen | SJTU | 2016 | Fuzz JVM Differential |
+| Parser-Directed Fuzzing | Mathis | cispa | 2019 | Fuzz |
 
 # PPT
 

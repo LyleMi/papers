@@ -686,7 +686,7 @@
         "Author": "",
         "Date": "",
         "Tag": ["Fuzz"],
-        "Conference": "IEEE",
+        "Conference": "IEEE S&P",
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
@@ -1433,5 +1433,69 @@
         "Date": "2020",
         "Tag": [""],
         "Conference": "IEEE S&P"
+    },
+    "132": {
+        "Title": "NEZHA: Efficient Domain-Independent Differential Testing",
+        "Author": "",
+        "Org": "",
+        "Date": "2017",
+        "Tag": ["Fuzz", "Differential"],
+        "Conference": "IEEE S&P"
+    },
+    "133": {
+        "Title": "Coverage-Directed Differential Testing of JVM Implementations",
+        "Author": "Yuting Chen",
+        "Org": "SJTU",
+        "Date": "2016",
+        "Tag": ["Fuzz", "JVM", "Differential"],
+        "Conference": "PLDI"
+    },
+    "134": {
+        "Title": "Superion Grammar-Aware Greybox Fuzzing",
+        "Author": "Junjie Wang",
+        "Org": "Fudan University",
+        "Date": "2019",
+        "Tag": ["Fuzz", "AST"],
+        "Conference": "ICSE"
+    },
+    "135": {
+        "Title": "DifFuzz Differential Fuzzing for Side-Channel Analysis",
+        "Author": "Shirin Nilizadeh",
+        "Org": "uta.edu",
+        "Date": "2019",
+        "Tag": ["Differential Fuzz"],
+        "Conference": "ICSE"
+    },
+    "136": {
+        "Title": "REST-ler: Automatic Intelligent REST API Fuzzing",
+        "Author": "Vaggelis Atlidakis",
+        "Org": "Columbia University",
+        "Date": "2019",
+        "Tag": ["Fuzz Web RESTful"],
+        "Conference": "ICSE"
+    },
+    "137": {
+        "Title": "VUzzer Application-aware Evolutionary Fuzzing",
+        "Author": "Sanjay Rawat",
+        "Org": "",
+        "Date": "2017",
+        "Tag": ["Fuzz"],
+        "Conference": "NDSS"
+    },
+    "138": {
+        "Title": "SLF: Fuzzing without Valid Seed Inputs",
+        "Author": "Wei You",
+        "Org": "Purdue University",
+        "Date": "2019",
+        "Tag": ["Fuzz"],
+        "Conference": "ICSE"
+    },
+    "139": {
+        "Title": "Parser-Directed Fuzzing",
+        "Author": "Mathis",
+        "Org": "cispa",
+        "Date": "2019",
+        "Tag": ["Fuzz"],
+        "Conference": "PLDI"
     }
 }
