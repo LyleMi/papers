@@ -48,6 +48,8 @@
 | the power of pair one template that reveals 100 plus uaf ie vulnerabilities |  |  | 2014 | Fuzz |
 | Stone Pixel Perfect Timing Attacks with HTML5 |  |  | 2013 | WebSec |
 | WebAssembly A New World of Native Exploits On The Web |  |  | 2018 | WebAssembly |
+| Battle Of Windows Service A Silver Bullet To Discover File Privilege Escalation Bugs Automatically | Wenxu Wu (@Ma7h1as) | Xuanwu Lab of Tencent | 2019 | Windows Fuzz Logic |
+| Monsters in the Middleboxes: Building Tools for Detecting HTTPS Interception | Luke Valenta | Cloudflare | 2019 | Web |
 
 # Blog
 

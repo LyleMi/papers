@@ -79,7 +79,7 @@ def main():
     '''
 
     if opts.search:
-        keyword = opts.search
+        keyword = opts.search.lower()
         for i in papers:
             p = papers[i]
             if keyword in p['Title'].lower():

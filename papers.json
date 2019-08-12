@@ -1497,5 +1497,21 @@
         "Date": "2019",
         "Tag": ["Fuzz"],
         "Conference": "PLDI"
+    },
+    "140": {
+        "Title": "Battle Of Windows Service A Silver Bullet To Discover File Privilege Escalation Bugs Automatically",
+        "Author": "Wenxu Wu (@Ma7h1as)",
+        "Org": "Xuanwu Lab of Tencent",
+        "Date": "2019",
+        "Tag": ["Windows", "Fuzz", "Logic"],
+        "Conference": "Blackhat"
+    },
+    "141": {
+        "Title": "Monsters in the Middleboxes: Building Tools for Detecting HTTPS Interception",
+        "Author": "Luke Valenta",
+        "Org": "Cloudflare",
+        "Date": "2019",
+        "Tag": ["Web"],
+        "Conference": "Blackhat"
     }
 }
