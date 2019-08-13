@@ -50,6 +50,11 @@
 | WebAssembly A New World of Native Exploits On The Web |  |  | 2018 | WebAssembly |
 | Battle Of Windows Service A Silver Bullet To Discover File Privilege Escalation Bugs Automatically | Wenxu Wu (@Ma7h1as) | Xuanwu Lab of Tencent | 2019 | Windows Fuzz Logic |
 | Monsters in the Middleboxes: Building Tools for Detecting HTTPS Interception | Luke Valenta | Cloudflare | 2019 | Web |
+| Munoz SSO Wars The Token Menace | Alvaro Munoz |  | 2019 | Web Auth SAML |
+| Attacking And Defending The Microsoft Cloud | Sean Metcalf |  | 2019 | Web |
+| Dragonblood: Attacking the Dragonfly Handshake of WPA3 | Mathy Vanhoef | New York University Abu Dhabi | 2019 | Wifi |
+| All the 4G Modules Could be Hacked | Shupeng Gao | Baidu Security Lab | 2019 | 4G IoT |
+| HTTP Desync Attacks: Smashing into the Cell Next Door | James Kettle | PortSwigger Web Security | 2019 | Web |
 
 # Blog
 

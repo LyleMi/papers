@@ -1513,5 +1513,45 @@
         "Date": "2019",
         "Tag": ["Web"],
         "Conference": "Blackhat"
+    },
+    "142": {
+        "Title": "Munoz SSO Wars The Token Menace",
+        "Author": "Alvaro Munoz",
+        "Org": "",
+        "Date": "2019",
+        "Tag": ["Web", "Auth", "SAML"],
+        "Conference": "Blackhat"
+    },
+    "143": {
+        "Title": "Attacking And Defending The Microsoft Cloud",
+        "Author": "Sean Metcalf",
+        "Org": "",
+        "Date": "2019",
+        "Tag": ["Web"],
+        "Conference": "Blackhat"
+    },
+    "144": {
+        "Title": "Dragonblood: Attacking the Dragonfly Handshake of WPA3",
+        "Author": "Mathy Vanhoef",
+        "Org": "New York University Abu Dhabi",
+        "Date": "2019",
+        "Tag": ["Wifi"],
+        "Conference": "Blackhat"
+    },
+    "145": {
+        "Title": "All the 4G Modules Could be Hacked",
+        "Author": "Shupeng Gao",
+        "Org": "Baidu Security Lab",
+        "Date": "2019",
+        "Tag": ["4G", "IoT"],
+        "Conference": "Blackhat"
+    },
+    "146": {
+        "Title": "HTTP Desync Attacks: Smashing into the Cell Next Door",
+        "Author": "James Kettle",
+        "Org": "PortSwigger Web Security",
+        "Date": "2019",
+        "Tag": ["Web"],
+        "Conference": "Blackhat"
     }
 }
