@@ -8,7 +8,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "2": {
         "Title": "evaluating fuzz testing",
@@ -19,7 +21,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "3": {
         "Title": "Predicting vulnerable software components",
@@ -30,7 +34,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "4": {
         "Title": "Scheduling Black-box Mutational Fuzzing",
@@ -41,7 +47,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "5": {
         "Title": "Symbolic execution for software testing three decades later",
@@ -52,7 +60,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "6": {
         "Title": "Adaptive Grey-Box Fuzz-Testing with Thompson Sampling",
@@ -63,7 +73,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "7": {
         "Title": "Attention Is All You Need",
@@ -74,7 +86,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "8": {
         "Title": "Deep Reinforcement Fuzzing",
@@ -85,7 +99,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "9": {
         "Title": "Fuzzing Art, Science and Engineering",
@@ -96,7 +112,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "10": {
         "Title": "FuzzerGym A Competitive Framework for Fuzzing",
@@ -107,7 +125,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "11": {
         "Title": "Improving Grey-Box Fuzzing by Modeling Program Behavior",
@@ -118,7 +138,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "12": {
         "Title": "Leveraging Textual Specifications for Grammar-based Fuzzing of Network Protocols",
@@ -129,7 +151,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "13": {
         "Title": "neural machine translation inspired binary code similarity comparison beyond function pairs",
@@ -140,7 +164,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "14": {
         "Title": "NEUZZ Efficient Fuzzing with Neural Program Learning",
@@ -151,7 +177,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "15": {
         "Title": "NEUZZ Efficient Fuzzing with Neural Program Smoothing",
@@ -162,7 +190,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "16": {
         "Title": "Not all bytes are equal  Neural byte sieve for fuzzing",
@@ -173,7 +203,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "17": {
         "Title": "Smart Greybox Fuzzing",
@@ -184,7 +216,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "18": {
         "Title": "TensorFuzz Debugging Neural Networks with Coverage-GUided Fuzzing",
@@ -195,7 +229,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "19": {
         "Title": "Dont Trust The DOM Bypassing XSS Mitigations Via Script Gadgets",
@@ -206,7 +242,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "20": {
         "Title": "Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing",
@@ -217,7 +255,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "21": {
         "Title": "HEIST HTTP Encrypted Information Can Be Stolen Through TCP Windows",
@@ -228,7 +268,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "22": {
         "Title": "It's A PHP Unserialization Vulnerability Jim But Not As We Know It",
@@ -239,7 +281,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "23": {
         "Title": "Molinyawe Shell On Earth From Browser To System Compromise",
@@ -250,7 +294,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "24": {
         "Title": "the power of pair one template that reveals 100 plus uaf ie vulnerabilities",
@@ -261,7 +307,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "25": {
         "Title": "Stone Pixel Perfect Timing Attacks with HTML5",
@@ -272,7 +320,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "26": {
         "Title": "WebAssembly A New World of Native Exploits On The Web",
@@ -283,7 +333,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "27": {
         "Title": "Edge Type Confusion \u5229\u7528",
@@ -294,7 +346,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "28": {
         "Title": "IDN Visual Security Deep Thinking",
@@ -305,7 +359,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "29": {
         "Title": "25 Million flows later - Large-scale detection of DOM-based XSS",
@@ -316,7 +372,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "30": {
         "Title": "Block Oriented Programming Automating Data-Only Attacks",
@@ -327,7 +385,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "31": {
         "Title": "Code-Reuse Attacks for the Web Breaking Cross-Site Scripting Mitigations via Script Gadgets",
@@ -338,7 +398,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "32": {
         "Title": "Deterministic Browser",
@@ -349,7 +411,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "33": {
         "Title": "Directed Greybox Fuzzing",
@@ -360,7 +424,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "34": {
         "Title": "Hawkeye: towards a desired directed grey box fuzzer",
@@ -371,7 +437,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "35": {
         "Title": "HyCC: Compilation of Hybrid Protocols for Practical Secure Computation",
@@ -382,7 +450,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "36": {
         "Title": "IMF Infeered Model-based Fuzzer",
@@ -393,7 +463,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "37": {
         "Title": "POISED Spotting Twitter Spam Off the Beaten Paths",
@@ -404,7 +476,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "38": {
         "Title": "Predicting Impending Exposure to Malicious Content from User Behavior",
@@ -415,7 +489,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "39": {
         "Title": "Rewriting History Changing the Archived Web from the Present",
@@ -426,7 +502,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "40": {
         "Title": "SemFuzz Semantics-based Automatic Generation of Proof-of-Concept Exploits",
@@ -437,7 +515,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "41": {
         "Title": "The TypTop System Personalized Typo-Tolerant Password Checking",
@@ -448,7 +528,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "42": {
         "Title": "Threat Intelligence Computing",
@@ -459,7 +541,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "43": {
         "Title": "Trends, challenge, and shifts in software vulnerability mitigation",
@@ -470,7 +554,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "44": {
         "Title": "Web Sixth Sense A Study of Scripts Accessing Smartphone Sensors",
@@ -481,7 +567,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "45": {
         "Title": "When Good Components Go Bad Formally Secure Compilation Despite Dynamic Compromise",
@@ -492,7 +580,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "46": {
         "Title": "Yet Another Text Captcha Solver A Generative Adversarial Network Based Approach",
@@ -503,7 +593,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "47": {
         "Title": "Analysis of Mutation and Generation Based Fuzzing",
@@ -514,7 +606,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "48": {
         "Title": "defcon 22 geoff mcdonald meddle framework updated",
@@ -525,7 +619,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "49": {
         "Title": "CLOSING KEYNOTE   Natalie Silvanovich   The ECMA and The Chakra",
@@ -536,7 +632,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "50": {
         "Title": "The Secret of ChakraCore",
@@ -547,7 +645,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "51": {
         "Title": "From Out of Memory to Remote Code Execution Yuki Chen PacSec2017 final",
@@ -558,7 +658,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "52": {
         "Title": "Browser Fuzzing by Scheduled Mutation and Generation of Document Object Models",
@@ -569,7 +671,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "53": {
         "Title": "CollAFL Path Sensitive Fuzzing",
@@ -580,7 +684,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "54": {
         "Title": "End User and Administrator Mental Models of HTTPS",
@@ -591,7 +697,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "55": {
         "Title": "Full-speed Fuzzing Reducing Fuzzing Overhead through Coverage-guided Tracing",
@@ -602,7 +710,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "56": {
         "Title": "Fuzzing File Systems via Two-Dimensional Input Space Exploration",
@@ -613,7 +723,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "57": {
         "Title": "GramFuzz: Fuzzing Testing of Web Browsers Based on Grammar Analysis and Structural Mutation",
@@ -624,7 +736,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "58": {
         "Title": "HOLMES Real-time APT Detection through Correlation of Suspicious Information Flows",
@@ -635,7 +749,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "59": {
         "Title": "ProFuzzer On-the-fly Input Type Probing for Better Zero-day Vulnerability Discovery",
@@ -646,7 +762,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "60": {
         "Title": "RAZZER Finding Kernel Race Bugs through Fuzzing",
@@ -657,7 +775,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "61": {
         "Title": "Research on Android browser fuzzing based on bitmap structure",
@@ -668,7 +788,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "62": {
         "Title": "Resident Evil Understanding Residential IP Proxy as a Dark Service",
@@ -679,7 +801,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "63": {
         "Title": "Skyfire Data Driven Seed Generation for Fuzzing",
@@ -690,7 +814,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "64": {
         "Title": "Software Crash Analysis for Automatic Exploit Generation by Modeling Attacks as Symbolic Continuations",
@@ -701,7 +827,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "65": {
         "Title": "Violating Assumptions with Fuzzing",
@@ -712,7 +840,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "66": {
         "Title": "browser ui security whitepaper",
@@ -723,7 +853,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "67": {
         "Title": "Critical Vulnerability in Browser Security Metrics",
@@ -734,7 +866,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "68": {
         "Title": "cure53 browser security whitepaper",
@@ -745,7 +879,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "69": {
         "Title": "Drive by Key Extraction Cache Attacks from Portable Code",
@@ -756,7 +892,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "70": {
         "Title": "Escaping Internet Explorer Protected Mode",
@@ -767,7 +905,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "71": {
         "Title": "Fuzzing JavaScript Engine APIs",
@@ -778,7 +918,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "72": {
         "Title": "Test Harness For Web Browser Fuzz Testing",
@@ -789,7 +931,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "73": {
         "Title": "The Security Architecture of the Chromium Browser",
@@ -800,7 +944,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "74": {
         "Title": "X41 Browser Security White Paper",
@@ -811,7 +957,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "75": {
         "Title": "neural fuzzing mcr",
@@ -822,7 +970,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "76": {
         "Title": "Don\u2019t Trust The Locals: Investigating the Prevalence of Persistent Client-Side Cross-Site Scripting in the Wild",
@@ -833,7 +983,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "77": {
         "Title": "NAUTILUS:Fishing for Deep Bugs with Grammars",
@@ -844,7 +996,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "78": {
         "Title": "Neural Machine Translation Inspired Binary Code Similarity Comparison beyond Function Pairs",
@@ -855,7 +1009,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "79": {
         "Title": "VulDeePecker",
@@ -866,7 +1022,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "80": {
         "Title": "Attacking Edge Through the JavaScript Compiler",
@@ -877,7 +1035,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "81": {
         "Title": "Chrome IPC Exploitation",
@@ -888,7 +1048,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "82": {
         "Title": "Coverage-Guided USB Fuzzing with Syzkaller",
@@ -899,7 +1061,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "83": {
         "Title": "From Assembly to JavaScript and back",
@@ -910,7 +1074,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "84": {
         "Title": "Fuzzil: Guided Fuzzing for JavaScript Engines by Samuel Gro\u00df",
@@ -921,7 +1087,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "85": {
         "Title": "1day browser exploitaion",
@@ -932,7 +1100,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "86": {
         "Title": "Blink Rendering",
@@ -943,7 +1113,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "87": {
         "Title": "BrowserFuzzing",
@@ -954,7 +1126,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "88": {
         "Title": "OffensiveCon2018 From Assembly to JavaScript and back",
@@ -965,7 +1139,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "89": {
         "Title": "Taking Browsers Fuzzing to the next (DOM) Level",
@@ -976,7 +1152,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "90": {
         "Title": "the art of fuzzing slides",
@@ -987,7 +1165,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "91": {
         "Title": "ZeroNights2017 darko fuzzer",
@@ -998,7 +1178,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "92": {
         "Title": "Attacking Modern Web Technologies",
@@ -1009,7 +1191,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "93": {
         "Title": "php internals exploit dev",
@@ -1020,7 +1204,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "94": {
         "Title": "Chakra vulnerability and exploit bypass all system mitigation",
@@ -1031,7 +1217,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "95": {
         "Title": "Shellcodes are for the 99%",
@@ -1042,7 +1230,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "96": {
         "Title": "Parser-Directed Fuzzing",
@@ -1053,7 +1243,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "97": {
         "Title": "An Empirical Analysis of Single Sign-On Account Hijacking and Session Management on the Web",
@@ -1064,7 +1256,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "98": {
         "Title": "An Empirical Study of CORS",
@@ -1075,7 +1269,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "99": {
         "Title": "Author Attribute Anonymity by Adversarial Training of Neural Machine Translation",
@@ -1086,7 +1282,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "100": {
         "Title": "Automatic Generation of Data-Oriented Exploits",
@@ -1097,7 +1295,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "101": {
         "Title": "Effective Attacks and Provable Defenses for Website Fingerprinting",
@@ -1108,7 +1308,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "102": {
         "Title": "Empirical Analysis of Redirection Hijacking in Content Delivery Networks",
@@ -1119,7 +1321,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "103": {
         "Title": "Fortifying Web Protocols via Browser-Side Security Monitoring",
@@ -1130,7 +1334,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "104": {
         "Title": "Fuze",
@@ -1141,7 +1347,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "105": {
         "Title": "Fuzzing with Code Fragments",
@@ -1152,7 +1360,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "106": {
         "Title": "Generalized Transferability for Evasion and Poisoning Attacks",
@@ -1163,7 +1373,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "107": {
         "Title": "k-fingerprinting A Robust Scalable Website Fingerprinting Technique",
@@ -1174,7 +1386,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "108": {
         "Title": "MoonShine Optimizing OS Fuzzer Seed Selection with Trace Distillation",
@@ -1185,7 +1399,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "109": {
         "Title": "MOPT-Optimized Mutation Scheduling for Fuzzers",
@@ -1196,7 +1412,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "110": {
         "Title": "NAVEX Precise and Scalable Exploit Generation for Dynamic Web Applications",
@@ -1207,7 +1425,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "111": {
         "Title": "Optimizing seed selection for fuzzing",
@@ -1218,7 +1438,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "112": {
         "Title": "QSYM A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing",
@@ -1229,7 +1451,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "113": {
         "Title": "Reverse Engineering Ethereum\u2019s Opaque Smart Contracts",
@@ -1240,7 +1464,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "114": {
         "Title": "SoK Make JIT-Spray Great Again",
@@ -1251,7 +1477,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "115": {
         "Title": "Syntia: Synthesizing the Semantics of Obfuscated Code",
@@ -1262,7 +1490,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "116": {
         "Title": "Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts",
@@ -1273,7 +1503,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "117": {
         "Title": "Watermarking Deep Neural Networks by Backdooring",
@@ -1284,7 +1516,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "118": {
         "Title": "Learn&Fuzz: Machine Learning for Input Fuzzing",
@@ -1295,7 +1529,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "119": {
         "Title": "Synthesizing program input grammars",
@@ -1306,7 +1542,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "120": {
         "Title": "HVLearn: Automated black-box analysis of hostname verification in SSL/TLS implementations",
@@ -1317,7 +1555,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "121": {
         "Title": "Using Logic Programming to Recover C++ Classes and Methods from Compiled Executables",
@@ -1328,7 +1568,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "122": {
         "Title": "Angora: Efficient Fuzzing by Principled Search",
@@ -1339,7 +1581,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "123": {
         "Title": "The Limitations of Deep Learning in Adversarial Settings",
@@ -1350,7 +1594,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "124": {
         "Title": "Synode: Understanding and Automatically Preventing Injection Attacks on Node.js",
@@ -1361,7 +1607,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "125": {
         "Title": "REDQUEEN: Fuzzing with Input-to-State Correspondence",
@@ -1372,7 +1620,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "126": {
         "Title": "Practical Side-Channel Attacks against WPA-TKIP",
@@ -1383,7 +1633,9 @@
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "127": {
         "Title": "ScriptProtect: Mitigating UnsafeThird-Party JavaScript Practices",
@@ -1394,7 +1646,9 @@
         "Conference": "AsiaCCS",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "128": {
         "Title": "A Feature-Oriented Corpus for Understanding, Evaluating and Improving Fuzz Testing",
@@ -1405,7 +1659,9 @@
         "Conference": "AsiaCCS",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "129": {
         "Title": "PTrix Efficient Hardware-Assisted Fuzzing for COTS Binary",
@@ -1416,7 +1672,9 @@
         "Conference": "AsiaCCS",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "",
+        "Abstract": "",
+        "Comment": ""
     },
     "130": {
         "Title": "SAVIOR: Towards Bug-Driven Hybrid Testing",
@@ -1424,7 +1682,10 @@
         "Org": "",
         "Date": "2020",
         "Tag": ["Fuzz", "Hybrid"],
-        "Conference": "IEEE S&P"
+        "Conference": "IEEE S&P",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "131": {
         "Title": "SAVIOR: Towards Bug-Driven Hybrid Testing",
@@ -1432,7 +1693,10 @@
         "Org": "",
         "Date": "2020",
         "Tag": [""],
-        "Conference": "IEEE S&P"
+        "Conference": "IEEE S&P",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "132": {
         "Title": "NEZHA: Efficient Domain-Independent Differential Testing",
@@ -1440,7 +1704,10 @@
         "Org": "",
         "Date": "2017",
         "Tag": ["Fuzz", "Differential"],
-        "Conference": "IEEE S&P"
+        "Conference": "IEEE S&P",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "133": {
         "Title": "Coverage-Directed Differential Testing of JVM Implementations",
@@ -1448,7 +1715,10 @@
         "Org": "SJTU",
         "Date": "2016",
         "Tag": ["Fuzz", "JVM", "Differential"],
-        "Conference": "PLDI"
+        "Conference": "PLDI",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "134": {
         "Title": "Superion Grammar-Aware Greybox Fuzzing",
@@ -1456,7 +1726,10 @@
         "Org": "Fudan University",
         "Date": "2019",
         "Tag": ["Fuzz", "AST"],
-        "Conference": "ICSE"
+        "Conference": "ICSE",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "135": {
         "Title": "DifFuzz Differential Fuzzing for Side-Channel Analysis",
@@ -1464,7 +1737,10 @@
         "Org": "uta.edu",
         "Date": "2019",
         "Tag": ["Differential Fuzz"],
-        "Conference": "ICSE"
+        "Conference": "ICSE",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "136": {
         "Title": "REST-ler: Automatic Intelligent REST API Fuzzing",
@@ -1472,7 +1748,10 @@
         "Org": "Columbia University",
         "Date": "2019",
         "Tag": ["Fuzz Web RESTful"],
-        "Conference": "ICSE"
+        "Conference": "ICSE",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "137": {
         "Title": "VUzzer Application-aware Evolutionary Fuzzing",
@@ -1480,7 +1759,10 @@
         "Org": "",
         "Date": "2017",
         "Tag": ["Fuzz"],
-        "Conference": "NDSS"
+        "Conference": "NDSS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "138": {
         "Title": "SLF: Fuzzing without Valid Seed Inputs",
@@ -1488,7 +1770,10 @@
         "Org": "Purdue University",
         "Date": "2019",
         "Tag": ["Fuzz"],
-        "Conference": "ICSE"
+        "Conference": "ICSE",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "139": {
         "Title": "Parser-Directed Fuzzing",
@@ -1496,7 +1781,10 @@
         "Org": "cispa",
         "Date": "2019",
         "Tag": ["Fuzz"],
-        "Conference": "PLDI"
+        "Conference": "PLDI",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "140": {
         "Title": "Battle Of Windows Service A Silver Bullet To Discover File Privilege Escalation Bugs Automatically",
@@ -1504,7 +1792,10 @@
         "Org": "Xuanwu Lab of Tencent",
         "Date": "2019",
         "Tag": ["Windows", "Fuzz", "Logic"],
-        "Conference": "Blackhat"
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "141": {
         "Title": "Monsters in the Middleboxes: Building Tools for Detecting HTTPS Interception",
@@ -1512,7 +1803,10 @@
         "Org": "Cloudflare",
         "Date": "2019",
         "Tag": ["Web"],
-        "Conference": "Blackhat"
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "142": {
         "Title": "Munoz SSO Wars The Token Menace",
@@ -1520,7 +1814,10 @@
         "Org": "",
         "Date": "2019",
         "Tag": ["Web", "Auth", "SAML"],
-        "Conference": "Blackhat"
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "143": {
         "Title": "Attacking And Defending The Microsoft Cloud",
@@ -1528,7 +1825,10 @@
         "Org": "",
         "Date": "2019",
         "Tag": ["Web"],
-        "Conference": "Blackhat"
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "144": {
         "Title": "Dragonblood: Attacking the Dragonfly Handshake of WPA3",
@@ -1536,7 +1836,10 @@
         "Org": "New York University Abu Dhabi",
         "Date": "2019",
         "Tag": ["Wifi"],
-        "Conference": "Blackhat"
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "145": {
         "Title": "All the 4G Modules Could be Hacked",
@@ -1544,7 +1847,10 @@
         "Org": "Baidu Security Lab",
         "Date": "2019",
         "Tag": ["4G", "IoT"],
-        "Conference": "Blackhat"
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
     },
     "146": {
         "Title": "HTTP Desync Attacks: Smashing into the Cell Next Door",
@@ -1552,6 +1858,120 @@
         "Org": "PortSwigger Web Security",
         "Date": "2019",
         "Tag": ["Web"],
-        "Conference": "Blackhat"
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
+    },
+    "147": {
+        "Title": "I'm Unique, Just Like You: Human Side-Channels and Their Implications for Security and Privacy",
+        "Author": "Matt Wixey",
+        "Org": "PwC",
+        "Date": "2019",
+        "Tag": ["Social Engineering"],
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
+    },
+    "148": {
+        "Title": "Infiltrating Corporate Intranet Like NSA - Pre-auth RCE on Leading SSL VPNs",
+        "Author": "Orange Tsai",
+        "Org": "DEVCORE",
+        "Date": "2019",
+        "Tag": ["Web"],
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
+    },
+    "149": {
+        "Title": "Attack Surface as a Service",
+        "Author": "Anna Westelius",
+        "Org": "Arkose Labs",
+        "Date": "2019",
+        "Tag": ["PPT"],
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": ""
+    },
+    "150": {
+        "Title": "The Enemy Within: Modern Supply Chain Attacks",
+        "Author": "Eric Doerr",
+        "Org": "MSRC",
+        "Date": "2019",
+        "Tag": ["Supply Chain"],
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "151": {
+        "Title": "API-Induced SSRF: How Apple Pay Scattered Vulnerabilities Across the Web",
+        "Author": "Joshua Maddux",
+        "Org": "PKC Security",
+        "Date": "2019",
+        "Tag": ["Web", "SSRF", "API"],
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "152": {
+        "Title": "DevSecOps : What, Why and How",
+        "Author": "Anant Shrivastava",
+        "Org": "NotSoSecure",
+        "Date": "2019",
+        "Tag": ["DevSecOps"],
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "153": {
+        "Title": "0-days & Mitigations: Roadways to Exploit and Secure Connected BMW Cars",
+        "Author": "Zhiqiang Cai",
+        "Org": "KeenLab",
+        "Date": "2019",
+        "Tag": ["Car"],
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "154": {
+        "Title": "Exploiting Qualcomm WLAN and Modem Over The Air",
+        "Author": "Xiling Gong",
+        "Org": "Tencent Blade Team",
+        "Date": "2019",
+        "Tag": ["WLAN"],
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "155": {
+        "Title": "Practical Approach to Automate the Discovery and Eradication of Open-Source Software Vulnerabilities at Scale",
+        "Author": "Aladdin Almubayed",
+        "Org": "Netflix",
+        "Date": "2019",
+        "Tag": ["Supply Chain"],
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

@@ -76,6 +76,14 @@ def main():
     # when need add new tag
     for i in papers:
         # papers[i]['NewKeyword'] = '' # or []
+        papers[i]['Abstract'] = '' # or []
+        papers[i]['Comment'] = '' # or []
+        if 'Reading Notes' not in papers[i]:
+            papers[i]['Reading Notes'] = []
+        if 'Slides' not in papers[i]:
+            papers[i]['Reading Notes'] = ''
+        if 'Code' not in papers[i]:
+            papers[i]['Reading Notes'] = ''
     '''
 
     if opts.search:
@@ -88,19 +96,24 @@ def main():
                 print(beautify(json.dumps(p)))
     elif opts.add:
         nindex = len(papers) + 1
-        title = input('Title?')
+        title = input('Title?').strip()
         author = input('Author (split with ",")?')
-        org = input('Organization?')
+        org = input('Organization?').strip()
         tag = input('Tag (split with "-")?')
-        date = input('Date?')
-        conference = input('Conference?')
+        date = input('Date?').strip()
+        conference = input('Conference?').strip()
         newpaper = {}
-        newpaper["Title"] = title
-        newpaper["Author"] = author
-        newpaper["Org"] = org
-        newpaper["Date"] = date
-        newpaper["Tag"] = tag.split('-')
-        newpaper["Conference"] = conference
+        newpaper['Title'] = title
+        newpaper['Author'] = author
+        newpaper['Org'] = org
+        newpaper['Date'] = date
+        newpaper['Tag'] = tag.split('-')
+        newpaper['Conference'] = conference
+        newpaper['Abstract'] = ''
+        newpaper['Comment'] = ''
+        newpaper['Reading Notes'] = []
+        newpaper['Slides'] = ''
+        newpaper['Code'] = ''
         papers[nindex] = newpaper
         print('add', newpaper)
         dumpJson(papers)

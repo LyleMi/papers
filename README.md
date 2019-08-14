@@ -55,6 +55,15 @@
 | Dragonblood: Attacking the Dragonfly Handshake of WPA3 | Mathy Vanhoef | New York University Abu Dhabi | 2019 | Wifi |
 | All the 4G Modules Could be Hacked | Shupeng Gao | Baidu Security Lab | 2019 | 4G IoT |
 | HTTP Desync Attacks: Smashing into the Cell Next Door | James Kettle | PortSwigger Web Security | 2019 | Web |
+| I'm Unique, Just Like You: Human Side-Channels and Their Implications for Security and Privacy | Matt Wixey | PwC | 2019 | Social Engineering |
+| Infiltrating Corporate Intranet Like NSA - Pre-auth RCE on Leading SSL VPNs | Orange Tsai | DEVCORE | 2019 | Web |
+| Attack Surface as a Service | Anna Westelius | Arkose Labs | 2019 | PPT |
+| The Enemy Within: Modern Supply Chain Attacks | Eric Doerr | MSRC | 2019 | Supply Chain |
+| API-Induced SSRF: How Apple Pay Scattered Vulnerabilities Across the Web | Joshua Maddux | PKC Security | 2019 | Web SSRF API |
+| DevSecOps : What, Why and How | Anant Shrivastava | NotSoSecure | 2019 | DevSecOps |
+| 0-days & Mitigations: Roadways to Exploit and Secure Connected BMW Cars | Zhiqiang Cai | KeenLab | 2019 | Car |
+| Exploiting Qualcomm WLAN and Modem Over The Air | Xiling Gong | Tencent Blade Team | 2019 | WLAN |
+| Practical Approach to Automate the Discovery and Eradication of Open-Source Software Vulnerabilities at Scale | Aladdin Almubayed | Netflix | 2019 | Supply Chain |
 
 # Blog
 
