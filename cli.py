@@ -90,9 +90,7 @@ def main():
         keyword = opts.search.lower()
         for i in papers:
             p = papers[i]
-            if keyword in p['Title'].lower():
-                print(beautify(json.dumps(p)))
-            elif keyword in p['Tag']:
+            if keyword in (json.dumps(p)).lower():
                 print(beautify(json.dumps(p)))
     elif opts.add:
         nindex = len(papers) + 1

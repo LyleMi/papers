@@ -1973,5 +1973,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "156": {
+        "Title": "Locate Then Detect\uff1aWeb Attack Detection via Attention-based Deep Neural Networks",
+        "Author": "Tianlong Liu,Jianan Yan",
+        "Org": "Ali",
+        "Date": "2019",
+        "Tag": ["Web", "Machine Learning", "WAF"],
+        "Conference": "IJCAI",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "157": {
+        "Title": "HostSplit: Exploitable Antipatterns in Unicode Normalization",
+        "Author": "Jonathan Birch",
+        "Org": "Microsoft",
+        "Date": "2019",
+        "Tag": ["IDN"],
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

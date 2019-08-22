@@ -64,6 +64,7 @@
 | 0-days & Mitigations: Roadways to Exploit and Secure Connected BMW Cars | Zhiqiang Cai | KeenLab | 2019 | Car |
 | Exploiting Qualcomm WLAN and Modem Over The Air | Xiling Gong | Tencent Blade Team | 2019 | WLAN |
 | Practical Approach to Automate the Discovery and Eradication of Open-Source Software Vulnerabilities at Scale | Aladdin Almubayed | Netflix | 2019 | Supply Chain |
+| HostSplit: Exploitable Antipatterns in Unicode Normalization | Jonathan Birch | Microsoft | 2019 | IDN |
 
 # Blog
 
@@ -154,6 +155,12 @@
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Learn&Fuzz: Machine Learning for Input Fuzzing | Godefroid |  | 2017 | Fuzz |
+
+# IJCAI
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Locate Then Detect：Web Attack Detection via Attention-based Deep Neural Networks | Tianlong Liu,Jianan Yan | Ali | 2019 | Web Machine Learning WAF |
 
 # MS
 
