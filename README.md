@@ -193,6 +193,7 @@
 | Synode: Understanding and Automatically Preventing Injection Attacks on Node.js | SOLA |  | 2019 | Web Auomatica |
 | REDQUEEN: Fuzzing with Input-to-State Correspondence | Cornelius Aschermann,Sergej Schumilo,Tim Blazytko,Robert Gawlik and Thorsten Holz |  | 2019 | Fuzz |
 | VUzzer Application-aware Evolutionary Fuzzing | Sanjay Rawat |  | 2017 | Fuzz |
+| IOTFUZZER: Discovering Memory Corruptions in IoT Through App-based Fuzzing | Jiongyi Chen | The Chinese University of Hong Kong | 2019 | IoT Fuzz |
 
 # Offensive
 
@@ -264,4 +265,5 @@
 | Syntia: Synthesizing the Semantics of Obfuscated Code |  |  | 2017 | Obfuscate |
 | Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts |  |  |  |  |
 | Watermarking Deep Neural Networks by Backdooring |  |  | 2018 | Deep Learning |
+| Discovering and Understanding the Security Hazards in the Interactions between IoT Devices, Mobile Apps, and Clouds on Smart Home Platforms | Wei Zhou | IIE | 2019 | IoT |
 

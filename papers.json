@@ -1999,5 +1999,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "158": {
+        "Title": "Discovering and Understanding the Security Hazards in the Interactions between IoT Devices, Mobile Apps, and Clouds on Smart Home Platforms",
+        "Author": "Wei Zhou",
+        "Org": "IIE",
+        "Date": "2019",
+        "Tag": ["IoT"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "159": {
+        "Title": "IOTFUZZER: Discovering Memory Corruptions in IoT Through App-based Fuzzing",
+        "Author": "Jiongyi Chen",
+        "Org": "The Chinese University of Hong Kong",
+        "Date": "2019",
+        "Tag": ["IoT", "Fuzz"],
+        "Conference": "NDSS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
