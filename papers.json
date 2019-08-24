@@ -2025,5 +2025,18 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "160": {
+        "Title": "Towards Automated Dynamic Analysis for Linux-based Embedded Firmware",
+        "Author": "Daming D. Chen",
+        "Org": "CMU",
+        "Date": "2016",
+        "Tag": ["Firmware"],
+        "Conference": "NDSS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

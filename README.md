@@ -194,6 +194,7 @@
 | REDQUEEN: Fuzzing with Input-to-State Correspondence | Cornelius Aschermann,Sergej Schumilo,Tim Blazytko,Robert Gawlik and Thorsten Holz |  | 2019 | Fuzz |
 | VUzzer Application-aware Evolutionary Fuzzing | Sanjay Rawat |  | 2017 | Fuzz |
 | IOTFUZZER: Discovering Memory Corruptions in IoT Through App-based Fuzzing | Jiongyi Chen | The Chinese University of Hong Kong | 2019 | IoT Fuzz |
+| Towards Automated Dynamic Analysis for Linux-based Embedded Firmware | Daming D. Chen | CMU | 2016 | Firmware |
 
 # Offensive
 
