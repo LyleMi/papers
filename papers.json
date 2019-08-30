@@ -2038,5 +2038,18 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "161": {
+        "Title": "Stealing Machine Learning Models via Prediction APIs",
+        "Author": "Florian Tramer",
+        "Org": "",
+        "Date": "2016",
+        "Tag": ["Model Stealing"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

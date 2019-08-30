@@ -267,4 +267,5 @@
 | Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts |  |  |  |  |
 | Watermarking Deep Neural Networks by Backdooring |  |  | 2018 | Deep Learning |
 | Discovering and Understanding the Security Hazards in the Interactions between IoT Devices, Mobile Apps, and Clouds on Smart Home Platforms | Wei Zhou | IIE | 2019 | IoT |
+| Stealing Machine Learning Models via Prediction APIs | Florian Tramer |  | 2016 | Model Stealing |
 
