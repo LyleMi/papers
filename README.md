@@ -110,6 +110,7 @@
 | CLOSING KEYNOTE   Natalie Silvanovich   The ECMA and The Chakra |  |  |  | Fuzz |
 | The Secret of ChakraCore |  |  |  |  |
 | From Out of Memory to Remote Code Execution Yuki Chen PacSec2017 final |  |  |  | Fuzz |
+| Static Code Analysis Recognition Evasion | Andreas Wiegenstein | AP Cyber Security | 2019 | Code Analysis |
 
 # ICSE
 

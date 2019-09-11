@@ -2051,5 +2051,18 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "162": {
+        "Title": "Static Code Analysis Recognition Evasion",
+        "Author": "Andreas Wiegenstein",
+        "Org": "AP Cyber Security",
+        "Date": "2019",
+        "Tag": ["Code Analysis"],
+        "Conference": "HITB",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
