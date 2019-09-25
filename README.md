@@ -96,6 +96,12 @@
 | When Good Components Go Bad Formally Secure Compilation Despite Dynamic Compromise |  |  |  |  |
 | Yet Another Text Captcha Solver A Generative Adversarial Network Based Approach |  |  |  |  |
 
+# DEFCON
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Firmware slap: automating discovery of exploitable vulnerabilities in firmware | Christopher roberts |  | 2019 | Firmware |
+
 # Defcon
 
 | Title | Author | Organization | Year | Keywords |
@@ -150,6 +156,7 @@
 | SAVIOR: Towards Bug-Driven Hybrid Testing |  |  | 2020 | Fuzz Hybrid |
 | SAVIOR: Towards Bug-Driven Hybrid Testing |  |  | 2020 |  |
 | NEZHA: Efficient Domain-Independent Differential Testing |  |  | 2017 | Fuzz Differential |
+| (State of) The Art of War: Offensive Techniques in Binary Analysis | Yan Shoshitaishvili | UCSB | 2016 | Angr Binary Analysis |
 
 # IEEE-ACM
 
@@ -196,6 +203,25 @@
 | VUzzer Application-aware Evolutionary Fuzzing | Sanjay Rawat |  | 2017 | Fuzz |
 | IOTFUZZER: Discovering Memory Corruptions in IoT Through App-based Fuzzing | Jiongyi Chen | The Chinese University of Hong Kong | 2019 | IoT Fuzz |
 | Towards Automated Dynamic Analysis for Linux-based Embedded Firmware | Daming D. Chen | CMU | 2016 | Firmware |
+| BadBluetooth Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals | Fenghao Xu | The Chinese University of Hong Kong | 2019 | Bluetooth |
+| Driller: Augmenting Fuzzing Through Selective Symbolic Execution | Nick Stephens, John Grosen, Christopher Salls, Andrew Dutcher, Ruoyu Wang, Jacopo Corbetta, Yan Shoshitaishvili, Christopher Kruegel, Giovanni Vigna | UCSB | 2016 | Fuzz Selective Symbolic Execution |
+| REDQUEEN: Fuzzing with Input-to-State Correspondence | Cornelius Aschermann, Sergej Schumilo, Tim Blazytko, Robert Gawlik, Thorsten Holz | Ruhr-Universität Bochum | 2019 | Fuzzing |
+| Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation | Panagiotis Papadopoulos | FORTH-ICS | 2019 | Web HTML5 Browseer API |
+| JavaScript Template Attacks: Automatically Inferring Host Information for Targeted Exploits | Michael Schwarz | Graz University of Technology | 2019 | Side Channel |
+| TextBugger: Generating Adversarial Text Against Real-world Applications | Jinfeng Li | Zhejiang University | 2019 | Adversarial |
+| Analyzing Semantic Correctness with Symbolic Execution: A Case Study on PKCS#1 v1.5 Signature Verification | Sze Yiu Chau | Purdue University | 2019 | Fuzz Symbolic Execution |
+| PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary | Dokyung Song | University of California, Irvine | 2019 | Fuzz Hardware |
+| Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing | Lei Zhao | Wuhan University | 2019 | Hybrid Fuzzing |
+| DNS Cache-Based User Tracking | Amit Klein | Bar Ilan University | 2019 | DNS Privacy |
+| How Bad Can It Git? Characterizing Secret Leakage in Public GitHub Repositories | Michael Meli | North Carolina State University | 2019 | Privacy Git |
+| One Engine To Serve 'em All: Inferring Taint Rules Without Architectural Semantics | Zheng Leong Chua | National University of Singapore | 2019 |  |
+| CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines | HyungSeok Han | KAIST | 2019 | Fuzz |
+| Profit: Detecting and Quantifying Side Channels in Networked Applications | Nicolás Rosner | University of California, Santa Barbara | 2019 | Side Channel |
+| Distinguishing Attacks from Legitimate Authentication Traffic at Scale | Cormac Herley | Microsoft | 2019 | Side Channel |
+| ICSREF: A Framework for Automated Reverse Engineering of Industrial Control Systems Binaries | Anastasis Keliris | NYU | 2019 | IoT Reverse Engineering |
+| A Systematic Framework to Generate Invariants for Anomaly Detection in Industrial Control Systems | Cheng Feng | Imperial College London | 2019 | ICS |
+| DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems | Tigist Abera | Technische Universität Darmstadt | 2019 | IoT |
+| DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems | Z. Berkay Celik | Penn State University | 2019 | IoT |
 
 # Offensive
 
