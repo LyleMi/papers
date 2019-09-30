@@ -99,7 +99,9 @@ def main():
         org = input('Organization?').strip()
         tag = input('Tag (split with "-")?')
         date = input('Date?').strip()
+        # date = '2019'
         conference = input('Conference?').strip()
+        # conference = 'Usenix'
         newpaper = {}
         newpaper['Title'] = title
         newpaper['Author'] = author

@@ -295,4 +295,8 @@
 | Watermarking Deep Neural Networks by Backdooring |  |  | 2018 | Deep Learning |
 | Discovering and Understanding the Security Hazards in the Interactions between IoT Devices, Mobile Apps, and Clouds on Smart Home Platforms | Wei Zhou | IIE | 2019 | IoT |
 | Stealing Machine Learning Models via Prediction APIs | Florian Tramer |  | 2016 | Model Stealing |
+| Toward the Analysis of Embedded Firmware through Automated Re-hosting | Eric Gustafson | UCSB | 2019 | Firmware virtualize |
+| The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation Of Bluetooth BR/EDR | Daniele Antonioli | SUTD | 2019 | Bluetooth protocol |
+| Leaky Images: Targeted Privacy Attacks in the Web | Cristian-Alexandru Staicu and Michael Pradel | TU Darmstadt | 2019 | Web Side Channel |
+| All Your Clicks Belong to Me: Investigating Click Interception on the Web | Mingxue Zhang and Wei Meng | Pennsylvania State University | 2019 | Web Click hijack |
 

@@ -2337,5 +2337,57 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "184": {
+        "Title": "Toward the Analysis of Embedded Firmware through Automated Re-hosting",
+        "Author": "Eric Gustafson",
+        "Org": "UCSB",
+        "Date": "2019",
+        "Tag": ["Firmware", "virtualize"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "185": {
+        "Title": "The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation Of Bluetooth BR/EDR",
+        "Author": "Daniele Antonioli",
+        "Org": "SUTD",
+        "Date": "2019",
+        "Tag": ["Bluetooth", "protocol"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "186": {
+        "Title": "Leaky Images: Targeted Privacy Attacks in the Web",
+        "Author": "Cristian-Alexandru Staicu and Michael Pradel",
+        "Org": "TU Darmstadt",
+        "Date": "2019",
+        "Tag": ["Web", "Side Channel"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "187": {
+        "Title": "All Your Clicks Belong to Me: Investigating Click Interception on the Web",
+        "Author": "Mingxue Zhang and Wei Meng",
+        "Org": "Pennsylvania State University",
+        "Date": "2019",
+        "Tag": ["Web", "Click hijack"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
