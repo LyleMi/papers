@@ -2389,5 +2389,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "188": {
+        "Title": "Coverage-based Greybox Fuzzing as Markov Chain",
+        "Author": "Marcel B\u00f6hme",
+        "Org": "School of Computing, National University of Singapore",
+        "Date": "2016",
+        "Tag": ["Fuzz"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "189": {
+        "Title": "KATCH High-Coverage Testing of Software Patches",
+        "Author": "Paul Dan Marinescu",
+        "Org": "",
+        "Date": "2013",
+        "Tag": ["Fuzz", "Patch"],
+        "Conference": "FSE",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

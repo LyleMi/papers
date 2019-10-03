@@ -95,6 +95,7 @@
 | Web Sixth Sense A Study of Scripts Accessing Smartphone Sensors |  |  |  |  |
 | When Good Components Go Bad Formally Secure Compilation Despite Dynamic Compromise |  |  |  |  |
 | Yet Another Text Captcha Solver A Generative Adversarial Network Based Approach |  |  |  |  |
+| Coverage-based Greybox Fuzzing as Markov Chain | Marcel Böhme | School of Computing, National University of Singapore | 2016 | Fuzz |
 
 # DEFCON
 
@@ -108,6 +109,12 @@
 | --- | --- | --- | --- | --- |
 | Analysis of Mutation and Generation Based Fuzzing |  |  |  | Fuzz |
 | defcon 22 geoff mcdonald meddle framework updated |  |  |  | Fuzz |
+
+# FSE
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| KATCH High-Coverage Testing of Software Patches | Paul Dan Marinescu |  | 2013 | Fuzz Patch |
 
 # HITB
 
