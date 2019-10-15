@@ -2415,5 +2415,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "190": {
+        "Title": "FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation",
+        "Author": "Yaowen Zheng",
+        "Org": "School of Cyber Security, University of Chinese Academy of Sciences, China",
+        "Date": "2019",
+        "Tag": ["Fuzz", "Firm"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "191": {
+        "Title": "Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares",
+        "Author": "Jonas Zaddach",
+        "Org": "EURECOM, France",
+        "Date": "2014",
+        "Tag": ["Fuzz", "Firmware"],
+        "Conference": "NDSS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

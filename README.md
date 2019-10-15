@@ -229,6 +229,7 @@
 | A Systematic Framework to Generate Invariants for Anomaly Detection in Industrial Control Systems | Cheng Feng | Imperial College London | 2019 | ICS |
 | DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems | Tigist Abera | Technische Universität Darmstadt | 2019 | IoT |
 | DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems | Z. Berkay Celik | Penn State University | 2019 | IoT |
+| Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares | Jonas Zaddach | EURECOM, France | 2014 | Fuzz Firmware |
 
 # Offensive
 
@@ -306,4 +307,5 @@
 | The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation Of Bluetooth BR/EDR | Daniele Antonioli | SUTD | 2019 | Bluetooth protocol |
 | Leaky Images: Targeted Privacy Attacks in the Web | Cristian-Alexandru Staicu and Michael Pradel | TU Darmstadt | 2019 | Web Side Channel |
 | All Your Clicks Belong to Me: Investigating Click Interception on the Web | Mingxue Zhang and Wei Meng | Pennsylvania State University | 2019 | Web Click hijack |
+| FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation | Yaowen Zheng | School of Cyber Security, University of Chinese Academy of Sciences, China | 2019 | Fuzz Firm |
 
