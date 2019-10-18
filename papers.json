@@ -2441,5 +2441,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "192": {
+        "Title": "Dragonblood: Analyzing the Dragonfly Handshake of WPA3 and EAP-pwd",
+        "Author": "Mathy Vanhoef",
+        "Org": "New York University Abu Dhabi",
+        "Date": "2020",
+        "Tag": ["Wifi"],
+        "Conference": "IEEE S&P",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "193": {
+        "Title": "Your IoTs Are (Not) Mine: On the Remote BindingBetween IoT Devices and Users",
+        "Author": "Jiongyi Chen",
+        "Org": "The Chinese University of Hong Kong",
+        "Date": "2019",
+        "Tag": ["IoT"],
+        "Conference": "DSN",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

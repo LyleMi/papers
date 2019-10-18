@@ -103,6 +103,12 @@
 | --- | --- | --- | --- | --- |
 | Firmware slap: automating discovery of exploitable vulnerabilities in firmware | Christopher roberts |  | 2019 | Firmware |
 
+# DSN
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Your IoTs Are (Not) Mine: On the Remote BindingBetween IoT Devices and Users | Jiongyi Chen | The Chinese University of Hong Kong | 2019 | IoT |
+
 # Defcon
 
 | Title | Author | Organization | Year | Keywords |
@@ -164,6 +170,7 @@
 | SAVIOR: Towards Bug-Driven Hybrid Testing |  |  | 2020 |  |
 | NEZHA: Efficient Domain-Independent Differential Testing |  |  | 2017 | Fuzz Differential |
 | (State of) The Art of War: Offensive Techniques in Binary Analysis | Yan Shoshitaishvili | UCSB | 2016 | Angr Binary Analysis |
+| Dragonblood: Analyzing the Dragonfly Handshake of WPA3 and EAP-pwd | Mathy Vanhoef | New York University Abu Dhabi | 2020 | Wifi |
 
 # IEEE-ACM
 
