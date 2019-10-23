@@ -283,6 +283,12 @@
 | Chakra vulnerability and exploit bypass all system mitigation |  |  |  |  |
 | Shellcodes are for the 99% |  |  |  | Fuzz |
 
+# USENIX ATC
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Soteria: Automated IoT Safety and Security Analysis | Z.Berkay Celik | The Pennsylvania State University | 2018 | IoT |
+
 # Usenix
 
 | Title | Author | Organization | Year | Keywords |

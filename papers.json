@@ -2467,5 +2467,18 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "194": {
+        "Title": "Soteria: Automated IoT Safety and Security Analysis",
+        "Author": "Z.Berkay Celik",
+        "Org": "The Pennsylvania State University",
+        "Date": "2018",
+        "Tag": ["IoT"],
+        "Conference": "USENIX ATC",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
