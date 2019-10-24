@@ -96,6 +96,7 @@
 | When Good Components Go Bad Formally Secure Compilation Despite Dynamic Compromise |  |  |  |  |
 | Yet Another Text Captcha Solver A Generative Adversarial Network Based Approach |  |  |  |  |
 | Coverage-based Greybox Fuzzing as Markov Chain | Marcel Böhme | School of Computing, National University of Singapore | 2016 | Fuzz |
+| Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack | Hoai Viet Nguyen | Cologne University of Applied Sciences, Germany | 2019 | Web Cache |
 
 # DEFCON
 
@@ -268,6 +269,12 @@
 | ZeroNights2017 darko fuzzer |  |  |  | Fuzz |
 | Attacking Modern Web Technologies |  |  | 2018 | HTML5 Security |
 | php internals exploit dev |  |  | 2018 | PHP Fuzz |
+
+# SIGMOD
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications | Todd Warszawski | Stanford InfoLab | 2017 | Web |
 
 # SIGPLAN
 

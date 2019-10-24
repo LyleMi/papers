@@ -2480,5 +2480,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "195": {
+        "Title": "Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack",
+        "Author": "Hoai Viet Nguyen",
+        "Org": "Cologne University of Applied Sciences, Germany",
+        "Date": "2019",
+        "Tag": ["Web", "Cache"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "196": {
+        "Title": "ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications",
+        "Author": "Todd Warszawski",
+        "Org": "Stanford InfoLab",
+        "Date": "2017",
+        "Tag": ["Web"],
+        "Conference": "SIGMOD",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
