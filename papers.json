@@ -2506,5 +2506,18 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "197": {
+        "Title": "GREYONE: Data Flow Sensitive Fuzzing",
+        "Author": "Shuitao Gan",
+        "Org": "State Key Laboratory of Mathematical Engineering and Advanced Computing",
+        "Date": "2020",
+        "Tag": ["Fuzz"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

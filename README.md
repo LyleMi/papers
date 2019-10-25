@@ -328,4 +328,5 @@
 | Leaky Images: Targeted Privacy Attacks in the Web | Cristian-Alexandru Staicu and Michael Pradel | TU Darmstadt | 2019 | Web Side Channel |
 | All Your Clicks Belong to Me: Investigating Click Interception on the Web | Mingxue Zhang and Wei Meng | Pennsylvania State University | 2019 | Web Click hijack |
 | FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation | Yaowen Zheng | School of Cyber Security, University of Chinese Academy of Sciences, China | 2019 | Fuzz Firm |
+| GREYONE: Data Flow Sensitive Fuzzing | Shuitao Gan | State Key Laboratory of Mathematical Engineering and Advanced Computing | 2020 | Fuzz |
 
