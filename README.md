@@ -239,6 +239,12 @@
 | DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems | Z. Berkay Celik | Penn State University | 2019 | IoT |
 | Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares | Jonas Zaddach | EURECOM, France | 2014 | Fuzz Firmware |
 
+# OOPSLA
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Compiler Fuzzing: How Much Does It Matter? | MICHAËL MARCOZZI | Imperial College London, United Kingdom | 2019 | Fuzz |
+
 # Offensive
 
 | Title | Author | Organization | Year | Keywords |
@@ -269,6 +275,12 @@
 | ZeroNights2017 darko fuzzer |  |  |  | Fuzz |
 | Attacking Modern Web Technologies |  |  | 2018 | HTML5 Security |
 | php internals exploit dev |  |  | 2018 | PHP Fuzz |
+
+# RAID
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| CRYPTOREX: Large-scale Analysis of Cryptographic Misuse in IOT Devices | Li Zhang | Jinan University | 2019 | Crypto IoT |
 
 # SIGMOD
 

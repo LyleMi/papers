@@ -2519,5 +2519,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "198": {
+        "Title": "Compiler Fuzzing: How Much Does It Matter?",
+        "Author": "MICHA\u00cbL MARCOZZI",
+        "Org": "Imperial College London, United Kingdom",
+        "Date": "2019",
+        "Tag": ["Fuzz"],
+        "Conference": "OOPSLA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "199": {
+        "Title": "CRYPTOREX: Large-scale Analysis of Cryptographic Misuse in IOT Devices",
+        "Author": "Li Zhang",
+        "Org": "Jinan University",
+        "Date": "2019",
+        "Tag": ["Crypto", "IoT"],
+        "Conference": "RAID",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
