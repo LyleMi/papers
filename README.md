@@ -97,6 +97,11 @@
 | Yet Another Text Captcha Solver A Generative Adversarial Network Based Approach |  |  |  |  |
 | Coverage-based Greybox Fuzzing as Markov Chain | Marcel Böhme | School of Computing, National University of Singapore | 2016 | Fuzz |
 | Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack | Hoai Viet Nguyen | Cologne University of Applied Sciences, Germany | 2019 | Web Cache |
+| 1 Trillion Dollar Refund – How To Spoof PDF Signatures | Vladislav Mladenov | Ruhr University Bochum | 2019 | PDF |
+| Charting the Attack Surface of Trigger-Action IoT Platforms | Qi Wang | University of Illinois at Urbana-Champaign | 2019 | IoT |
+| LibreCAN: Automated CAN Message Translator | Mert D. Pesé | University of Michigan | 2019 | CAN |
+| Matryoshka: fuzzing deeply nested branches | Peng Chen | ByteDance AI Lab | 2019 | Fuzz |
+| Principled Unearthing of TCP Side Channel Vulnerabilities | Yue Cao | UC Riverside | 2019 | TCP Side Channel |
 
 # DEFCON
 

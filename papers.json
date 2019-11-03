@@ -2545,5 +2545,70 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "200": {
+        "Title": "1 Trillion Dollar Refund \u2013 How To Spoof PDF Signatures",
+        "Author": "Vladislav Mladenov",
+        "Org": "Ruhr University Bochum",
+        "Date": "2019",
+        "Tag": ["PDF"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "201": {
+        "Title": "Charting the Attack Surface of Trigger-Action IoT Platforms",
+        "Author": "Qi Wang",
+        "Org": "University of Illinois at Urbana-Champaign",
+        "Date": "2019",
+        "Tag": ["IoT"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "202": {
+        "Title": "LibreCAN: Automated CAN Message Translator",
+        "Author": "Mert D. Pes\u00e9",
+        "Org": "University of Michigan",
+        "Date": "2019",
+        "Tag": ["CAN"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "203": {
+        "Title": "Matryoshka: fuzzing deeply nested branches",
+        "Author": "Peng Chen",
+        "Org": "ByteDance AI Lab",
+        "Date": "2019",
+        "Tag": ["Fuzz"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "204": {
+        "Title": "Principled Unearthing of TCP Side Channel Vulnerabilities",
+        "Author": "Yue Cao",
+        "Org": "UC Riverside",
+        "Date": "2019",
+        "Tag": ["TCP", "Side Channel"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
