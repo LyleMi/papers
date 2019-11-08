@@ -209,6 +209,8 @@
 | Test Harness For Web Browser Fuzz Testing |  |  |  | Fuzz |
 | The Security Architecture of the Chromium Browser |  |  |  | Fuzz |
 | X41 Browser Security White Paper |  |  |  | Fuzz |
+| Tor: The Second-Generation Onion Router | Dingledine | Naval Research Lab Washington DC | 2004 | Tor |
+| Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto | Bitcoin.Org | 2008 | Bitcoin |
 
 # NDSS
 

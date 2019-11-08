@@ -2610,5 +2610,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "205": {
+        "Title": "Tor: The Second-Generation Onion Router",
+        "Author": "Dingledine",
+        "Org": "Naval Research Lab Washington DC",
+        "Date": "2004",
+        "Tag": ["Tor"],
+        "Conference": "Misc",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "206": {
+        "Title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+        "Author": "Satoshi Nakamoto",
+        "Org": "Bitcoin.Org",
+        "Date": "2008",
+        "Tag": ["Bitcoin"],
+        "Conference": "Misc",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

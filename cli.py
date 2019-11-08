@@ -97,7 +97,7 @@ def main():
         title = input('Title?').strip()
         author = input('Author (split with ",")?')
         org = input('Organization?').strip()
-        tag = input('Tag (split with "-")?')
+        tag = input('Tag (split with ";")?')
         date = input('Date?').strip()
         # date = '2019'
         conference = input('Conference?').strip()
@@ -107,7 +107,7 @@ def main():
         newpaper['Author'] = author
         newpaper['Org'] = org
         newpaper['Date'] = date
-        newpaper['Tag'] = tag.split('-')
+        newpaper['Tag'] = tag.split(';')
         newpaper['Conference'] = conference
         newpaper['Abstract'] = ''
         newpaper['Comment'] = ''
