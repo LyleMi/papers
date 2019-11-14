@@ -2636,5 +2636,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "207": {
+        "Title": "Embedded Research & Automation",
+        "Author": "Brian Butterly",
+        "Org": "",
+        "Date": "2019",
+        "Tag": ["Embedded", "Fuzz"],
+        "Conference": "H2HC",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "208": {
+        "Title": "PowerFL: Fuzzing VxWorks embedded system",
+        "Author": "Peter Goodman",
+        "Org": "",
+        "Date": "2019",
+        "Tag": ["Embedded", "Fuzz", "IoT"],
+        "Conference": "QPSS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

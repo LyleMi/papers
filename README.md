@@ -128,6 +128,12 @@
 | --- | --- | --- | --- | --- |
 | KATCH High-Coverage Testing of Software Patches | Paul Dan Marinescu |  | 2013 | Fuzz Patch |
 
+# H2HC
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Embedded Research & Automation | Brian Butterly |  | 2019 | Embedded Fuzz |
+
 # HITB
 
 | Title | Author | Organization | Year | Keywords |
@@ -282,6 +288,12 @@
 | ZeroNights2017 darko fuzzer |  |  |  | Fuzz |
 | Attacking Modern Web Technologies |  |  | 2018 | HTML5 Security |
 | php internals exploit dev |  |  | 2018 | PHP Fuzz |
+
+# QPSS
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| PowerFL: Fuzzing VxWorks embedded system | Peter Goodman |  | 2019 | Embedded Fuzz IoT |
 
 # RAID
 
