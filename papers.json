@@ -2662,5 +2662,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "209": {
+        "Title": "Building Fast Fuzzers",
+        "Author": "Rahul Gopinath and Andreas Zeller",
+        "Org": "CISPA",
+        "Date": "2019",
+        "Tag": ["Fuzz"],
+        "Conference": "Arxiv",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "210": {
+        "Title": "Unicorn: Next Generation CPU Emulator Framework",
+        "Author": "NGUYEN Anh Quynh ",
+        "Org": "",
+        "Date": "2015",
+        "Tag": ["Emulator"],
+        "Conference": "Blackhat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

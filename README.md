@@ -26,6 +26,7 @@
 | Not all bytes are equal  Neural byte sieve for fuzzing |  |  |  | Fuzz |
 | Smart Greybox Fuzzing |  |  |  | Fuzz |
 | TensorFuzz Debugging Neural Networks with Coverage-GUided Fuzzing |  |  |  | Fuzz |
+| Building Fast Fuzzers | Rahul Gopinath and Andreas Zeller | CISPA | 2019 | Fuzz |
 
 # AsiaCCS
 
@@ -65,6 +66,7 @@
 | Exploiting Qualcomm WLAN and Modem Over The Air | Xiling Gong | Tencent Blade Team | 2019 | WLAN |
 | Practical Approach to Automate the Discovery and Eradication of Open-Source Software Vulnerabilities at Scale | Aladdin Almubayed | Netflix | 2019 | Supply Chain |
 | HostSplit: Exploitable Antipatterns in Unicode Normalization | Jonathan Birch | Microsoft | 2019 | IDN |
+| Unicorn: Next Generation CPU Emulator Framework | NGUYEN Anh Quynh  | Emulator | 2015 | Emulator |
 
 # Blog
 
