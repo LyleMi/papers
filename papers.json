@@ -2688,5 +2688,18 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "211": {
+        "Title": "Embedded Devices Security and Firmware Reverse Engineering",
+        "Author": "Jonas Zaddach",
+        "Org": "",
+        "Date": "2013",
+        "Tag": ["Embedded Devices", "Firmware", "Reverse Engineering"],
+        "Conference": "BlackHat WorkShop",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

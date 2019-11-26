@@ -37,6 +37,12 @@
 | A Feature-Oriented Corpus for Understanding, Evaluating and Improving Fuzz Testing | Xiaogang Zhu | Swinburne University of Technology | 2019 | Fuzzing |
 | PTrix Efficient Hardware-Assisted Fuzzing for COTS Binary | Yaohui Chen | Northeastern University | 2019 | Fuzz |
 
+# BlackHat WorkShop
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Embedded Devices Security and Firmware Reverse Engineering | Jonas Zaddach | ∗ | 2013 | Embedded Devices Firmware Reverse Engineering |
+
 # Blackhat
 
 | Title | Author | Organization | Year | Keywords |
@@ -66,7 +72,7 @@
 | Exploiting Qualcomm WLAN and Modem Over The Air | Xiling Gong | Tencent Blade Team | 2019 | WLAN |
 | Practical Approach to Automate the Discovery and Eradication of Open-Source Software Vulnerabilities at Scale | Aladdin Almubayed | Netflix | 2019 | Supply Chain |
 | HostSplit: Exploitable Antipatterns in Unicode Normalization | Jonathan Birch | Microsoft | 2019 | IDN |
-| Unicorn: Next Generation CPU Emulator Framework | NGUYEN Anh Quynh  | Emulator | 2015 | Emulator |
+| Unicorn: Next Generation CPU Emulator Framework | NGUYEN Anh Quynh  |  | 2015 | Emulator |
 
 # Blog
 
