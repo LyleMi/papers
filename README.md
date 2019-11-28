@@ -9,6 +9,12 @@
 | Symbolic execution for software testing three decades later |  |  |  | Fuzz |
 | Using Logic Programming to Recover C++ Classes and Methods from Compiled Executables | Schwartz |  | 2018 | Decompile |
 
+# ASE
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| FairFuzz: A Targeted Mutation Strategy for Increasing Greybox Fuzz Testing Coverage | Caroline Lemieux | University of California, Berkeley, USA | 2018 | Fuzz AFL |
+
 # Arxiv
 
 | Title | Author | Organization | Year | Keywords |
@@ -41,7 +47,7 @@
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| Embedded Devices Security and Firmware Reverse Engineering | Jonas Zaddach | ∗ | 2013 | Embedded Devices Firmware Reverse Engineering |
+| Embedded Devices Security and Firmware Reverse Engineering | Jonas Zaddach |  | 2013 | Embedded Devices Firmware Reverse Engineering |
 
 # Blackhat
 

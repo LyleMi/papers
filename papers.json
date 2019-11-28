@@ -2701,5 +2701,18 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "212": {
+        "Title": "FairFuzz: A Targeted Mutation Strategy for Increasing Greybox Fuzz Testing Coverage",
+        "Author": "Caroline Lemieux",
+        "Org": "University of California, Berkeley, USA",
+        "Date": "2018",
+        "Tag": ["Fuzz", "AFL"],
+        "Conference": "ASE",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
