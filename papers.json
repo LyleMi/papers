@@ -2714,5 +2714,18 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "213": {
+        "Title": "Opening Pandora's Box through ATFuzzer: Dynamic Analysis of AT Interface for Android Smartphones",
+        "Author": "Imtiaz Karim",
+        "Org": "Purdue University",
+        "Date": "2019",
+        "Tag": ["Fuzz"],
+        "Conference": "ACSAC",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": "https://github.com/Imtiazkarimik23/ATFuzzer"
     }
 }

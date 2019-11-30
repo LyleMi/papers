@@ -9,6 +9,12 @@
 | Symbolic execution for software testing three decades later |  |  |  | Fuzz |
 | Using Logic Programming to Recover C++ Classes and Methods from Compiled Executables | Schwartz |  | 2018 | Decompile |
 
+# ACSAC
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Opening Pandora's Box through ATFuzzer: Dynamic Analysis of AT Interface for Android Smartphones | Imtiaz Karim | Purdue University | 2019 | Fuzz |
+
 # ASE
 
 | Title | Author | Organization | Year | Keywords |
