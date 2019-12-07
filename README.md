@@ -49,6 +49,21 @@
 | A Feature-Oriented Corpus for Understanding, Evaluating and Improving Fuzz Testing | Xiaogang Zhu | Swinburne University of Technology | 2019 | Fuzzing |
 | PTrix Efficient Hardware-Assisted Fuzzing for COTS Binary | Yaohui Chen | Northeastern University | 2019 | Fuzz |
 
+# BlackHat EU
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Chain of Fools: An Exploration of Certificate Chain Validation Mishaps | James Barclay | Duo Security | 2019 | Cryptography |
+| Mobile Network Hacking, IP Edition | Karsten Nohl |  | 2019 | Mobile |
+| Far Sides of Java Remote Protocols | An Trinh | Viettel Cyber Security | 2019 | Java |
+| Sneak into Your Room: Security Holes in the Integration and Management of Messaging Protocols on Commercial IoT Clouds | Yan Jia | NCNIPC | 2019 | IoT |
+| Reverse Engineering and Exploiting Builds in the Cloud | Etienne Stalmans | Salesforce Heroku | 2019 |  |
+| Booting the iOS Kernel to an Interactive Bash Shell on QEMU | Jonathan Afek | HCL/AppScan | 2019 | iOS |
+| Fuzzing and Exploiting Virtual Channels in Microsoft Remote Desktop Protocol for Fun and Profit | Chun Sung Park | Korea University | 2019 | Fuzz RDP |
+| Side Channel Attacks in 4G and 5G Cellular Networks | Syed Hussain | Purdue University | 2019 | Mobile telecommunication |
+| Site Isolation: Confining Untrustworthy Code in the Web Browser | Nasko Oskov | Google | 2019 | Browser Web |
+| Practical Side-Channel Attacks Against WPA-TKIP | Mathy Vanhoef | New York University Abu Dhabi | 2019 | WiFi |
+
 # BlackHat WorkShop
 
 | Title | Author | Organization | Year | Keywords |
@@ -85,6 +100,12 @@
 | Practical Approach to Automate the Discovery and Eradication of Open-Source Software Vulnerabilities at Scale | Aladdin Almubayed | Netflix | 2019 | Supply Chain |
 | HostSplit: Exploitable Antipatterns in Unicode Normalization | Jonathan Birch | Microsoft | 2019 | IDN |
 | Unicorn: Next Generation CPU Emulator Framework | NGUYEN Anh Quynh  |  | 2015 | Emulator |
+
+# Blackhat EU
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Fatal Fury on ESP32: Time to Release Hardware Exploits |  |  | 2019 |  |
 
 # Blog
 
@@ -271,6 +292,7 @@
 | DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems | Tigist Abera | Technische Universität Darmstadt | 2019 | IoT |
 | DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems | Z. Berkay Celik | Penn State University | 2019 | IoT |
 | Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares | Jonas Zaddach | EURECOM, France | 2014 | Fuzz Firmware |
+| Unveiling your keystrokes: A Cache-based Side-channel Attack on Graphics Lib | Daimeng Wang | University of California Riverside | 2019 | Side-channel |
 
 # OOPSLA
 
