@@ -2883,5 +2883,83 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "226": {
+        "Title": "BlueMaster: Bypassing and Fixing Bluetooth-based Proximity Authentication",
+        "Author": "Youngman Jung",
+        "Org": "Samsung Electronics",
+        "Date": "2019",
+        "Tag": ["Bluetooth"],
+        "Conference": "BlackHat EU",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "227": {
+        "Title": "KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware",
+        "Author": "Nilo Redini",
+        "Org": "ucsb-seclab",
+        "Date": "2020",
+        "Tag": ["Embedded"],
+        "Conference": "IEEE S&P",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "228": {
+        "Title": "Unicorefuzz: On the Viability of Emulation for Kernelspace Fuzzing",
+        "Author": "Dominik Maier, Benedikt Radtke, and Bastian Harren, TU Berlin",
+        "Org": "TU Berlin",
+        "Date": "2019",
+        "Tag": ["Unicorn", "FUzz"],
+        "Conference": "WOOT",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "229": {
+        "Title": "PerfFuzz: Automatically Generating Pathological Inputs",
+        "Author": "Caroline Lemieux",
+        "Org": "University of California, Berkeley, USA",
+        "Date": "2018",
+        "Tag": ["Fuzz"],
+        "Conference": "ISSTA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "230": {
+        "Title": "SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities",
+        "Author": "los Petsios",
+        "Org": "Columbia University",
+        "Date": "2017",
+        "Tag": ["Fuzz"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "231": {
+        "Title": "FuzzFactory: Domain-Specific Fuzzing with Waypoints",
+        "Author": "Rohan Padhye",
+        "Org": "University of California at Berkeley, USA",
+        "Date": "2019",
+        "Tag": ["Fuzz"],
+        "Conference": "OOPSLA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

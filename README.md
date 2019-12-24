@@ -63,6 +63,7 @@
 | Side Channel Attacks in 4G and 5G Cellular Networks | Syed Hussain | Purdue University | 2019 | Mobile telecommunication |
 | Site Isolation: Confining Untrustworthy Code in the Web Browser | Nasko Oskov | Google | 2019 | Browser Web |
 | Practical Side-Channel Attacks Against WPA-TKIP | Mathy Vanhoef | New York University Abu Dhabi | 2019 | WiFi |
+| BlueMaster: Bypassing and Fixing Bluetooth-based Proximity Authentication | Youngman Jung | Samsung Electronics | 2019 | Bluetooth |
 
 # BlackHat WorkShop
 
@@ -143,6 +144,7 @@
 | LibreCAN: Automated CAN Message Translator | Mert D. Pesé | University of Michigan | 2019 | CAN |
 | Matryoshka: fuzzing deeply nested branches | Peng Chen | ByteDance AI Lab | 2019 | Fuzz |
 | Principled Unearthing of TCP Side Channel Vulnerabilities | Yue Cao | UC Riverside | 2019 | TCP Side Channel |
+| SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities | los Petsios | Columbia University | 2017 | Fuzz |
 
 # DEFCON
 
@@ -224,6 +226,7 @@
 | NEZHA: Efficient Domain-Independent Differential Testing |  |  | 2017 | Fuzz Differential |
 | (State of) The Art of War: Offensive Techniques in Binary Analysis | Yan Shoshitaishvili | UCSB | 2016 | Angr Binary Analysis |
 | Dragonblood: Analyzing the Dragonfly Handshake of WPA3 and EAP-pwd | Mathy Vanhoef | New York University Abu Dhabi | 2020 | Wifi |
+| KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware | Nilo Redini | ucsb-seclab | 2020 | Embedded |
 
 # IEEE-ACM
 
@@ -236,6 +239,12 @@
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Locate Then Detect：Web Attack Detection via Attention-based Deep Neural Networks | Tianlong Liu,Jianan Yan | Ali | 2019 | Web Machine Learning WAF |
+
+# ISSTA
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| PerfFuzz: Automatically Generating Pathological Inputs | Caroline Lemieux | University of California, Berkeley, USA | 2018 | Fuzz |
 
 # MS
 
@@ -299,6 +308,7 @@
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Compiler Fuzzing: How Much Does It Matter? | MICHAËL MARCOZZI | Imperial College London, United Kingdom | 2019 | Fuzz |
+| FuzzFactory: Domain-Specific Fuzzing with Waypoints | Rohan Padhye | University of California at Berkeley, USA | 2019 | Fuzz |
 
 # Offensive
 
@@ -402,4 +412,10 @@
 | All Your Clicks Belong to Me: Investigating Click Interception on the Web | Mingxue Zhang and Wei Meng | Pennsylvania State University | 2019 | Web Click hijack |
 | FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation | Yaowen Zheng | School of Cyber Security, University of Chinese Academy of Sciences, China | 2019 | Fuzz Firm |
 | GREYONE: Data Flow Sensitive Fuzzing | Shuitao Gan | State Key Laboratory of Mathematical Engineering and Advanced Computing | 2020 | Fuzz |
+
+# WOOT
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Unicorefuzz: On the Viability of Emulation for Kernelspace Fuzzing | Dominik Maier, Benedikt Radtke, and Bastian Harren, TU Berlin | TU Berlin | 2019 | Unicorn FUzz |
 
