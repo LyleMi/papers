@@ -222,7 +222,6 @@
 | HVLearn: Automated black-box analysis of hostname verification in SSL/TLS implementations | Sivakorn |  | 2017 | Fuzz |
 | The Limitations of Deep Learning in Adversarial Settings | Nicolas Papernot |  | 2016 | GAN Machine Learning |
 | SAVIOR: Towards Bug-Driven Hybrid Testing |  |  | 2020 | Fuzz Hybrid |
-| SAVIOR: Towards Bug-Driven Hybrid Testing |  |  | 2020 |  |
 | NEZHA: Efficient Domain-Independent Differential Testing |  |  | 2017 | Fuzz Differential |
 | (State of) The Art of War: Offensive Techniques in Binary Analysis | Yan Shoshitaishvili | UCSB | 2016 | Angr Binary Analysis |
 | Dragonblood: Analyzing the Dragonfly Handshake of WPA3 and EAP-pwd | Mathy Vanhoef | New York University Abu Dhabi | 2020 | Wifi |
