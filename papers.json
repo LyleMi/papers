@@ -1687,7 +1687,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "132": {
+    "131": {
         "Title": "NEZHA: Efficient Domain-Independent Differential Testing",
         "Author": "",
         "Org": "",
@@ -1698,7 +1698,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "133": {
+    "132": {
         "Title": "Coverage-Directed Differential Testing of JVM Implementations",
         "Author": "Yuting Chen",
         "Org": "SJTU",
@@ -1709,7 +1709,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "134": {
+    "133": {
         "Title": "Superion Grammar-Aware Greybox Fuzzing",
         "Author": "Junjie Wang",
         "Org": "Fudan University",
@@ -1720,7 +1720,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "135": {
+    "134": {
         "Title": "DifFuzz Differential Fuzzing for Side-Channel Analysis",
         "Author": "Shirin Nilizadeh",
         "Org": "uta.edu",
@@ -1731,7 +1731,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "136": {
+    "135": {
         "Title": "REST-ler: Automatic Intelligent REST API Fuzzing",
         "Author": "Vaggelis Atlidakis",
         "Org": "Columbia University",
@@ -1742,7 +1742,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "137": {
+    "136": {
         "Title": "VUzzer Application-aware Evolutionary Fuzzing",
         "Author": "Sanjay Rawat",
         "Org": "",
@@ -1753,7 +1753,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "138": {
+    "137": {
         "Title": "SLF: Fuzzing without Valid Seed Inputs",
         "Author": "Wei You",
         "Org": "Purdue University",
@@ -1764,7 +1764,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "139": {
+    "138": {
         "Title": "Parser-Directed Fuzzing",
         "Author": "Mathis",
         "Org": "cispa",
@@ -1775,7 +1775,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "140": {
+    "139": {
         "Title": "Battle Of Windows Service A Silver Bullet To Discover File Privilege Escalation Bugs Automatically",
         "Author": "Wenxu Wu (@Ma7h1as)",
         "Org": "Xuanwu Lab of Tencent",
@@ -1786,7 +1786,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "141": {
+    "140": {
         "Title": "Monsters in the Middleboxes: Building Tools for Detecting HTTPS Interception",
         "Author": "Luke Valenta",
         "Org": "Cloudflare",
@@ -1797,7 +1797,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "142": {
+    "141": {
         "Title": "Munoz SSO Wars The Token Menace",
         "Author": "Alvaro Munoz",
         "Org": "",
@@ -1808,7 +1808,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "143": {
+    "142": {
         "Title": "Attacking And Defending The Microsoft Cloud",
         "Author": "Sean Metcalf",
         "Org": "",
@@ -1819,7 +1819,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "144": {
+    "143": {
         "Title": "Dragonblood: Attacking the Dragonfly Handshake of WPA3",
         "Author": "Mathy Vanhoef",
         "Org": "New York University Abu Dhabi",
@@ -1830,7 +1830,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "145": {
+    "144": {
         "Title": "All the 4G Modules Could be Hacked",
         "Author": "Shupeng Gao",
         "Org": "Baidu Security Lab",
@@ -1841,7 +1841,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "146": {
+    "145": {
         "Title": "HTTP Desync Attacks: Smashing into the Cell Next Door",
         "Author": "James Kettle",
         "Org": "PortSwigger Web Security",
@@ -1852,7 +1852,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "147": {
+    "146": {
         "Title": "I'm Unique, Just Like You: Human Side-Channels and Their Implications for Security and Privacy",
         "Author": "Matt Wixey",
         "Org": "PwC",
@@ -1863,7 +1863,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "148": {
+    "147": {
         "Title": "Infiltrating Corporate Intranet Like NSA - Pre-auth RCE on Leading SSL VPNs",
         "Author": "Orange Tsai",
         "Org": "DEVCORE",
@@ -1874,7 +1874,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "149": {
+    "148": {
         "Title": "Attack Surface as a Service",
         "Author": "Anna Westelius",
         "Org": "Arkose Labs",
@@ -1885,7 +1885,7 @@
         "Comment": "",
         "Reading Notes": ""
     },
-    "150": {
+    "149": {
         "Title": "The Enemy Within: Modern Supply Chain Attacks",
         "Author": "Eric Doerr",
         "Org": "MSRC",
@@ -1898,7 +1898,7 @@
         "Slides": "",
         "Code": ""
     },
-    "151": {
+    "150": {
         "Title": "API-Induced SSRF: How Apple Pay Scattered Vulnerabilities Across the Web",
         "Author": "Joshua Maddux",
         "Org": "PKC Security",
@@ -1911,7 +1911,7 @@
         "Slides": "",
         "Code": ""
     },
-    "152": {
+    "151": {
         "Title": "DevSecOps : What, Why and How",
         "Author": "Anant Shrivastava",
         "Org": "NotSoSecure",
@@ -1924,7 +1924,7 @@
         "Slides": "",
         "Code": ""
     },
-    "153": {
+    "152": {
         "Title": "0-days & Mitigations: Roadways to Exploit and Secure Connected BMW Cars",
         "Author": "Zhiqiang Cai",
         "Org": "KeenLab",
@@ -1937,7 +1937,7 @@
         "Slides": "",
         "Code": ""
     },
-    "154": {
+    "153": {
         "Title": "Exploiting Qualcomm WLAN and Modem Over The Air",
         "Author": "Xiling Gong",
         "Org": "Tencent Blade Team",
@@ -1950,7 +1950,7 @@
         "Slides": "",
         "Code": ""
     },
-    "155": {
+    "154": {
         "Title": "Practical Approach to Automate the Discovery and Eradication of Open-Source Software Vulnerabilities at Scale",
         "Author": "Aladdin Almubayed",
         "Org": "Netflix",
@@ -1963,7 +1963,7 @@
         "Slides": "",
         "Code": ""
     },
-    "156": {
+    "155": {
         "Title": "Locate Then Detect\uff1aWeb Attack Detection via Attention-based Deep Neural Networks",
         "Author": "Tianlong Liu,Jianan Yan",
         "Org": "Ali",
@@ -1976,7 +1976,7 @@
         "Slides": "",
         "Code": ""
     },
-    "157": {
+    "156": {
         "Title": "HostSplit: Exploitable Antipatterns in Unicode Normalization",
         "Author": "Jonathan Birch",
         "Org": "Microsoft",
@@ -1989,7 +1989,7 @@
         "Slides": "",
         "Code": ""
     },
-    "158": {
+    "157": {
         "Title": "Discovering and Understanding the Security Hazards in the Interactions between IoT Devices, Mobile Apps, and Clouds on Smart Home Platforms",
         "Author": "Wei Zhou",
         "Org": "IIE",
@@ -2002,7 +2002,7 @@
         "Slides": "",
         "Code": ""
     },
-    "159": {
+    "158": {
         "Title": "IOTFUZZER: Discovering Memory Corruptions in IoT Through App-based Fuzzing",
         "Author": "Jiongyi Chen",
         "Org": "The Chinese University of Hong Kong",
@@ -2015,7 +2015,7 @@
         "Slides": "",
         "Code": ""
     },
-    "160": {
+    "159": {
         "Title": "Towards Automated Dynamic Analysis for Linux-based Embedded Firmware",
         "Author": "Daming D. Chen",
         "Org": "CMU",
@@ -2028,7 +2028,7 @@
         "Slides": "",
         "Code": ""
     },
-    "161": {
+    "160": {
         "Title": "Stealing Machine Learning Models via Prediction APIs",
         "Author": "Florian Tramer",
         "Org": "",
@@ -2041,7 +2041,7 @@
         "Slides": "",
         "Code": ""
     },
-    "162": {
+    "161": {
         "Title": "Static Code Analysis Recognition Evasion",
         "Author": "Andreas Wiegenstein",
         "Org": "AP Cyber Security",
@@ -2054,7 +2054,7 @@
         "Slides": "",
         "Code": ""
     },
-    "163": {
+    "162": {
         "Title": "BadBluetooth Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals",
         "Author": "Fenghao Xu",
         "Org": "The Chinese University of Hong Kong",
@@ -2067,7 +2067,7 @@
         "Slides": "",
         "Code": ""
     },
-    "164": {
+    "163": {
         "Title": "(State of) The Art of War: Offensive Techniques in Binary Analysis",
         "Author": "Yan Shoshitaishvili",
         "Org": "UCSB",
@@ -2080,7 +2080,7 @@
         "Slides": "",
         "Code": ""
     },
-    "165": {
+    "164": {
         "Title": "Driller: Augmenting Fuzzing Through Selective Symbolic Execution",
         "Author": "Nick Stephens, John Grosen, Christopher Salls, Andrew Dutcher, Ruoyu Wang, Jacopo Corbetta, Yan Shoshitaishvili, Christopher Kruegel, Giovanni Vigna",
         "Org": "UCSB",
@@ -2093,7 +2093,7 @@
         "Slides": "",
         "Code": ""
     },
-    "166": {
+    "165": {
         "Title": "Firmware slap: automating discovery of exploitable vulnerabilities in firmware",
         "Author": "Christopher roberts",
         "Org": "",
@@ -2106,7 +2106,7 @@
         "Slides": "",
         "Code": ""
     },
-    "167": {
+    "166": {
         "Title": "REDQUEEN: Fuzzing with Input-to-State Correspondence",
         "Author": "Cornelius Aschermann, Sergej Schumilo, Tim Blazytko, Robert Gawlik, Thorsten Holz",
         "Org": "Ruhr-Universit\u00e4t Bochum",
@@ -2119,7 +2119,7 @@
         "Slides": "",
         "Code": ""
     },
-    "168": {
+    "167": {
         "Title": "Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation",
         "Author": "Panagiotis Papadopoulos",
         "Org": "FORTH-ICS",
@@ -2132,7 +2132,7 @@
         "Slides": "",
         "Code": ""
     },
-    "169": {
+    "168": {
         "Title": "JavaScript Template Attacks: Automatically Inferring Host Information for Targeted Exploits",
         "Author": "Michael Schwarz",
         "Org": "Graz University of Technology",
@@ -2145,7 +2145,7 @@
         "Slides": "",
         "Code": ""
     },
-    "170": {
+    "169": {
         "Title": "TextBugger: Generating Adversarial Text Against Real-world Applications",
         "Author": "Jinfeng Li",
         "Org": "Zhejiang University",
@@ -2158,7 +2158,7 @@
         "Slides": "",
         "Code": ""
     },
-    "171": {
+    "170": {
         "Title": "Analyzing Semantic Correctness with Symbolic Execution: A Case Study on PKCS#1 v1.5 Signature Verification",
         "Author": "Sze Yiu Chau",
         "Org": "Purdue University",
@@ -2171,7 +2171,7 @@
         "Slides": "",
         "Code": ""
     },
-    "172": {
+    "171": {
         "Title": "PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary",
         "Author": "Dokyung Song",
         "Org": "University of California, Irvine",
@@ -2184,7 +2184,7 @@
         "Slides": "",
         "Code": ""
     },
-    "173": {
+    "172": {
         "Title": "Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing",
         "Author": "Lei Zhao",
         "Org": "Wuhan University",
@@ -2197,7 +2197,7 @@
         "Slides": "",
         "Code": ""
     },
-    "174": {
+    "173": {
         "Title": "DNS Cache-Based User Tracking",
         "Author": "Amit Klein",
         "Org": "Bar Ilan University",
@@ -2210,7 +2210,7 @@
         "Slides": "",
         "Code": ""
     },
-    "175": {
+    "174": {
         "Title": "How Bad Can It Git? Characterizing Secret Leakage in Public GitHub Repositories",
         "Author": "Michael Meli",
         "Org": "North Carolina State University",
@@ -2223,7 +2223,7 @@
         "Slides": "",
         "Code": ""
     },
-    "176": {
+    "175": {
         "Title": "One Engine To Serve 'em All: Inferring Taint Rules Without Architectural Semantics",
         "Author": "Zheng Leong Chua",
         "Org": "National University of Singapore",
@@ -2236,7 +2236,7 @@
         "Slides": "",
         "Code": ""
     },
-    "177": {
+    "176": {
         "Title": "CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines",
         "Author": "HyungSeok Han",
         "Org": "KAIST",
@@ -2249,7 +2249,7 @@
         "Slides": "",
         "Code": ""
     },
-    "178": {
+    "177": {
         "Title": "Profit: Detecting and Quantifying Side Channels in Networked Applications",
         "Author": "Nicol\u00e1s Rosner",
         "Org": "University of California, Santa Barbara",
@@ -2262,7 +2262,7 @@
         "Slides": "",
         "Code": ""
     },
-    "179": {
+    "178": {
         "Title": "Distinguishing Attacks from Legitimate Authentication Traffic at Scale",
         "Author": "Cormac Herley",
         "Org": "Microsoft",
@@ -2275,7 +2275,7 @@
         "Slides": "",
         "Code": ""
     },
-    "180": {
+    "179": {
         "Title": "ICSREF: A Framework for Automated Reverse Engineering of Industrial Control Systems Binaries",
         "Author": "Anastasis Keliris",
         "Org": "NYU",
@@ -2288,7 +2288,7 @@
         "Slides": "",
         "Code": ""
     },
-    "181": {
+    "180": {
         "Title": "A Systematic Framework to Generate Invariants for Anomaly Detection in Industrial Control Systems",
         "Author": "Cheng Feng",
         "Org": "Imperial College London",
@@ -2301,7 +2301,7 @@
         "Slides": "",
         "Code": ""
     },
-    "182": {
+    "181": {
         "Title": "DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems",
         "Author": "Tigist Abera",
         "Org": "Technische Universit\u00e4t Darmstadt",
@@ -2314,7 +2314,7 @@
         "Slides": "",
         "Code": ""
     },
-    "183": {
+    "182": {
         "Title": "DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems",
         "Author": "Z. Berkay Celik",
         "Org": "Penn State University",
@@ -2327,7 +2327,7 @@
         "Slides": "",
         "Code": ""
     },
-    "184": {
+    "183": {
         "Title": "Toward the Analysis of Embedded Firmware through Automated Re-hosting",
         "Author": "Eric Gustafson",
         "Org": "UCSB",
@@ -2340,7 +2340,7 @@
         "Slides": "",
         "Code": ""
     },
-    "185": {
+    "184": {
         "Title": "The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation Of Bluetooth BR/EDR",
         "Author": "Daniele Antonioli",
         "Org": "SUTD",
@@ -2353,7 +2353,7 @@
         "Slides": "",
         "Code": ""
     },
-    "186": {
+    "185": {
         "Title": "Leaky Images: Targeted Privacy Attacks in the Web",
         "Author": "Cristian-Alexandru Staicu and Michael Pradel",
         "Org": "TU Darmstadt",
@@ -2366,7 +2366,7 @@
         "Slides": "",
         "Code": ""
     },
-    "187": {
+    "186": {
         "Title": "All Your Clicks Belong to Me: Investigating Click Interception on the Web",
         "Author": "Mingxue Zhang and Wei Meng",
         "Org": "Pennsylvania State University",
@@ -2379,7 +2379,7 @@
         "Slides": "",
         "Code": ""
     },
-    "188": {
+    "187": {
         "Title": "Coverage-based Greybox Fuzzing as Markov Chain",
         "Author": "Marcel B\u00f6hme",
         "Org": "School of Computing, National University of Singapore",
@@ -2392,7 +2392,7 @@
         "Slides": "",
         "Code": ""
     },
-    "189": {
+    "188": {
         "Title": "KATCH High-Coverage Testing of Software Patches",
         "Author": "Paul Dan Marinescu",
         "Org": "",
@@ -2405,7 +2405,7 @@
         "Slides": "",
         "Code": ""
     },
-    "190": {
+    "189": {
         "Title": "FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation",
         "Author": "Yaowen Zheng",
         "Org": "School of Cyber Security, University of Chinese Academy of Sciences, China",
@@ -2418,7 +2418,7 @@
         "Slides": "",
         "Code": ""
     },
-    "191": {
+    "190": {
         "Title": "Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares",
         "Author": "Jonas Zaddach",
         "Org": "EURECOM, France",
@@ -2431,7 +2431,7 @@
         "Slides": "",
         "Code": ""
     },
-    "192": {
+    "191": {
         "Title": "Dragonblood: Analyzing the Dragonfly Handshake of WPA3 and EAP-pwd",
         "Author": "Mathy Vanhoef",
         "Org": "New York University Abu Dhabi",
@@ -2444,7 +2444,7 @@
         "Slides": "",
         "Code": ""
     },
-    "193": {
+    "192": {
         "Title": "Your IoTs Are (Not) Mine: On the Remote BindingBetween IoT Devices and Users",
         "Author": "Jiongyi Chen",
         "Org": "The Chinese University of Hong Kong",
@@ -2457,7 +2457,7 @@
         "Slides": "",
         "Code": ""
     },
-    "194": {
+    "193": {
         "Title": "Soteria: Automated IoT Safety and Security Analysis",
         "Author": "Z.Berkay Celik",
         "Org": "The Pennsylvania State University",
@@ -2470,7 +2470,7 @@
         "Slides": "",
         "Code": ""
     },
-    "195": {
+    "194": {
         "Title": "Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack",
         "Author": "Hoai Viet Nguyen",
         "Org": "Cologne University of Applied Sciences, Germany",
@@ -2483,7 +2483,7 @@
         "Slides": "",
         "Code": ""
     },
-    "196": {
+    "195": {
         "Title": "ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications",
         "Author": "Todd Warszawski",
         "Org": "Stanford InfoLab",
@@ -2496,7 +2496,7 @@
         "Slides": "",
         "Code": ""
     },
-    "197": {
+    "196": {
         "Title": "GREYONE: Data Flow Sensitive Fuzzing",
         "Author": "Shuitao Gan",
         "Org": "State Key Laboratory of Mathematical Engineering and Advanced Computing",
@@ -2509,7 +2509,7 @@
         "Slides": "",
         "Code": ""
     },
-    "198": {
+    "197": {
         "Title": "Compiler Fuzzing: How Much Does It Matter?",
         "Author": "MICHA\u00cbL MARCOZZI",
         "Org": "Imperial College London, United Kingdom",
@@ -2522,7 +2522,7 @@
         "Slides": "",
         "Code": ""
     },
-    "199": {
+    "198": {
         "Title": "CRYPTOREX: Large-scale Analysis of Cryptographic Misuse in IOT Devices",
         "Author": "Li Zhang",
         "Org": "Jinan University",
@@ -2535,7 +2535,7 @@
         "Slides": "",
         "Code": ""
     },
-    "200": {
+    "199": {
         "Title": "1 Trillion Dollar Refund \u2013 How To Spoof PDF Signatures",
         "Author": "Vladislav Mladenov",
         "Org": "Ruhr University Bochum",
@@ -2548,7 +2548,7 @@
         "Slides": "",
         "Code": ""
     },
-    "201": {
+    "200": {
         "Title": "Charting the Attack Surface of Trigger-Action IoT Platforms",
         "Author": "Qi Wang",
         "Org": "University of Illinois at Urbana-Champaign",
@@ -2561,7 +2561,7 @@
         "Slides": "",
         "Code": ""
     },
-    "202": {
+    "201": {
         "Title": "LibreCAN: Automated CAN Message Translator",
         "Author": "Mert D. Pes\u00e9",
         "Org": "University of Michigan",
@@ -2574,7 +2574,7 @@
         "Slides": "",
         "Code": ""
     },
-    "203": {
+    "202": {
         "Title": "Matryoshka: fuzzing deeply nested branches",
         "Author": "Peng Chen",
         "Org": "ByteDance AI Lab",
@@ -2587,7 +2587,7 @@
         "Slides": "",
         "Code": ""
     },
-    "204": {
+    "203": {
         "Title": "Principled Unearthing of TCP Side Channel Vulnerabilities",
         "Author": "Yue Cao",
         "Org": "UC Riverside",
@@ -2600,7 +2600,7 @@
         "Slides": "",
         "Code": ""
     },
-    "205": {
+    "204": {
         "Title": "Tor: The Second-Generation Onion Router",
         "Author": "Dingledine",
         "Org": "Naval Research Lab Washington DC",
@@ -2613,7 +2613,7 @@
         "Slides": "",
         "Code": ""
     },
-    "206": {
+    "205": {
         "Title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
         "Author": "Satoshi Nakamoto",
         "Org": "Bitcoin.Org",
@@ -2626,7 +2626,7 @@
         "Slides": "",
         "Code": ""
     },
-    "207": {
+    "206": {
         "Title": "Embedded Research & Automation",
         "Author": "Brian Butterly",
         "Org": "",
@@ -2639,7 +2639,7 @@
         "Slides": "",
         "Code": ""
     },
-    "208": {
+    "207": {
         "Title": "PowerFL: Fuzzing VxWorks embedded system",
         "Author": "Peter Goodman",
         "Org": "",
@@ -2652,7 +2652,7 @@
         "Slides": "",
         "Code": ""
     },
-    "209": {
+    "208": {
         "Title": "Building Fast Fuzzers",
         "Author": "Rahul Gopinath and Andreas Zeller",
         "Org": "CISPA",
@@ -2665,7 +2665,7 @@
         "Slides": "",
         "Code": ""
     },
-    "210": {
+    "209": {
         "Title": "Unicorn: Next Generation CPU Emulator Framework",
         "Author": "NGUYEN Anh Quynh ",
         "Org": "",
@@ -2678,7 +2678,7 @@
         "Slides": "",
         "Code": ""
     },
-    "211": {
+    "210": {
         "Title": "Embedded Devices Security and Firmware Reverse Engineering",
         "Author": "Jonas Zaddach",
         "Org": "",
@@ -2691,7 +2691,7 @@
         "Slides": "",
         "Code": ""
     },
-    "212": {
+    "211": {
         "Title": "FairFuzz: A Targeted Mutation Strategy for Increasing Greybox Fuzz Testing Coverage",
         "Author": "Caroline Lemieux",
         "Org": "University of California, Berkeley, USA",
@@ -2704,7 +2704,7 @@
         "Slides": "",
         "Code": ""
     },
-    "213": {
+    "212": {
         "Title": "Opening Pandora's Box through ATFuzzer: Dynamic Analysis of AT Interface for Android Smartphones",
         "Author": "Imtiaz Karim",
         "Org": "Purdue University",
@@ -2717,7 +2717,7 @@
         "Slides": "",
         "Code": "https://github.com/Imtiazkarimik23/ATFuzzer"
     },
-    "214": {
+    "213": {
         "Title": "Unveiling your keystrokes: A Cache-based Side-channel Attack on Graphics Lib",
         "Author": "Daimeng Wang",
         "Org": "University of California Riverside",
@@ -2730,7 +2730,7 @@
         "Slides": "",
         "Code": ""
     },
-    "215": {
+    "214": {
         "Title": "Chain of Fools: An Exploration of Certificate Chain Validation Mishaps",
         "Author": "James Barclay",
         "Org": "Duo Security",
@@ -2743,7 +2743,7 @@
         "Slides": "",
         "Code": ""
     },
-    "216": {
+    "215": {
         "Title": "Mobile Network Hacking, IP Edition",
         "Author": "Karsten Nohl",
         "Org": "",
@@ -2756,7 +2756,7 @@
         "Slides": "",
         "Code": ""
     },
-    "217": {
+    "216": {
         "Title": "Far Sides of Java Remote Protocols",
         "Author": "An Trinh",
         "Org": "Viettel Cyber Security",
@@ -2769,7 +2769,7 @@
         "Slides": "",
         "Code": ""
     },
-    "218": {
+    "217": {
         "Title": "Sneak into Your Room: Security Holes in the Integration and Management of Messaging Protocols on Commercial IoT Clouds",
         "Author": "Yan Jia",
         "Org": "NCNIPC",
@@ -2782,7 +2782,7 @@
         "Slides": "",
         "Code": ""
     },
-    "219": {
+    "218": {
         "Title": "Reverse Engineering and Exploiting Builds in the Cloud",
         "Author": "Etienne Stalmans",
         "Org": "Salesforce Heroku",
@@ -2795,7 +2795,7 @@
         "Slides": "",
         "Code": ""
     },
-    "220": {
+    "219": {
         "Title": "Booting the iOS Kernel to an Interactive Bash Shell on QEMU",
         "Author": "Jonathan Afek",
         "Org": "HCL/AppScan",
@@ -2808,7 +2808,7 @@
         "Slides": "",
         "Code": ""
     },
-    "221": {
+    "220": {
         "Title": "Fuzzing and Exploiting Virtual Channels in Microsoft Remote Desktop Protocol for Fun and Profit",
         "Author": "Chun Sung Park",
         "Org": "Korea University",
@@ -2821,7 +2821,7 @@
         "Slides": "",
         "Code": ""
     },
-    "222": {
+    "221": {
         "Title": "Side Channel Attacks in 4G and 5G Cellular Networks",
         "Author": "Syed Hussain",
         "Org": "Purdue University",
@@ -2834,7 +2834,7 @@
         "Slides": "",
         "Code": ""
     },
-    "223": {
+    "222": {
         "Title": "Fatal Fury on ESP32: Time to Release Hardware Exploits",
         "Author": "",
         "Org": "",
@@ -2847,7 +2847,7 @@
         "Slides": "",
         "Code": ""
     },
-    "224": {
+    "223": {
         "Title": "Site Isolation: Confining Untrustworthy Code in the Web Browser",
         "Author": "Nasko Oskov",
         "Org": "Google",
@@ -2860,7 +2860,7 @@
         "Slides": "",
         "Code": ""
     },
-    "225": {
+    "224": {
         "Title": "Practical Side-Channel Attacks Against WPA-TKIP",
         "Author": "Mathy Vanhoef",
         "Org": "New York University Abu Dhabi",
@@ -2873,7 +2873,7 @@
         "Slides": "",
         "Code": ""
     },
-    "226": {
+    "225": {
         "Title": "BlueMaster: Bypassing and Fixing Bluetooth-based Proximity Authentication",
         "Author": "Youngman Jung",
         "Org": "Samsung Electronics",
@@ -2886,7 +2886,7 @@
         "Slides": "",
         "Code": ""
     },
-    "227": {
+    "226": {
         "Title": "KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware",
         "Author": "Nilo Redini",
         "Org": "ucsb-seclab",
@@ -2899,7 +2899,7 @@
         "Slides": "",
         "Code": ""
     },
-    "228": {
+    "227": {
         "Title": "Unicorefuzz: On the Viability of Emulation for Kernelspace Fuzzing",
         "Author": "Dominik Maier, Benedikt Radtke, and Bastian Harren, TU Berlin",
         "Org": "TU Berlin",
@@ -2912,7 +2912,7 @@
         "Slides": "",
         "Code": ""
     },
-    "229": {
+    "228": {
         "Title": "PerfFuzz: Automatically Generating Pathological Inputs",
         "Author": "Caroline Lemieux",
         "Org": "University of California, Berkeley, USA",
@@ -2925,7 +2925,7 @@
         "Slides": "",
         "Code": ""
     },
-    "230": {
+    "229": {
         "Title": "SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities",
         "Author": "los Petsios",
         "Org": "Columbia University",
@@ -2938,7 +2938,7 @@
         "Slides": "",
         "Code": ""
     },
-    "231": {
+    "230": {
         "Title": "FuzzFactory: Domain-Specific Fuzzing with Waypoints",
         "Author": "Rohan Padhye",
         "Org": "University of California at Berkeley, USA",
