@@ -114,6 +114,7 @@
 | --- | --- | --- | --- | --- |
 | Edge Type Confusion 利用 |  |  |  |  |
 | IDN Visual Security Deep Thinking |  |  | 2019 | IDN |
+| Pass-the-Hash in Windows 10 39170 | Lukasz Cyra |  | 2019 | Windows NTLM |
 
 # CCS
 
@@ -163,7 +164,7 @@
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Analysis of Mutation and Generation Based Fuzzing |  |  |  | Fuzz |
-| defcon 22 geoff mcdonald meddle framework updated |  |  |  | Fuzz |
+| geoff mcdonald meddle framework updated |  |  |  | Fuzz |
 
 # FSE
 
@@ -181,9 +182,9 @@
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| CLOSING KEYNOTE   Natalie Silvanovich   The ECMA and The Chakra |  |  |  | Fuzz |
+| The ECMA and The Chakra | Natalie Silvanovich |  |  | Fuzz |
 | The Secret of ChakraCore |  |  |  |  |
-| From Out of Memory to Remote Code Execution Yuki Chen PacSec2017 final |  |  |  | Fuzz |
+| From Out of Memory to Remote Code Execution | Yuki Chen |  | 2017 | Fuzz |
 | Static Code Analysis Recognition Evasion | Andreas Wiegenstein | AP Cyber Security | 2019 | Code Analysis |
 
 # ICSE
@@ -417,4 +418,10 @@
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Unicorefuzz: On the Viability of Emulation for Kernelspace Fuzzing | Dominik Maier, Benedikt Radtke, and Bastian Harren, TU Berlin | TU Berlin | 2019 | Unicorn FUzz |
+
+# Whitepaper
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Android Enterprise Security White Paper | Google | Google | 2019 | Android |
 

@@ -19,6 +19,16 @@ def dumpJson(papers):
     with open('papers.json', 'w') as fp:
         fp.write(beautify(json.dumps(papers)))
 
+def reindex(papers):
+    tmp = {}
+    c = 1
+    for i in papers:
+        tmp[c] = papers[i]
+        c += 1
+    papers = tmp
+    dumpJson(papers)
+    return
+
 
 def genReadme(papers):
     pc = {}
@@ -86,22 +96,13 @@ def main():
             papers[i]['Reading Notes'] = ''
     '''
 
-    tmp = {}
-    c = 1
-    for i in papers:
-        tmp[c] = papers[i]
-        c += 1
-    papers = tmp
-    dumpJson(papers)
-    return
-
-
     if opts.search:
         keyword = opts.search.lower()
         for i in papers:
             p = papers[i]
             if keyword in (json.dumps(p)).lower():
-                print(beautify(json.dumps(p)))
+                # print(beautify(json.dumps(p)))
+                print(p['Title'])
     elif opts.add:
         nindex = len(papers) + 1
         title = input('Title?').strip()
