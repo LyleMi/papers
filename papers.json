@@ -209,14 +209,14 @@
     },
     "17": {
         "Title": "Smart Greybox Fuzzing",
-        "Author": "",
-        "Date": "",
+        "Author": "Van-Thuan Pham",
+        "Date": "2019",
         "Tag": ["Fuzz"],
-        "Conference": "Arxiv",
+        "Conference": "TSE",
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": "",
+        "Code": "https://github.com/aflsmart/aflsmart",
         "Abstract": "",
         "Comment": ""
     },
