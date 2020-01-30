@@ -2965,11 +2965,24 @@
         "Code": ""
     },
     "232": {
-        "Title": "Android Enterprise Security White\u00a0Paper",
+        "Title": "Android Enterprise Security White Paper",
         "Author": "Google",
         "Org": "Google",
         "Date": "2019",
         "Tag": ["Android"],
+        "Conference": "Whitepaper",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "233": {
+        "Title": "Hardwear 2018 BLE Security Essentials",
+        "Author": "",
+        "Org": "Smartlockpicking.com",
+        "Date": "2018",
+        "Tag": ["BLE"],
         "Conference": "Whitepaper",
         "Abstract": "",
         "Comment": "",

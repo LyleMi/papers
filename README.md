@@ -1,3 +1,9 @@
+# 
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Hardwear 2018 BLE Security Essentials |  | Smartlockpicking.com | 2018 | BLE |
+
 # ACM
 
 | Title | Author | Organization | Year | Keywords |
@@ -36,7 +42,6 @@
 | NEUZZ Efficient Fuzzing with Neural Program Learning |  |  |  | Fuzz |
 | NEUZZ Efficient Fuzzing with Neural Program Smoothing |  |  |  | Fuzz |
 | Not all bytes are equal  Neural byte sieve for fuzzing |  |  |  | Fuzz |
-| Smart Greybox Fuzzing |  |  |  | Fuzz |
 | TensorFuzz Debugging Neural Networks with Coverage-GUided Fuzzing |  |  |  | Fuzz |
 | Building Fast Fuzzers | Rahul Gopinath and Andreas Zeller | CISPA | 2019 | Fuzz |
 
@@ -372,6 +377,12 @@
 | --- | --- | --- | --- | --- |
 | Chakra vulnerability and exploit bypass all system mitigation |  |  |  |  |
 | Shellcodes are for the 99% |  |  |  | Fuzz |
+
+# TSE
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Smart Greybox Fuzzing | Van-Thuan Pham |  | 2019 | Fuzz |
 
 # USENIX ATC
 
