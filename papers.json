@@ -2989,5 +2989,18 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "234": {
+        "Title": "HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation",
+        "Author": "Abraham A Clements",
+        "Org": "Sandia National Laboratories",
+        "Date": "2020",
+        "Tag": ["Firmware"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": "https://github.com/embedded-sec/halucinator"
     }
 }

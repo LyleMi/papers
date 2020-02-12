@@ -1,9 +1,3 @@
-# 
-
-| Title | Author | Organization | Year | Keywords |
-| --- | --- | --- | --- | --- |
-| Hardwear 2018 BLE Security Essentials |  | Smartlockpicking.com | 2018 | BLE |
-
 # ACM
 
 | Title | Author | Organization | Year | Keywords |
@@ -423,6 +417,7 @@
 | All Your Clicks Belong to Me: Investigating Click Interception on the Web | Mingxue Zhang and Wei Meng | Pennsylvania State University | 2019 | Web Click hijack |
 | FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation | Yaowen Zheng | School of Cyber Security, University of Chinese Academy of Sciences, China | 2019 | Fuzz Firm |
 | GREYONE: Data Flow Sensitive Fuzzing | Shuitao Gan | State Key Laboratory of Mathematical Engineering and Advanced Computing | 2020 | Fuzz |
+| HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation | Abraham A Clements | Sandia National Laboratories | 2020 | Firmware |
 
 # WOOT
 
@@ -434,5 +429,6 @@
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| Android Enterprise Security White Paper | Google | Google | 2019 | Android |
+| Android Enterprise Security White Paper | Google | Google | 2019 | Android |
+| Hardwear 2018 BLE Security Essentials |  | Smartlockpicking.com | 2018 | BLE |
 
