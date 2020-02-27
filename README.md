@@ -301,6 +301,7 @@
 | DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems | Z. Berkay Celik | Penn State University | 2019 | IoT |
 | Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares | Jonas Zaddach | EURECOM, France | 2014 | Fuzz Firmware |
 | Unveiling your keystrokes: A Cache-based Side-channel Attack on Graphics Lib | Daimeng Wang | University of California Riverside | 2019 | Side-channel |
+| What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices | Marius Muench | EURECOM | 2018 | Fuzz Embedded |
 
 # OOPSLA
 

@@ -3002,5 +3002,18 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": "https://github.com/embedded-sec/halucinator"
+    },
+    "235": {
+        "Title": "What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices",
+        "Author": "Marius Muench",
+        "Org": "EURECOM",
+        "Date": "2018",
+        "Tag": ["Fuzz", "Embedded"],
+        "Conference": "NDSS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
