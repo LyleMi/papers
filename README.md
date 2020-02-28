@@ -302,6 +302,11 @@
 | Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares | Jonas Zaddach | EURECOM, France | 2014 | Fuzz Firmware |
 | Unveiling your keystrokes: A Cache-based Side-channel Attack on Graphics Lib | Daimeng Wang | University of California Riverside | 2019 | Side-channel |
 | What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices | Marius Muench | EURECOM | 2018 | Fuzz Embedded |
+| Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites | Takuya Watanabe | NTT | 2020 | Web |
+| Deceptive Previews: A Study of the Link Preview Trustworthiness in Social Platforms | Giada Stivala | CISPA | 2020 | Web Social |
+| Cross-Origin State Inference (COSI) Attacks: Leaking Web Site States through XS-Leaks | Avinash Sudhodanan | IMDEA Software Institute | 2020 | Web Frontend |
+| HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing | William Blair | Boston University | 2020 | Fuzz SlowFuzz |
+| Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization | Yanhao Wang | Institute of Software, Chinese Academy of Sciences | 2020 | Fuzz |
 
 # OOPSLA
 

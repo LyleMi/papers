@@ -3015,5 +3015,70 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "236": {
+        "Title": "Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites",
+        "Author": "Takuya Watanabe",
+        "Org": "NTT",
+        "Date": "2020",
+        "Tag": ["Web"],
+        "Conference": "NDSS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "237": {
+        "Title": "Deceptive Previews: A Study of the Link Preview Trustworthiness in Social Platforms",
+        "Author": "Giada Stivala",
+        "Org": "CISPA",
+        "Date": "2020",
+        "Tag": ["Web", "Social"],
+        "Conference": "NDSS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "238": {
+        "Title": "Cross-Origin State Inference (COSI) Attacks: Leaking Web Site States through XS-Leaks",
+        "Author": "Avinash Sudhodanan",
+        "Org": "IMDEA Software Institute",
+        "Date": "2020",
+        "Tag": ["Web", "Frontend"],
+        "Conference": "NDSS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "239": {
+        "Title": "HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing",
+        "Author": "William Blair",
+        "Org": "Boston University",
+        "Date": "2020",
+        "Tag": ["Fuzz", "SlowFuzz"],
+        "Conference": "NDSS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "240": {
+        "Title": "Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization",
+        "Author": "Yanhao Wang",
+        "Org": "Institute of Software, Chinese Academy of Sciences",
+        "Date": "2020",
+        "Tag": ["Fuzz"],
+        "Conference": "NDSS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
