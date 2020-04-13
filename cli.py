@@ -101,7 +101,7 @@ def main():
         for i in papers:
             p = papers[i]
             if keyword in (json.dumps(p)).lower():
-                # print(beautify(json.dumps(p)))
+                print(beautify(json.dumps(p)))
                 print(p['Title'])
     elif opts.add:
         nindex = len(papers) + 1

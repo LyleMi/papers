@@ -3,7 +3,7 @@
 提了一个数据流敏感Fuzz 叫GreyOne
 做了一个工具 Fuzzing-Driven Taint Inference (FTI)
 基于Taint 做了一个输入优先级模型 来确定哪个分支更值得探索
-最后做了一个 constraint conformance (约束一致性)
+最后做了一个 constraint conformance (约束一致性)，来触发
 
 然后在LAVA和19个真实世界的测试程序上做了测试
 在LAVA上找到了所有公开的漏洞 还找到了336个没有确认的洞

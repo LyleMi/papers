@@ -130,7 +130,7 @@
 | POISED Spotting Twitter Spam Off the Beaten Paths |  |  |  | Spam |
 | Predicting Impending Exposure to Malicious Content from User Behavior |  |  |  |  |
 | Rewriting History Changing the Archived Web from the Present |  |  |  |  |
-| SemFuzz Semantics-based Automatic Generation of Proof-of-Concept Exploits |  |  |  |  |
+| SemFuzz Semantics-based Automatic Generation of Proof-of-Concept Exploits |  |  |  | Fuzz |
 | The TypTop System Personalized Typo-Tolerant Password Checking |  |  |  |  |
 | Threat Intelligence Computing |  |  |  | Threat Intelligence |
 | Trends, challenge, and shifts in software vulnerability mitigation |  |  |  |  |
@@ -226,6 +226,7 @@
 | (State of) The Art of War: Offensive Techniques in Binary Analysis | Yan Shoshitaishvili | UCSB | 2016 | Angr Binary Analysis |
 | Dragonblood: Analyzing the Dragonfly Handshake of WPA3 and EAP-pwd | Mathy Vanhoef | New York University Abu Dhabi | 2020 | Wifi |
 | KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware | Nilo Redini | ucsb-seclab | 2020 | Embedded |
+| TaintScope: A Checksum-Aware Directed Fuzzing Tool for Automatic Software Vulnerability Detection | Tielei Wang |  | 2020 | taint fuzz |
 
 # IEEE-ACM
 
@@ -323,7 +324,7 @@
 | Chrome IPC Exploitation |  |  | 2019 | Exploit |
 | Coverage-Guided USB Fuzzing with Syzkaller |  |  | 2019 | Fuzz |
 | From Assembly to JavaScript and back |  |  | 2018 |  |
-| Fuzzil: Guided Fuzzing for JavaScript Engines by Samuel Groß |  |  | 2019 | Fuzz |
+| Fuzzil: Guided Fuzzing for JavaScript Engines | Samuel Groß |  | 2019 | Fuzz |
 
 # PLDI
 
