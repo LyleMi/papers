@@ -3093,5 +3093,18 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "242": {
+        "Title": "MemLock: Memory Usage Guided Fuzzing",
+        "Author": "Cheng Wen",
+        "Org": "Shenzhen University;Ant Financial",
+        "Date": "2020",
+        "Tag": ["Fuzz", "AFL"],
+        "Conference": "ICSE",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": "https://github.com/wcventure/MemLock-Fuzz"
     }
 }

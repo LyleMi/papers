@@ -194,6 +194,7 @@
 | DifFuzz Differential Fuzzing for Side-Channel Analysis | Shirin Nilizadeh | uta.edu | 2019 | Differential Fuzz |
 | REST-ler: Automatic Intelligent REST API Fuzzing | Vaggelis Atlidakis | Columbia University | 2019 | Fuzz Web RESTful |
 | SLF: Fuzzing without Valid Seed Inputs | Wei You | Purdue University | 2019 | Fuzz |
+| MemLock: Memory Usage Guided Fuzzing | Cheng Wen | Shenzhen University;Ant Financial | 2020 | Fuzz AFL |
 
 # IEEE
 
