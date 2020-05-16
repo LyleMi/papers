@@ -3106,5 +3106,57 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": "https://github.com/wcventure/MemLock-Fuzz"
+    },
+    "243": {
+        "Title": "EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as aVariant of the Adversarial Multi-Armed Bandit",
+        "Author": "Tai Yue, Pengfei Wang, Yong Tan",
+        "Org": "National University of Defense Technology",
+        "Date": "2020",
+        "Tag": ["Fuzz", "AI"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "244": {
+        "Title": "Dowsing for Overflows: A Guided Fuzzer to Find Buffer Boundary Violations",
+        "Author": "Istvan Haller",
+        "Org": "VU University Amsterdam",
+        "Date": "2013",
+        "Tag": ["Guied Fuzz"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "245": {
+        "Title": "FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzingthrough Deep Learning",
+        "Author": "Peiyuan Zong",
+        "Org": "UCAS",
+        "Date": "2020",
+        "Tag": ["Fuzz"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "246": {
+        "Title": "New Exploit Technique In Java Deserialization Attack",
+        "Author": "Yongtao Wang",
+        "Org": "BCM Social Corp",
+        "Date": "2019",
+        "Tag": ["Java", "Deserialization"],
+        "Conference": "BlackHat-EU",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

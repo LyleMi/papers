@@ -70,6 +70,12 @@
 | --- | --- | --- | --- | --- |
 | Embedded Devices Security and Firmware Reverse Engineering | Jonas Zaddach |  | 2013 | Embedded Devices Firmware Reverse Engineering |
 
+# BlackHat-EU
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| New Exploit Technique In Java Deserialization Attack | Yongtao Wang | BCM Social Corp | 2019 | Java Deserialization |
+
 # Blackhat
 
 | Title | Author | Organization | Year | Keywords |
@@ -426,6 +432,9 @@
 | FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation | Yaowen Zheng | School of Cyber Security, University of Chinese Academy of Sciences, China | 2019 | Fuzz Firm |
 | GREYONE: Data Flow Sensitive Fuzzing | Shuitao Gan | State Key Laboratory of Mathematical Engineering and Advanced Computing | 2020 | Fuzz |
 | HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation | Abraham A Clements | Sandia National Laboratories | 2020 | Firmware |
+| EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as aVariant of the Adversarial Multi-Armed Bandit | Tai Yue, Pengfei Wang, Yong Tan | National University of Defense Technology | 2020 | Fuzz AI |
+| Dowsing for Overflows: A Guided Fuzzer to Find Buffer Boundary Violations | Istvan Haller | VU University Amsterdam | 2013 | Guied Fuzz |
+| FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzingthrough Deep Learning | Peiyuan Zong | UCAS | 2020 | Fuzz |
 
 # WOOT
 
