@@ -3158,5 +3158,57 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "247": {
+        "Title": "Boosting Fuzzer Efficiency:An Information Theoretic Perspective",
+        "Author": "Marcel B\u00f6hme",
+        "Org": "Monash University",
+        "Date": "2020",
+        "Tag": ["Fuzz"],
+        "Conference": "ESEC/FSE",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "248": {
+        "Title": "AFLNET: A Greybox Fuzzer for Network Protocols",
+        "Author": "Van-Thuan Pham",
+        "Org": "Monash University",
+        "Date": "2020",
+        "Tag": ["Fuzz", " Network"],
+        "Conference": "ICST",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "249": {
+        "Title": "NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities",
+        "Author": "Lior Shafir",
+        "Org": "Tel Aviv University",
+        "Date": "2020",
+        "Tag": ["DNS", "DoS"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "http://www.nxnsattack.com",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "250": {
+        "Title": "Understanding The Attack Surface And Attack Resilience Of Project Spartans New EdgeHTML Rendering Engine",
+        "Author": "Mark Vincent Yason",
+        "Org": "IBM X-Force Advanced Research",
+        "Date": "2015",
+        "Tag": ["Edge", "Attack"],
+        "Conference": "BlackHat",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

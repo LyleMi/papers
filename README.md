@@ -48,6 +48,12 @@
 | A Feature-Oriented Corpus for Understanding, Evaluating and Improving Fuzz Testing | Xiaogang Zhu | Swinburne University of Technology | 2019 | Fuzzing |
 | PTrix Efficient Hardware-Assisted Fuzzing for COTS Binary | Yaohui Chen | Northeastern University | 2019 | Fuzz |
 
+# BlackHat
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Understanding The Attack Surface And Attack Resilience Of Project Spartans New EdgeHTML Rendering Engine | Mark Vincent Yason | IBM X-Force Advanced Research | 2015 | Edge Attack |
+
 # BlackHat EU
 
 | Title | Author | Organization | Year | Keywords |
@@ -171,6 +177,12 @@
 | Analysis of Mutation and Generation Based Fuzzing |  |  |  | Fuzz |
 | geoff mcdonald meddle framework updated |  |  |  | Fuzz |
 
+# ESEC/FSE
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Boosting Fuzzer Efficiency:An Information Theoretic Perspective | Marcel Böhme | Monash University | 2020 | Fuzz |
+
 # FSE
 
 | Title | Author | Organization | Year | Keywords |
@@ -201,6 +213,12 @@
 | REST-ler: Automatic Intelligent REST API Fuzzing | Vaggelis Atlidakis | Columbia University | 2019 | Fuzz Web RESTful |
 | SLF: Fuzzing without Valid Seed Inputs | Wei You | Purdue University | 2019 | Fuzz |
 | MemLock: Memory Usage Guided Fuzzing | Cheng Wen | Shenzhen University;Ant Financial | 2020 | Fuzz AFL |
+
+# ICST
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| AFLNET: A Greybox Fuzzer for Network Protocols | Van-Thuan Pham | Monash University | 2020 | Fuzz  Network |
 
 # IEEE
 
@@ -435,6 +453,7 @@
 | EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as aVariant of the Adversarial Multi-Armed Bandit | Tai Yue, Pengfei Wang, Yong Tan | National University of Defense Technology | 2020 | Fuzz AI |
 | Dowsing for Overflows: A Guided Fuzzer to Find Buffer Boundary Violations | Istvan Haller | VU University Amsterdam | 2013 | Guied Fuzz |
 | FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzingthrough Deep Learning | Peiyuan Zong | UCAS | 2020 | Fuzz |
+| NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities | Lior Shafir | Tel Aviv University | 2020 | DNS DoS |
 
 # WOOT
 
