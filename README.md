@@ -157,6 +157,7 @@
 | Matryoshka: fuzzing deeply nested branches | Peng Chen | ByteDance AI Lab | 2019 | Fuzz |
 | Principled Unearthing of TCP Side Channel Vulnerabilities | Yue Cao | UC Riverside | 2019 | TCP Side Channel |
 | SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities | los Petsios | Columbia University | 2017 | Fuzz |
+| SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback | Rui Zhong, Yongheng Chen, Hong Hu, Hangfan Zhang, Wenke Lee, Dinghao Wu | Software Systems Security Team at Penn State University | 2020 | Fuzz SQL |
 
 # DEFCON
 
@@ -203,6 +204,7 @@
 | The Secret of ChakraCore |  |  |  |  |
 | From Out of Memory to Remote Code Execution | Yuki Chen |  | 2017 | Fuzz |
 | Static Code Analysis Recognition Evasion | Andreas Wiegenstein | AP Cyber Security | 2019 | Code Analysis |
+| Building Next-Gen Security Analysis Tools With Qiling Framework | KaiJern LAU | qiling.io | 2020 | Emulation |
 
 # ICSE
 
@@ -213,6 +215,7 @@
 | REST-ler: Automatic Intelligent REST API Fuzzing | Vaggelis Atlidakis | Columbia University | 2019 | Fuzz Web RESTful |
 | SLF: Fuzzing without Valid Seed Inputs | Wei You | Purdue University | 2019 | Fuzz |
 | MemLock: Memory Usage Guided Fuzzing | Cheng Wen | Shenzhen University;Ant Financial | 2020 | Fuzz AFL |
+| Typestate-Guided Fuzzer for Discovering Use-after-Free Vulnerabilities | Haijun Wang | Ant Financial Services Group | 2020 | Fuzz UAF |
 
 # ICST
 
@@ -270,6 +273,7 @@
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | PerfFuzz: Automatically Generating Pathological Inputs | Caroline Lemieux | University of California, Berkeley, USA | 2018 | Fuzz |
+| WEIZZ: Automatic Grey-Box Fuzzingfor Structured Binary Formats | Andrea Fioraldi | Sapienza University of RomeItaly | 2020 | Fuzz Structured |
 
 # MS
 
@@ -454,6 +458,8 @@
 | Dowsing for Overflows: A Guided Fuzzer to Find Buffer Boundary Violations | Istvan Haller | VU University Amsterdam | 2013 | Guied Fuzz |
 | FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzingthrough Deep Learning | Peiyuan Zong | UCAS | 2020 | Fuzz |
 | NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities | Lior Shafir | Tel Aviv University | 2020 | DNS DoS |
+| Mobile Private Contact Discovery at Scale | Daniel Kales | Graz University of Technology | 2019 | Mobile |
+| P2IM Scalable and Hardware-independent Firmware Testing via Automatic Peripheral Interface Modeling | Bo Feng, Alejandro Mera, and Long Lu | Northeastern University | 2020 | Fuzz |
 
 # WOOT
 
