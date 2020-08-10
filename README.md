@@ -48,6 +48,31 @@
 | A Feature-Oriented Corpus for Understanding, Evaluating and Improving Fuzz Testing | Xiaogang Zhu | Swinburne University of Technology | 2019 | Fuzzing |
 | PTrix Efficient Hardware-Assisted Fuzzing for COTS Binary | Yaohui Chen | Northeastern University | 2019 | Fuzz |
 
+# Black Hat USA
+
+| Title | Author | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Defending Containers Like a Ninja: A Walk through the Advanced Security Features of Docker & Kubernetes | Sheila Berta | Head of Research, Dreamlab Technologies | 2020 | Defense Cloud |
+| Emulating Samsung's Baseband for Security Testing | Grant Hernandez | Security Researcher, University of Florida | 2020 | Mobile Hardware Emulate |
+| Hiding Process Memory via Anti-Forensic Techniques | Frank Block | Security Researcher, ERNW Research GmbH | 2020 | Malware Forensics |
+| HTTP Request Smuggling in 2020 – New Variants, New Defenses and New Challenges | Amit Klein | VP Security Research, SafeBreach | 2020 | Web |
+| Decade of the RATs – Custom Chinese Linux Rootkits for Everyone | Kevin Livelli | Director of Threat Intelligence, BlackBerry | 2020 | Malware |
+| Detecting Fake 4G Base Stations in Real Time | Cooper Quintin | Senior Staff Technologist, Electronic Frontier Foundation | 2020 | Mobile |
+| Web Cache Entanglement: Novel Pathways to Poisoning | James Kettle | PortSwigger Web Security | 2020 | Web |
+| Demystifying Modern Windows Rootkits | Bill Demirkapi |  | 2020 | Rootkit |
+| Discovering Hidden Properties to Attack the Node.js Ecosystem | Feng Xiao | Georgia Institute of Technology | 2020 | Web |
+| NoJITsu: Locking Down JavaScript Engines | Taemin Park | University of California, Irvine | 2020 | JavaScript |
+| When TLS Hacks You | Joshua Maddux | Latacora | 2020 | Web |
+| OTRazor: Static Code Analysis for Vulnerability Discovery in Industrial Automation Scripts | Federico Maggi | Trend Micro Research | 2020 | Audit |
+| Fooling Windows through Superfetch | Mathilde Venault | ESIEA | 2020 | Windows |
+| Escaping Virtualized Containers | Yuval Avrahami | Palo Alto Networks | 2020 | Virtualize |
+| About Directed Fuzzing and Use-After-Free: How to Find Complex & Silent Bugs? | Sébastien Bardin   |  | 2020 | Fuzz |
+| Detecting Access Token Manipulation | William Burgess | Elastic | 2020 | Windows |
+| You have No Idea Who Sent that Email: 18 Attacks on Email Sender Authentication | Jianjun Chen |  | 2020 | Social Enginner |
+| Routopsy: Modern Routing Protocol Vulnerability Analysis and Exploitation | Szymon Ziolkowski  | SensePost | 2020 | Router |
+| Virtually Private Networks | Charl van der Walt | Global Head of Security Research, Orange Cyberdefense | 2020 | Web |
+| Mind Games: Using Data to Solve for the Human Element | Masha Sedova | Elevate Security | 2020 | Social Enginner |
+
 # BlackHat
 
 | Title | Author | Organization | Year | Keywords |

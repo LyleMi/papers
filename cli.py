@@ -109,10 +109,13 @@ def main():
         author = input('Author (split with ",")?')
         org = input('Organization?').strip()
         tag = input('Tag (split with ";")?')
-        date = '2019'
+        # date = '2019'
         date = input('Date?').strip()
-        conference = 'BlackHat'
+        if date == '':
+            date = '2020'
         conference = input('Conference?').strip()
+        if conference == '':
+            conference = 'Black Hat USA'
         newpaper = {}
         newpaper['Title'] = title
         newpaper['Author'] = author
