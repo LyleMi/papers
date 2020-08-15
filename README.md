@@ -485,6 +485,25 @@
 | NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities | Lior Shafir | Tel Aviv University | 2020 | DNS DoS |
 | Mobile Private Contact Discovery at Scale | Daniel Kales | Graz University of Technology | 2019 | Mobile |
 | P2IM Scalable and Hardware-independent Firmware Testing via Automatic Peripheral Interface Modeling | Bo Feng, Alejandro Mera, and Long Lu | Northeastern University | 2020 | Fuzz |
+| Sys: A Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code | Fraser Brown, Stanford University; Deian Stefan, UC San Diego; Dawson Engler, Stanford University | Stanford University | 2020 | Browser Vuln Discovery |
+| AURORA: Statistical Crash Analysis for Automated Root Cause Explanation | Tim Blazytko | Ruhr-Universität Bochum | 2020 | Automated |
+| Poison Over Troubled Forwarders: A Cache Poisoning Attack Targeting DNS Forwarding Devices | Xiaofeng Zheng | Tsinghua University | 2020 | DNS Cache Poisoning |
+| NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities | Yehuda Afek | Tel-Aviv University | 2020 | DNS |
+| A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email | Hyeonmin Lee | Seoul National University | 2020 | Email DNS |
+| Cached and Confused: Web Cache Deception in the Wild | Seyed Ali Mirheidari | University of Trento | 2020 | Cache Deception |
+| KOOBE: Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities | Weiteng Chen | UC Riverside | 2020 | OOB Exploit |
+| Automatic Techniques to Systematically Discover New Heap Exploitation Primitives | Insu Yun | Georgia Institute of Technology | 2020 | Heap Exploit |
+| The Industrial Age of Hacking | Timothy Nosco | United States Army | 2020 | Training |
+| FuzzGen: Automatic Fuzzer Generation | Kyriakos Ispoglou | Daniel Austin | 2020 | Fuzz |
+| FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzing through Deep Learning | Peiyuan Zong | IIE | 2020 | Fuzz Deep Learning |
+| MUZZ: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs | Hongxu Chen | University of Science and Technology of China and Nayang Technological University | 2020 | Fuzz |
+| EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as a Variant of the Adversarial Multi-Armed Bandit | Tai Yue | National University of Defense Technology | 2020 | Fuzz |
+| ParmeSan: Sanitizer-guided Greybox Fuzzing | Sebastian Österlund | Vrije Universiteit Amsterdam | 2020 | Fuzz |
+| Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer | Suyoung Lee | KAIST | 2020 | Fuzz NN |
+| Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection | Zu-Ming Jiang | Tsinghua University | 2020 | Fuzz |
+| USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation | Hui Peng | Purdue University | 2020 | Fuzz Emulation |
+| Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine Checkpoints | Dokyung Song | University of California, Irvine | 2020 | Fuzz Kernel |
+| Analysis of DTLS Implementations Using Protocol State Fuzzing | Paul Fiterau-Brostean | Uppsala University | 2020 | Fuzz |
 
 # WOOT
 

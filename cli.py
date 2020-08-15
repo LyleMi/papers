@@ -66,7 +66,12 @@ def genReadme(papers):
 
 def main():
     parser = argparse.ArgumentParser(
-        description='description',
+        description="""
+set default value:
+
+set DATE=2020
+set CONFERENCE=Usenix
+""",
         usage='[options]',
         epilog='epilog')
     parser.add_argument(
@@ -112,10 +117,10 @@ def main():
         # date = '2019'
         date = input('Date?').strip()
         if date == '':
-            date = '2020'
+            date = os.getenv('DATE')
         conference = input('Conference?').strip()
         if conference == '':
-            conference = 'Black Hat USA'
+            conference = os.getenv('CONFERENCE')
         newpaper = {}
         newpaper['Title'] = title
         newpaper['Author'] = author
