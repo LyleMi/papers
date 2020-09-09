@@ -3795,5 +3795,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "296": {
+        "Title": "Room for Escape: Scribbling Outside the Lines of Template Security",
+        "Author": "Alvaro Mu\u00f1oz;Oleksandr Mirosh",
+        "Org": "GitHub",
+        "Date": "2020",
+        "Tag": ["Web"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "297": {
+        "Title": "FANS: Fuzzing Android Native System Services via Automated Interface Analysis",
+        "Author": "Baozheng Liu,Chao Zhang",
+        "Org": "Tsinghua University",
+        "Date": "2020",
+        "Tag": ["Fuzz", "Android"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

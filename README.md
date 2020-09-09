@@ -72,6 +72,7 @@
 | Routopsy: Modern Routing Protocol Vulnerability Analysis and Exploitation | Szymon Ziolkowski  | SensePost | 2020 | Router |
 | Virtually Private Networks | Charl van der Walt | Global Head of Security Research, Orange Cyberdefense | 2020 | Web |
 | Mind Games: Using Data to Solve for the Human Element | Masha Sedova | Elevate Security | 2020 | Social Enginner |
+| Room for Escape: Scribbling Outside the Lines of Template Security | Alvaro Muñoz;Oleksandr Mirosh | GitHub | 2020 | Web |
 
 # BlackHat
 
@@ -504,6 +505,7 @@
 | USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation | Hui Peng | Purdue University | 2020 | Fuzz Emulation |
 | Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine Checkpoints | Dokyung Song | University of California, Irvine | 2020 | Fuzz Kernel |
 | Analysis of DTLS Implementations Using Protocol State Fuzzing | Paul Fiterau-Brostean | Uppsala University | 2020 | Fuzz |
+| FANS: Fuzzing Android Native System Services via Automated Interface Analysis | Baozheng Liu,Chao Zhang | Tsinghua University | 2020 | Fuzz Android |
 
 # WOOT
 
