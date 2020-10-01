@@ -3821,5 +3821,18 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "298": {
+        "Title": "IJON: Exploring Deep State Spaces via Fuzzing",
+        "Author": "Cornelius Aschermann, Sergej Schumilo, Ali Abbasi, and Thorsten Holz",
+        "Org": "Ruhr University Bochum",
+        "Date": "2020",
+        "Tag": ["Fuzz"],
+        "Conference": "IEEE S&P",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
