@@ -29,6 +29,12 @@ def reindex(papers):
     dumpJson(papers)
     return
 
+def str2anchor(s):
+    s = s.lower()
+    s = s.replace(" ", "-")
+    s = s.replace("/", "")
+    s = s.replace("&", "")
+    return s
 
 def genReadme(papers):
     pc = {}
@@ -41,10 +47,21 @@ def genReadme(papers):
     conferences = list(conferences)
     conferences.sort()
 
-    with open('README.md', 'wb') as fh:
+    header = '''# Papers
+
+Recently read papers, articles, there are also some reading notes written by myself or copied from other sources.
+
+## Index\n
+'''
+
+    with open("README.md", "w", encoding="utf-8", newline="\n") as fh:
+        fh.write(header)
+        for c in conferences:
+            fh.write("- [%s](#%s)\n" % (c, str2anchor(c)))
+        fh.write("\n")
         for c in conferences:
             s = ''
-            s += '# ' + c + '\n\n'
+            s += '## ' + c + '\n\n'
             s += '| '
             s += ' | '.join([
                 'Title', 'Author', 'Organization', 'Year', 'Keywords'
@@ -62,7 +79,7 @@ def genReadme(papers):
                 ])
                 s += ' |\n'
             s += '\n'
-            fh.write(s.encode('utf-8'))
+            fh.write(s)
 
 def main():
     parser = argparse.ArgumentParser(
