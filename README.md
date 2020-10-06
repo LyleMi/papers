@@ -67,7 +67,7 @@ Recently read papers, articles, there are also some reading notes written by mys
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| FairFuzz: A Targeted Mutation Strategy for Increasing Greybox Fuzz Testing Coverage | Caroline Lemieux | University of California, Berkeley, USA | 2018 | Fuzz AFL |
+| FairFuzz: A Targeted Mutation Strategy for Increasing Greybox Fuzz Testing Coverage | Caroline Lemieux | University of California, Berkeley, USA | 2018 | Fuzz;AFL |
 
 ## Arxiv
 
@@ -91,7 +91,7 @@ Recently read papers, articles, there are also some reading notes written by mys
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| Practical Side-Channel Attacks against WPA-TKIP | Domien Schepers |  | 2019 | Wi Fi |
+| Practical Side-Channel Attacks against WPA-TKIP | Domien Schepers |  | 2019 | Wi;Fi |
 | ScriptProtect: Mitigating UnsafeThird-Party JavaScript Practices | Marius Musch | TU Braunschweig | 2019 | XSS |
 | A Feature-Oriented Corpus for Understanding, Evaluating and Improving Fuzz Testing | Xiaogang Zhu | Swinburne University of Technology | 2019 | Fuzzing |
 | PTrix Efficient Hardware-Assisted Fuzzing for COTS Binary | Yaohui Chen | Northeastern University | 2019 | Fuzz |
@@ -108,18 +108,18 @@ Recently read papers, articles, there are also some reading notes written by mys
 | the power of pair one template that reveals 100 plus uaf ie vulnerabilities |  |  | 2014 | Fuzz |
 | Stone Pixel Perfect Timing Attacks with HTML5 |  |  | 2013 | WebSec |
 | WebAssembly A New World of Native Exploits On The Web |  |  | 2018 | WebAssembly |
-| Battle Of Windows Service A Silver Bullet To Discover File Privilege Escalation Bugs Automatically | Wenxu Wu (@Ma7h1as) | Xuanwu Lab of Tencent | 2019 | Windows Fuzz Logic |
+| Battle Of Windows Service A Silver Bullet To Discover File Privilege Escalation Bugs Automatically | Wenxu Wu (@Ma7h1as) | Xuanwu Lab of Tencent | 2019 | Windows;Fuzz;Logic |
 | Monsters in the Middleboxes: Building Tools for Detecting HTTPS Interception | Luke Valenta | Cloudflare | 2019 | Web |
-| Munoz SSO Wars The Token Menace | Alvaro Munoz |  | 2019 | Web Auth SAML |
+| Munoz SSO Wars The Token Menace | Alvaro Munoz |  | 2019 | Web;Auth;SAML |
 | Attacking And Defending The Microsoft Cloud | Sean Metcalf |  | 2019 | Web |
 | Dragonblood: Attacking the Dragonfly Handshake of WPA3 | Mathy Vanhoef | New York University Abu Dhabi | 2019 | Wifi |
-| All the 4G Modules Could be Hacked | Shupeng Gao | Baidu Security Lab | 2019 | 4G IoT |
+| All the 4G Modules Could be Hacked | Shupeng Gao | Baidu Security Lab | 2019 | 4G;IoT |
 | HTTP Desync Attacks: Smashing into the Cell Next Door | James Kettle | PortSwigger Web Security | 2019 | Web |
 | I'm Unique, Just Like You: Human Side-Channels and Their Implications for Security and Privacy | Matt Wixey | PwC | 2019 | Social Engineering |
 | Infiltrating Corporate Intranet Like NSA - Pre-auth RCE on Leading SSL VPNs | Orange Tsai | DEVCORE | 2019 | Web |
 | Attack Surface as a Service | Anna Westelius | Arkose Labs | 2019 | PPT |
 | The Enemy Within: Modern Supply Chain Attacks | Eric Doerr | MSRC | 2019 | Supply Chain |
-| API-Induced SSRF: How Apple Pay Scattered Vulnerabilities Across the Web | Joshua Maddux | PKC Security | 2019 | Web SSRF API |
+| API-Induced SSRF: How Apple Pay Scattered Vulnerabilities Across the Web | Joshua Maddux | PKC Security | 2019 | Web;SSRF;API |
 | DevSecOps : What, Why and How | Anant Shrivastava | NotSoSecure | 2019 | DevSecOps |
 | 0-days & Mitigations: Roadways to Exploit and Secure Connected BMW Cars | Zhiqiang Cai | KeenLab | 2019 | Car |
 | Exploiting Qualcomm WLAN and Modem Over The Air | Xiling Gong | Tencent Blade Team | 2019 | WLAN |
@@ -137,22 +137,22 @@ Recently read papers, articles, there are also some reading notes written by mys
 | Sneak into Your Room: Security Holes in the Integration and Management of Messaging Protocols on Commercial IoT Clouds | Yan Jia | NCNIPC | 2019 | IoT |
 | Reverse Engineering and Exploiting Builds in the Cloud | Etienne Stalmans | Salesforce Heroku | 2019 |  |
 | Booting the iOS Kernel to an Interactive Bash Shell on QEMU | Jonathan Afek | HCL/AppScan | 2019 | iOS |
-| Fuzzing and Exploiting Virtual Channels in Microsoft Remote Desktop Protocol for Fun and Profit | Chun Sung Park | Korea University | 2019 | Fuzz RDP |
-| Side Channel Attacks in 4G and 5G Cellular Networks | Syed Hussain | Purdue University | 2019 | Mobile telecommunication |
+| Fuzzing and Exploiting Virtual Channels in Microsoft Remote Desktop Protocol for Fun and Profit | Chun Sung Park | Korea University | 2019 | Fuzz;RDP |
+| Side Channel Attacks in 4G and 5G Cellular Networks | Syed Hussain | Purdue University | 2019 | Mobile;telecommunication |
 | Fatal Fury on ESP32: Time to Release Hardware Exploits |  |  | 2019 |  |
-| Site Isolation: Confining Untrustworthy Code in the Web Browser | Nasko Oskov | Google | 2019 | Browser Web |
+| Site Isolation: Confining Untrustworthy Code in the Web Browser | Nasko Oskov | Google | 2019 | Browser;Web |
 | Practical Side-Channel Attacks Against WPA-TKIP | Mathy Vanhoef | New York University Abu Dhabi | 2019 | WiFi |
 | BlueMaster: Bypassing and Fixing Bluetooth-based Proximity Authentication | Youngman Jung | Samsung Electronics | 2019 | Bluetooth |
-| New Exploit Technique In Java Deserialization Attack | Yongtao Wang | BCM Social Corp | 2019 | Java Deserialization |
+| New Exploit Technique In Java Deserialization Attack | Yongtao Wang | BCM Social Corp | 2019 | Java;Deserialization |
 
 ## Black Hat USA
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| Understanding The Attack Surface And Attack Resilience Of Project Spartans New EdgeHTML Rendering Engine | Mark Vincent Yason | IBM X-Force Advanced Research | 2015 | Edge Attack |
-| Defending Containers Like a Ninja: A Walk through the Advanced Security Features of Docker & Kubernetes | Sheila Berta | Head of Research, Dreamlab Technologies | 2020 | Defense Cloud |
-| Emulating Samsung's Baseband for Security Testing | Grant Hernandez | Security Researcher, University of Florida | 2020 | Mobile Hardware Emulate |
-| Hiding Process Memory via Anti-Forensic Techniques | Frank Block | Security Researcher, ERNW Research GmbH | 2020 | Malware Forensics |
+| Understanding The Attack Surface And Attack Resilience Of Project Spartans New EdgeHTML Rendering Engine | Mark Vincent Yason | IBM X-Force Advanced Research | 2015 | Edge;Attack |
+| Defending Containers Like a Ninja: A Walk through the Advanced Security Features of Docker & Kubernetes | Sheila Berta | Head of Research, Dreamlab Technologies | 2020 | Defense;Cloud |
+| Emulating Samsung's Baseband for Security Testing | Grant Hernandez | Security Researcher, University of Florida | 2020 | Mobile;Hardware;Emulate |
+| Hiding Process Memory via Anti-Forensic Techniques | Frank Block | Security Researcher, ERNW Research GmbH | 2020 | Malware;Forensics |
 | HTTP Request Smuggling in 2020 – New Variants, New Defenses and New Challenges | Amit Klein | VP Security Research, SafeBreach | 2020 | Web |
 | Decade of the RATs – Custom Chinese Linux Rootkits for Everyone | Kevin Livelli | Director of Threat Intelligence, BlackBerry | 2020 | Malware |
 | Detecting Fake 4G Base Stations in Real Time | Cooper Quintin | Senior Staff Technologist, Electronic Frontier Foundation | 2020 | Mobile |
@@ -176,7 +176,7 @@ Recently read papers, articles, there are also some reading notes written by mys
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| Embedded Devices Security and Firmware Reverse Engineering | Jonas Zaddach |  | 2013 | Embedded Devices Firmware Reverse Engineering |
+| Embedded Devices Security and Firmware Reverse Engineering | Jonas Zaddach |  | 2013 | Embedded Devices;Firmware;Reverse Engineering |
 
 ## Blog
 
@@ -184,7 +184,7 @@ Recently read papers, articles, there are also some reading notes written by mys
 | --- | --- | --- | --- | --- |
 | Edge Type Confusion 利用 |  |  |  |  |
 | IDN Visual Security Deep Thinking |  |  | 2019 | IDN |
-| Pass-the-Hash in Windows 10 39170 | Lukasz Cyra |  | 2019 | Windows NTLM |
+| Pass-the-Hash in Windows 10 39170 | Lukasz Cyra |  | 2019 | Windows;NTLM |
 
 ## CCS
 
@@ -209,14 +209,14 @@ Recently read papers, articles, there are also some reading notes written by mys
 | When Good Components Go Bad Formally Secure Compilation Despite Dynamic Compromise |  |  |  |  |
 | Yet Another Text Captcha Solver A Generative Adversarial Network Based Approach |  |  |  |  |
 | Coverage-based Greybox Fuzzing as Markov Chain | Marcel Böhme | School of Computing, National University of Singapore | 2016 | Fuzz |
-| Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack | Hoai Viet Nguyen | Cologne University of Applied Sciences, Germany | 2019 | Web Cache |
+| Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack | Hoai Viet Nguyen | Cologne University of Applied Sciences, Germany | 2019 | Web;Cache |
 | 1 Trillion Dollar Refund – How To Spoof PDF Signatures | Vladislav Mladenov | Ruhr University Bochum | 2019 | PDF |
 | Charting the Attack Surface of Trigger-Action IoT Platforms | Qi Wang | University of Illinois at Urbana-Champaign | 2019 | IoT |
 | LibreCAN: Automated CAN Message Translator | Mert D. Pesé | University of Michigan | 2019 | CAN |
 | Matryoshka: fuzzing deeply nested branches | Peng Chen | ByteDance AI Lab | 2019 | Fuzz |
-| Principled Unearthing of TCP Side Channel Vulnerabilities | Yue Cao | UC Riverside | 2019 | TCP Side Channel |
+| Principled Unearthing of TCP Side Channel Vulnerabilities | Yue Cao | UC Riverside | 2019 | TCP;Side Channel |
 | SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities | los Petsios | Columbia University | 2017 | Fuzz |
-| SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback | Rui Zhong, Yongheng Chen, Hong Hu, Hangfan Zhang, Wenke Lee, Dinghao Wu | Software Systems Security Team at Penn State University | 2020 | Fuzz SQL |
+| SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback | Rui Zhong, Yongheng Chen, Hong Hu, Hangfan Zhang, Wenke Lee, Dinghao Wu | Software Systems Security Team at Penn State University | 2020 | Fuzz;SQL |
 
 ## DEFCON
 
@@ -242,14 +242,14 @@ Recently read papers, articles, there are also some reading notes written by mys
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| KATCH High-Coverage Testing of Software Patches | Paul Dan Marinescu |  | 2013 | Fuzz Patch |
+| KATCH High-Coverage Testing of Software Patches | Paul Dan Marinescu |  | 2013 | Fuzz;Patch |
 | Steelix: Program-State Based Binary Fuzzing | Yuekang Li | Nanyang Technological University | 2017 | Fuzz |
 
 ## H2HC
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| Embedded Research & Automation | Brian Butterly |  | 2019 | Embedded Fuzz |
+| Embedded Research & Automation | Brian Butterly |  | 2019 | Embedded;Fuzz |
 
 ## HITB
 
@@ -265,18 +265,18 @@ Recently read papers, articles, there are also some reading notes written by mys
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| Superion Grammar-Aware Greybox Fuzzing | Junjie Wang | Fudan University | 2019 | Fuzz AST |
+| Superion Grammar-Aware Greybox Fuzzing | Junjie Wang | Fudan University | 2019 | Fuzz;AST |
 | DifFuzz Differential Fuzzing for Side-Channel Analysis | Shirin Nilizadeh | uta.edu | 2019 | Differential Fuzz |
 | REST-ler: Automatic Intelligent REST API Fuzzing | Vaggelis Atlidakis | Columbia University | 2019 | Fuzz Web RESTful |
 | SLF: Fuzzing without Valid Seed Inputs | Wei You | Purdue University | 2019 | Fuzz |
-| MemLock: Memory Usage Guided Fuzzing | Cheng Wen | Shenzhen University;Ant Financial | 2020 | Fuzz AFL |
-| Typestate-Guided Fuzzer for Discovering Use-after-Free Vulnerabilities | Haijun Wang | Ant Financial Services Group | 2020 | Fuzz UAF |
+| MemLock: Memory Usage Guided Fuzzing | Cheng Wen | Shenzhen University;Ant Financial | 2020 | Fuzz;AFL |
+| Typestate-Guided Fuzzer for Discovering Use-after-Free Vulnerabilities | Haijun Wang | Ant Financial Services Group | 2020 | Fuzz;UAF |
 
 ## ICST
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| AFLNET: A Greybox Fuzzer for Network Protocols | Van-Thuan Pham | Monash University | 2020 | Fuzz  Network |
+| AFLNET: A Greybox Fuzzer for Network Protocols | Van-Thuan Pham | Monash University | 2020 | Fuzz; Network |
 
 ## IEEE
 
@@ -303,14 +303,15 @@ Recently read papers, articles, there are also some reading notes written by mys
 | --- | --- | --- | --- | --- |
 | Skyfire Data Driven Seed Generation for Fuzzing |  |  |  | Fuzz |
 | HVLearn: Automated black-box analysis of hostname verification in SSL/TLS implementations | Sivakorn |  | 2017 | Fuzz |
-| The Limitations of Deep Learning in Adversarial Settings | Nicolas Papernot |  | 2016 | GAN Machine Learning |
-| SAVIOR: Towards Bug-Driven Hybrid Testing |  |  | 2020 | Fuzz Hybrid |
-| NEZHA: Efficient Domain-Independent Differential Testing |  |  | 2017 | Fuzz Differential |
-| (State of) The Art of War: Offensive Techniques in Binary Analysis | Yan Shoshitaishvili | UCSB | 2016 | Angr Binary Analysis |
+| The Limitations of Deep Learning in Adversarial Settings | Nicolas Papernot |  | 2016 | GAN;Machine Learning |
+| SAVIOR: Towards Bug-Driven Hybrid Testing |  |  | 2020 | Fuzz;Hybrid |
+| NEZHA: Efficient Domain-Independent Differential Testing |  |  | 2017 | Fuzz;Differential |
+| (State of) The Art of War: Offensive Techniques in Binary Analysis | Yan Shoshitaishvili | UCSB | 2016 | Angr;Binary Analysis |
 | Dragonblood: Analyzing the Dragonfly Handshake of WPA3 and EAP-pwd | Mathy Vanhoef | New York University Abu Dhabi | 2020 | Wifi |
 | KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware | Nilo Redini | ucsb-seclab | 2020 | Embedded |
-| TaintScope: A Checksum-Aware Directed Fuzzing Tool for Automatic Software Vulnerability Detection | Tielei Wang |  | 2020 | taint fuzz |
+| TaintScope: A Checksum-Aware Directed Fuzzing Tool for Automatic Software Vulnerability Detection | Tielei Wang |  | 2020 | taint;fuzz |
 | IJON: Exploring Deep State Spaces via Fuzzing | Cornelius Aschermann, Sergej Schumilo, Ali Abbasi, and Thorsten Holz | Ruhr University Bochum | 2020 | Fuzz |
+| T-Fuzz: fuzzing by program transformation | Hui Peng | Purdue University | 2018 | Fuzz;Black Box |
 
 ## IEEE-ACM
 
@@ -322,14 +323,14 @@ Recently read papers, articles, there are also some reading notes written by mys
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| Locate Then Detect：Web Attack Detection via Attention-based Deep Neural Networks | Tianlong Liu,Jianan Yan | Ali | 2019 | Web Machine Learning WAF |
+| Locate Then Detect：Web Attack Detection via Attention-based Deep Neural Networks | Tianlong Liu,Jianan Yan | Ali | 2019 | Web;Machine Learning;WAF |
 
 ## ISSTA
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | PerfFuzz: Automatically Generating Pathological Inputs | Caroline Lemieux | University of California, Berkeley, USA | 2018 | Fuzz |
-| WEIZZ: Automatic Grey-Box Fuzzingfor Structured Binary Formats | Andrea Fioraldi | Sapienza University of RomeItaly | 2020 | Fuzz Structured |
+| WEIZZ: Automatic Grey-Box Fuzzingfor Structured Binary Formats | Andrea Fioraldi | Sapienza University of RomeItaly | 2020 | Fuzz;Structured |
 
 ## MS
 
@@ -358,40 +359,40 @@ Recently read papers, articles, there are also some reading notes written by mys
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Don’t Trust The Locals: Investigating the Prevalence of Persistent Client-Side Cross-Site Scripting in the Wild |  |  | 2019 | XSS |
-| NAUTILUS:Fishing for Deep Bugs with Grammars |  |  | 2019 | Fuzz Browser |
+| NAUTILUS:Fishing for Deep Bugs with Grammars |  |  | 2019 | Fuzz;Browser |
 | Neural Machine Translation Inspired Binary Code Similarity Comparison beyond Function Pairs |  |  | 2019 | NLP Binary |
 | VulDeePecker |  |  |  |  |
-| Synode: Understanding and Automatically Preventing Injection Attacks on Node.js | SOLA |  | 2019 | Web Auomatica |
+| Synode: Understanding and Automatically Preventing Injection Attacks on Node.js | SOLA |  | 2019 | Web;Auomatica |
 | REDQUEEN: Fuzzing with Input-to-State Correspondence | Cornelius Aschermann,Sergej Schumilo,Tim Blazytko,Robert Gawlik and Thorsten Holz |  | 2019 | Fuzz |
 | VUzzer Application-aware Evolutionary Fuzzing | Sanjay Rawat |  | 2017 | Fuzz |
-| IOTFUZZER: Discovering Memory Corruptions in IoT Through App-based Fuzzing | Jiongyi Chen | The Chinese University of Hong Kong | 2019 | IoT Fuzz |
+| IOTFUZZER: Discovering Memory Corruptions in IoT Through App-based Fuzzing | Jiongyi Chen | The Chinese University of Hong Kong | 2019 | IoT;Fuzz |
 | Towards Automated Dynamic Analysis for Linux-based Embedded Firmware | Daming D. Chen | CMU | 2016 | Firmware |
 | BadBluetooth Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals | Fenghao Xu | The Chinese University of Hong Kong | 2019 | Bluetooth |
-| Driller: Augmenting Fuzzing Through Selective Symbolic Execution | Nick Stephens, John Grosen, Christopher Salls, Andrew Dutcher, Ruoyu Wang, Jacopo Corbetta, Yan Shoshitaishvili, Christopher Kruegel, Giovanni Vigna | UCSB | 2016 | Fuzz Selective Symbolic Execution |
+| Driller: Augmenting Fuzzing Through Selective Symbolic Execution | Nick Stephens, John Grosen, Christopher Salls, Andrew Dutcher, Ruoyu Wang, Jacopo Corbetta, Yan Shoshitaishvili, Christopher Kruegel, Giovanni Vigna | UCSB | 2016 | Fuzz;Selective Symbolic Execution |
 | REDQUEEN: Fuzzing with Input-to-State Correspondence | Cornelius Aschermann, Sergej Schumilo, Tim Blazytko, Robert Gawlik, Thorsten Holz | Ruhr-Universität Bochum | 2019 | Fuzzing |
-| Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation | Panagiotis Papadopoulos | FORTH-ICS | 2019 | Web HTML5 Browseer API |
-| JavaScript Template Attacks: Automatically Inferring Host Information for Targeted Exploits | Michael Schwarz | Graz University of Technology | 2019 | Side Channel |
+| Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation | Panagiotis Papadopoulos | FORTH-ICS | 2019 | Web;HTML5;Browseer API |
+| JavaScript Template Attacks: Automatically Inferring Host Information for Targeted Exploits | Michael Schwarz | Graz University of Technology | 2019 | Side;Channel |
 | TextBugger: Generating Adversarial Text Against Real-world Applications | Jinfeng Li | Zhejiang University | 2019 | Adversarial |
-| Analyzing Semantic Correctness with Symbolic Execution: A Case Study on PKCS#1 v1.5 Signature Verification | Sze Yiu Chau | Purdue University | 2019 | Fuzz Symbolic Execution |
-| PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary | Dokyung Song | University of California, Irvine | 2019 | Fuzz Hardware |
+| Analyzing Semantic Correctness with Symbolic Execution: A Case Study on PKCS#1 v1.5 Signature Verification | Sze Yiu Chau | Purdue University | 2019 | Fuzz;Symbolic Execution |
+| PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary | Dokyung Song | University of California, Irvine | 2019 | Fuzz;Hardware |
 | Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing | Lei Zhao | Wuhan University | 2019 | Hybrid Fuzzing |
-| DNS Cache-Based User Tracking | Amit Klein | Bar Ilan University | 2019 | DNS Privacy |
-| How Bad Can It Git? Characterizing Secret Leakage in Public GitHub Repositories | Michael Meli | North Carolina State University | 2019 | Privacy Git |
+| DNS Cache-Based User Tracking | Amit Klein | Bar Ilan University | 2019 | DNS;Privacy |
+| How Bad Can It Git? Characterizing Secret Leakage in Public GitHub Repositories | Michael Meli | North Carolina State University | 2019 | Privacy;Git |
 | One Engine To Serve 'em All: Inferring Taint Rules Without Architectural Semantics | Zheng Leong Chua | National University of Singapore | 2019 |  |
 | CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines | HyungSeok Han | KAIST | 2019 | Fuzz |
 | Profit: Detecting and Quantifying Side Channels in Networked Applications | Nicolás Rosner | University of California, Santa Barbara | 2019 | Side Channel |
 | Distinguishing Attacks from Legitimate Authentication Traffic at Scale | Cormac Herley | Microsoft | 2019 | Side Channel |
-| ICSREF: A Framework for Automated Reverse Engineering of Industrial Control Systems Binaries | Anastasis Keliris | NYU | 2019 | IoT Reverse Engineering |
+| ICSREF: A Framework for Automated Reverse Engineering of Industrial Control Systems Binaries | Anastasis Keliris | NYU | 2019 | IoT;Reverse Engineering |
 | A Systematic Framework to Generate Invariants for Anomaly Detection in Industrial Control Systems | Cheng Feng | Imperial College London | 2019 | ICS |
 | DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems | Tigist Abera | Technische Universität Darmstadt | 2019 | IoT |
 | DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems | Z. Berkay Celik | Penn State University | 2019 | IoT |
-| Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares | Jonas Zaddach | EURECOM, France | 2014 | Fuzz Firmware |
+| Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares | Jonas Zaddach | EURECOM, France | 2014 | Fuzz;Firmware |
 | Unveiling your keystrokes: A Cache-based Side-channel Attack on Graphics Lib | Daimeng Wang | University of California Riverside | 2019 | Side-channel |
-| What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices | Marius Muench | EURECOM | 2018 | Fuzz Embedded |
+| What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices | Marius Muench | EURECOM | 2018 | Fuzz;Embedded |
 | Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites | Takuya Watanabe | NTT | 2020 | Web |
-| Deceptive Previews: A Study of the Link Preview Trustworthiness in Social Platforms | Giada Stivala | CISPA | 2020 | Web Social |
-| Cross-Origin State Inference (COSI) Attacks: Leaking Web Site States through XS-Leaks | Avinash Sudhodanan | IMDEA Software Institute | 2020 | Web Frontend |
-| HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing | William Blair | Boston University | 2020 | Fuzz SlowFuzz |
+| Deceptive Previews: A Study of the Link Preview Trustworthiness in Social Platforms | Giada Stivala | CISPA | 2020 | Web;Social |
+| Cross-Origin State Inference (COSI) Attacks: Leaking Web Site States through XS-Leaks | Avinash Sudhodanan | IMDEA Software Institute | 2020 | Web;Frontend |
+| HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing | William Blair | Boston University | 2020 | Fuzz;SlowFuzz |
 | Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization | Yanhao Wang | Institute of Software, Chinese Academy of Sciences | 2020 | Fuzz |
 
 ## OOPSLA
@@ -415,7 +416,7 @@ Recently read papers, articles, there are also some reading notes written by mys
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| Coverage-Directed Differential Testing of JVM Implementations | Yuting Chen | SJTU | 2016 | Fuzz JVM Differential |
+| Coverage-Directed Differential Testing of JVM Implementations | Yuting Chen | SJTU | 2016 | Fuzz;JVM;Differential |
 | Parser-Directed Fuzzing | Mathis | cispa | 2019 | Fuzz |
 
 ## PPT
@@ -436,13 +437,13 @@ Recently read papers, articles, there are also some reading notes written by mys
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| PowerFL: Fuzzing VxWorks embedded system | Peter Goodman |  | 2019 | Embedded Fuzz IoT |
+| PowerFL: Fuzzing VxWorks embedded system | Peter Goodman |  | 2019 | Embedded;Fuzz;IoT |
 
 ## RAID
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| CRYPTOREX: Large-scale Analysis of Cryptographic Misuse in IOT Devices | Li Zhang | Jinan University | 2019 | Crypto IoT |
+| CRYPTOREX: Large-scale Analysis of Cryptographic Misuse in IOT Devices | Li Zhang | Jinan University | 2019 | Crypto;IoT |
 
 ## SIGMOD
 
@@ -503,45 +504,45 @@ Recently read papers, articles, there are also some reading notes written by mys
 | Watermarking Deep Neural Networks by Backdooring |  |  | 2018 | Deep Learning |
 | Discovering and Understanding the Security Hazards in the Interactions between IoT Devices, Mobile Apps, and Clouds on Smart Home Platforms | Wei Zhou | IIE | 2019 | IoT |
 | Stealing Machine Learning Models via Prediction APIs | Florian Tramer |  | 2016 | Model Stealing |
-| Toward the Analysis of Embedded Firmware through Automated Re-hosting | Eric Gustafson | UCSB | 2019 | Firmware virtualize |
-| The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation Of Bluetooth BR/EDR | Daniele Antonioli | SUTD | 2019 | Bluetooth protocol |
-| Leaky Images: Targeted Privacy Attacks in the Web | Cristian-Alexandru Staicu and Michael Pradel | TU Darmstadt | 2019 | Web Side Channel |
-| All Your Clicks Belong to Me: Investigating Click Interception on the Web | Mingxue Zhang and Wei Meng | Pennsylvania State University | 2019 | Web Click hijack |
-| FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation | Yaowen Zheng | School of Cyber Security, University of Chinese Academy of Sciences, China | 2019 | Fuzz Firm |
+| Toward the Analysis of Embedded Firmware through Automated Re-hosting | Eric Gustafson | UCSB | 2019 | Firmware;virtualize |
+| The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation Of Bluetooth BR/EDR | Daniele Antonioli | SUTD | 2019 | Bluetooth;protocol |
+| Leaky Images: Targeted Privacy Attacks in the Web | Cristian-Alexandru Staicu and Michael Pradel | TU Darmstadt | 2019 | Web;Side Channel |
+| All Your Clicks Belong to Me: Investigating Click Interception on the Web | Mingxue Zhang and Wei Meng | Pennsylvania State University | 2019 | Web;Click hijack |
+| FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation | Yaowen Zheng | School of Cyber Security, University of Chinese Academy of Sciences, China | 2019 | Fuzz;Firm |
 | GREYONE: Data Flow Sensitive Fuzzing | Shuitao Gan | State Key Laboratory of Mathematical Engineering and Advanced Computing | 2020 | Fuzz |
 | HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation | Abraham A Clements | Sandia National Laboratories | 2020 | Firmware |
-| EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as aVariant of the Adversarial Multi-Armed Bandit | Tai Yue, Pengfei Wang, Yong Tan | National University of Defense Technology | 2020 | Fuzz AI |
+| EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as aVariant of the Adversarial Multi-Armed Bandit | Tai Yue, Pengfei Wang, Yong Tan | National University of Defense Technology | 2020 | Fuzz;AI |
 | Dowsing for Overflows: A Guided Fuzzer to Find Buffer Boundary Violations | Istvan Haller | VU University Amsterdam | 2013 | Guied Fuzz |
 | FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzingthrough Deep Learning | Peiyuan Zong | UCAS | 2020 | Fuzz |
-| NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities | Lior Shafir | Tel Aviv University | 2020 | DNS DoS |
+| NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities | Lior Shafir | Tel Aviv University | 2020 | DNS;DoS |
 | Mobile Private Contact Discovery at Scale | Daniel Kales | Graz University of Technology | 2019 | Mobile |
 | P2IM Scalable and Hardware-independent Firmware Testing via Automatic Peripheral Interface Modeling | Bo Feng, Alejandro Mera, and Long Lu | Northeastern University | 2020 | Fuzz |
-| Sys: A Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code | Fraser Brown, Stanford University; Deian Stefan, UC San Diego; Dawson Engler, Stanford University | Stanford University | 2020 | Browser Vuln Discovery |
+| Sys: A Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code | Fraser Brown, Stanford University; Deian Stefan, UC San Diego; Dawson Engler, Stanford University | Stanford University | 2020 | Browser;Vuln Discovery |
 | AURORA: Statistical Crash Analysis for Automated Root Cause Explanation | Tim Blazytko | Ruhr-Universität Bochum | 2020 | Automated |
-| Poison Over Troubled Forwarders: A Cache Poisoning Attack Targeting DNS Forwarding Devices | Xiaofeng Zheng | Tsinghua University | 2020 | DNS Cache Poisoning |
+| Poison Over Troubled Forwarders: A Cache Poisoning Attack Targeting DNS Forwarding Devices | Xiaofeng Zheng | Tsinghua University | 2020 | DNS;Cache Poisoning |
 | NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities | Yehuda Afek | Tel-Aviv University | 2020 | DNS |
-| A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email | Hyeonmin Lee | Seoul National University | 2020 | Email DNS |
+| A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email | Hyeonmin Lee | Seoul National University | 2020 | Email;DNS |
 | Cached and Confused: Web Cache Deception in the Wild | Seyed Ali Mirheidari | University of Trento | 2020 | Cache Deception |
-| KOOBE: Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities | Weiteng Chen | UC Riverside | 2020 | OOB Exploit |
-| Automatic Techniques to Systematically Discover New Heap Exploitation Primitives | Insu Yun | Georgia Institute of Technology | 2020 | Heap Exploit |
+| KOOBE: Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities | Weiteng Chen | UC Riverside | 2020 | OOB;Exploit |
+| Automatic Techniques to Systematically Discover New Heap Exploitation Primitives | Insu Yun | Georgia Institute of Technology | 2020 | Heap;Exploit |
 | The Industrial Age of Hacking | Timothy Nosco | United States Army | 2020 | Training |
 | FuzzGen: Automatic Fuzzer Generation | Kyriakos Ispoglou | Daniel Austin | 2020 | Fuzz |
-| FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzing through Deep Learning | Peiyuan Zong | IIE | 2020 | Fuzz Deep Learning |
+| FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzing through Deep Learning | Peiyuan Zong | IIE | 2020 | Fuzz;Deep Learning |
 | MUZZ: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs | Hongxu Chen | University of Science and Technology of China and Nayang Technological University | 2020 | Fuzz |
 | EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as a Variant of the Adversarial Multi-Armed Bandit | Tai Yue | National University of Defense Technology | 2020 | Fuzz |
 | ParmeSan: Sanitizer-guided Greybox Fuzzing | Sebastian Österlund | Vrije Universiteit Amsterdam | 2020 | Fuzz |
-| Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer | Suyoung Lee | KAIST | 2020 | Fuzz NN |
+| Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer | Suyoung Lee | KAIST | 2020 | Fuzz;NN |
 | Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection | Zu-Ming Jiang | Tsinghua University | 2020 | Fuzz |
-| USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation | Hui Peng | Purdue University | 2020 | Fuzz Emulation |
-| Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine Checkpoints | Dokyung Song | University of California, Irvine | 2020 | Fuzz Kernel |
+| USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation | Hui Peng | Purdue University | 2020 | Fuzz;Emulation |
+| Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine Checkpoints | Dokyung Song | University of California, Irvine | 2020 | Fuzz;Kernel |
 | Analysis of DTLS Implementations Using Protocol State Fuzzing | Paul Fiterau-Brostean | Uppsala University | 2020 | Fuzz |
-| FANS: Fuzzing Android Native System Services via Automated Interface Analysis | Baozheng Liu,Chao Zhang | Tsinghua University | 2020 | Fuzz Android |
+| FANS: Fuzzing Android Native System Services via Automated Interface Analysis | Baozheng Liu,Chao Zhang | Tsinghua University | 2020 | Fuzz;Android |
 
 ## WOOT
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
-| Unicorefuzz: On the Viability of Emulation for Kernelspace Fuzzing | Dominik Maier, Benedikt Radtke, and Bastian Harren, TU Berlin | TU Berlin | 2019 | Unicorn FUzz |
+| Unicorefuzz: On the Viability of Emulation for Kernelspace Fuzzing | Dominik Maier, Benedikt Radtke, and Bastian Harren, TU Berlin | TU Berlin | 2019 | Unicorn;FUzz |
 
 ## Whitepaper
 

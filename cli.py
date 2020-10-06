@@ -75,7 +75,7 @@ Recently read papers, articles, there are also some reading notes written by mys
                     p['Author'],
                     p['Org'],
                     p['Date'],
-                    ' '.join(p['Tag'])
+                    ';'.join(p['Tag'])
                 ])
                 s += ' |\n'
             s += '\n'

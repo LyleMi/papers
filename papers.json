@@ -3847,5 +3847,18 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "300": {
+        "Title": "T-Fuzz: fuzzing by program transformation",
+        "Author": "Hui Peng",
+        "Org": "Purdue University",
+        "Date": "2018",
+        "Tag": ["Fuzz", "Black Box"],
+        "Conference": "IEEE S&P",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
