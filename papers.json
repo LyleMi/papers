@@ -3860,5 +3860,83 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "301": {
+        "Title": "Full-speed Fuzzing: Reducing Fuzzing Overhead through Coverage-guided Tracing",
+        "Author": "Stefan Nagy",
+        "Org": "Virginia Tech",
+        "Date": "2019",
+        "Tag": ["Fuzz"],
+        "Conference": "IEEE S&P",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": "https://github.com/FoRTE-Research/UnTracer-AFL"
+    },
+    "302": {
+        "Title": "EnFuzz: Ensemble Fuzzing with Seed Synchronization among Diverse Fuzzers",
+        "Author": "Yuanliang Chen, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, Chijin Zhou",
+        "Org": "Tsinghua University",
+        "Date": "2019",
+        "Tag": ["Fuzz"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "303": {
+        "Title": "GRIMOIRE: Synthesizing Structure while Fuzzing",
+        "Author": "Tim Blazytko, Cornelius Aschermann, Moritz Schl\u00f6gel, Ali Abbasi, Sergej Schumilo, Simon W\u00f6rner",
+        "Org": "Ruhr-Universit\u00e4t Bochum",
+        "Date": "2019",
+        "Tag": ["Fuzz"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "304": {
+        "Title": "Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing",
+        "Author": "Lei Zhao",
+        "Org": "Wuhan University",
+        "Date": "2019",
+        "Tag": ["Fuzz"],
+        "Conference": "NDSS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "305": {
+        "Title": "PANGOLIN: Incremental Hybrid Fuzzing with Polyhedral Path Abstraction",
+        "Author": "Heqing Huang",
+        "Org": "The Hong Kong University of Science and Technology, China",
+        "Date": "2020",
+        "Tag": ["Fuzz"],
+        "Conference": "IEEE S&P",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "306": {
+        "Title": "Symbolic execution with SymCC: Don't interpret, compile!",
+        "Author": "Sebastian Poeplau",
+        "Org": "EURECOM",
+        "Date": "2020",
+        "Tag": ["Fuzz"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

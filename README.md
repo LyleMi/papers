@@ -312,6 +312,8 @@ Recently read papers, articles, there are also some reading notes written by mys
 | TaintScope: A Checksum-Aware Directed Fuzzing Tool for Automatic Software Vulnerability Detection | Tielei Wang |  | 2020 | taint;fuzz |
 | IJON: Exploring Deep State Spaces via Fuzzing | Cornelius Aschermann, Sergej Schumilo, Ali Abbasi, and Thorsten Holz | Ruhr University Bochum | 2020 | Fuzz |
 | T-Fuzz: fuzzing by program transformation | Hui Peng | Purdue University | 2018 | Fuzz;Black Box |
+| Full-speed Fuzzing: Reducing Fuzzing Overhead through Coverage-guided Tracing | Stefan Nagy | Virginia Tech | 2019 | Fuzz |
+| PANGOLIN: Incremental Hybrid Fuzzing with Polyhedral Path Abstraction | Heqing Huang | The Hong Kong University of Science and Technology, China | 2020 | Fuzz |
 
 ## IEEE-ACM
 
@@ -394,6 +396,7 @@ Recently read papers, articles, there are also some reading notes written by mys
 | Cross-Origin State Inference (COSI) Attacks: Leaking Web Site States through XS-Leaks | Avinash Sudhodanan | IMDEA Software Institute | 2020 | Web;Frontend |
 | HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing | William Blair | Boston University | 2020 | Fuzz;SlowFuzz |
 | Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization | Yanhao Wang | Institute of Software, Chinese Academy of Sciences | 2020 | Fuzz |
+| Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing | Lei Zhao | Wuhan University | 2019 | Fuzz |
 
 ## OOPSLA
 
@@ -537,6 +540,9 @@ Recently read papers, articles, there are also some reading notes written by mys
 | Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine Checkpoints | Dokyung Song | University of California, Irvine | 2020 | Fuzz;Kernel |
 | Analysis of DTLS Implementations Using Protocol State Fuzzing | Paul Fiterau-Brostean | Uppsala University | 2020 | Fuzz |
 | FANS: Fuzzing Android Native System Services via Automated Interface Analysis | Baozheng Liu,Chao Zhang | Tsinghua University | 2020 | Fuzz;Android |
+| EnFuzz: Ensemble Fuzzing with Seed Synchronization among Diverse Fuzzers | Yuanliang Chen, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, Chijin Zhou | Tsinghua University | 2019 | Fuzz |
+| GRIMOIRE: Synthesizing Structure while Fuzzing | Tim Blazytko, Cornelius Aschermann, Moritz Schlögel, Ali Abbasi, Sergej Schumilo, Simon Wörner | Ruhr-Universität Bochum | 2019 | Fuzz |
+| Symbolic execution with SymCC: Don't interpret, compile! | Sebastian Poeplau | EURECOM | 2020 | Fuzz |
 
 ## WOOT
 
