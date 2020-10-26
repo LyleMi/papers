@@ -1,6 +1,6 @@
 # Papers
 
-Recently read papers, articles, there are also some reading notes written by myself or copied from other sources.
+Recently read academic papers, articles on Web Security/Fuzzing, etc., and some reading notes written by myself or excerpted from other sources.
 
 ## Index
 

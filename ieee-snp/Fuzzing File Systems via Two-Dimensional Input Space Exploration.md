@@ -1,3 +1,5 @@
+source: https://blog.csdn.net/RainyD4y/article/details/106892751
+
 本文发表在IEEE Symposium on Security and Privacy 2019，第一作者是佐治亚理工的许文。本文的作者及作者所在的研究组，长期从事二进制相关研究，在二进制漏洞挖掘和SGX保护等领域发表了多篇顶会论文。
 概要
 

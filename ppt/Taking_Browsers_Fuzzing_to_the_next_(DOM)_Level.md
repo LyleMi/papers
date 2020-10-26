@@ -31,5 +31,3 @@ generated DOM nodes (e.g different tag names, attributes, etc)
 ## 3 局限性
 ## 4 技术展望
 ## 5 todo
-
-诶？我在想能不能特别测每次新的html标准？
