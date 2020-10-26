@@ -19,6 +19,7 @@ def dumpJson(papers):
     with open('papers.json', 'w') as fp:
         fp.write(beautify(json.dumps(papers)))
 
+
 def reindex(papers):
     tmp = {}
     c = 1
@@ -29,12 +30,14 @@ def reindex(papers):
     dumpJson(papers)
     return
 
+
 def str2anchor(s):
     s = s.lower()
     s = s.replace(" ", "-")
     s = s.replace("/", "")
     s = s.replace("&", "")
     return s
+
 
 def genReadme(papers):
     pc = {}
@@ -49,8 +52,7 @@ def genReadme(papers):
 
     header = '''# Papers
 
-Recently read papers, articles, there are also some reading notes written by myself or copied from other sources.
-
+Recently read academic papers, articles on Web Security/Fuzzing, etc., and some reading notes written by myself or excerpted from other sources.
 ## Index\n
 '''
 
@@ -80,6 +82,7 @@ Recently read papers, articles, there are also some reading notes written by mys
                 s += ' |\n'
             s += '\n'
             fh.write(s)
+
 
 def main():
     parser = argparse.ArgumentParser(

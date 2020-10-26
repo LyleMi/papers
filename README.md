@@ -1,7 +1,6 @@
 # Papers
 
 Recently read academic papers, articles on Web Security/Fuzzing, etc., and some reading notes written by myself or excerpted from other sources.
-
 ## Index
 
 - [ACM](#acm)
