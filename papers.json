@@ -2897,7 +2897,7 @@
         "Comment": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "https://github.com/ucsb-seclab/karonte"
     },
     "227": {
         "Title": "Unicorefuzz: On the Viability of Emulation for Kernelspace Fuzzing",
@@ -3933,6 +3933,32 @@
         "Date": "2020",
         "Tag": ["Fuzz"],
         "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "307": {
+        "Title": "Finding and preventing bugs in JavaScript bindings",
+        "Author": "Fraser Brown",
+        "Org": "Stanford University",
+        "Date": "2017",
+        "Tag": ["Fuzz", "JavaScript"],
+        "Conference": "IEEE S&P",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "308": {
+        "Title": "Fast and Precise Hybrid Type Inference for JavaScript",
+        "Author": "Brian Hackett",
+        "Org": "Mozilla",
+        "Date": "2012",
+        "Tag": ["Fuzz", "JavaScript"],
+        "Conference": "SIGPLAN",
         "Abstract": "",
         "Comment": "",
         "Reading Notes": [],

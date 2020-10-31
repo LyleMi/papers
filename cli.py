@@ -70,6 +70,8 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
             ])
             s += ' |\n'
             s += '|' + ' --- |' * 5 + '\n'
+            pc[c].sort(key=lambda i: i["Title"])
+            pc[c].sort(key=lambda i: i["Date"], reverse=True)
             for p in pc[c]:
                 s += '| '
                 s += ' | '.join([
