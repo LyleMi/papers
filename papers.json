@@ -1,7 +1,7 @@
 {
     "1": {
         "Title": "Automatic exploit generation",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "ACM",
@@ -14,7 +14,7 @@
     },
     "2": {
         "Title": "evaluating fuzz testing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "ACM",
@@ -27,7 +27,7 @@
     },
     "3": {
         "Title": "Predicting vulnerable software components",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "ACM",
@@ -40,7 +40,7 @@
     },
     "4": {
         "Title": "Scheduling Black-box Mutational Fuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "ACM",
@@ -53,7 +53,7 @@
     },
     "5": {
         "Title": "Symbolic execution for software testing three decades later",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "ACM",
@@ -66,7 +66,7 @@
     },
     "6": {
         "Title": "Adaptive Grey-Box Fuzz-Testing with Thompson Sampling",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Arxiv",
@@ -79,7 +79,7 @@
     },
     "7": {
         "Title": "Attention Is All You Need",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Arxiv",
@@ -92,7 +92,7 @@
     },
     "8": {
         "Title": "Deep Reinforcement Fuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Arxiv",
@@ -105,7 +105,7 @@
     },
     "9": {
         "Title": "Fuzzing Art, Science and Engineering",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Arxiv",
@@ -118,7 +118,7 @@
     },
     "10": {
         "Title": "FuzzerGym A Competitive Framework for Fuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Arxiv",
@@ -131,7 +131,7 @@
     },
     "11": {
         "Title": "Improving Grey-Box Fuzzing by Modeling Program Behavior",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["Fuzz"],
         "Conference": "Arxiv",
@@ -144,7 +144,7 @@
     },
     "12": {
         "Title": "Leveraging Textual Specifications for Grammar-based Fuzzing of Network Protocols",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Arxiv",
@@ -157,7 +157,7 @@
     },
     "13": {
         "Title": "neural machine translation inspired binary code similarity comparison beyond function pairs",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Arxiv",
@@ -170,7 +170,7 @@
     },
     "14": {
         "Title": "NEUZZ Efficient Fuzzing with Neural Program Learning",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Arxiv",
@@ -183,7 +183,7 @@
     },
     "15": {
         "Title": "NEUZZ Efficient Fuzzing with Neural Program Smoothing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Arxiv",
@@ -196,7 +196,7 @@
     },
     "16": {
         "Title": "Not all bytes are equal  Neural byte sieve for fuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Arxiv",
@@ -209,7 +209,7 @@
     },
     "17": {
         "Title": "Smart Greybox Fuzzing",
-        "Author": "Van-Thuan Pham",
+        "Author": ["Van-Thuan Pham"],
         "Date": "2019",
         "Tag": ["Fuzz"],
         "Conference": "TSE",
@@ -222,7 +222,7 @@
     },
     "18": {
         "Title": "TensorFuzz Debugging Neural Networks with Coverage-GUided Fuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Arxiv",
@@ -235,7 +235,7 @@
     },
     "19": {
         "Title": "Dont Trust The DOM Bypassing XSS Mitigations Via Script Gadgets",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Web"],
         "Conference": "Black Hat",
@@ -248,7 +248,7 @@
     },
     "20": {
         "Title": "Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Black Hat",
@@ -261,7 +261,7 @@
     },
     "21": {
         "Title": "HEIST HTTP Encrypted Information Can Be Stolen Through TCP Windows",
-        "Author": "",
+        "Author": [""],
         "Date": "2016",
         "Tag": ["HTTPS Side-Channel"],
         "Conference": "Black Hat",
@@ -274,7 +274,7 @@
     },
     "22": {
         "Title": "It's A PHP Unserialization Vulnerability Jim But Not As We Know It",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "Black Hat",
@@ -287,7 +287,7 @@
     },
     "23": {
         "Title": "Molinyawe Shell On Earth From Browser To System Compromise",
-        "Author": "",
+        "Author": [""],
         "Date": "2016",
         "Tag": ["Fuzz"],
         "Conference": "Black Hat",
@@ -300,7 +300,7 @@
     },
     "24": {
         "Title": "the power of pair one template that reveals 100 plus uaf ie vulnerabilities",
-        "Author": "",
+        "Author": [""],
         "Date": "2014",
         "Tag": ["Fuzz"],
         "Conference": "Black Hat",
@@ -313,7 +313,7 @@
     },
     "25": {
         "Title": "Stone Pixel Perfect Timing Attacks with HTML5",
-        "Author": "",
+        "Author": [""],
         "Date": "2013",
         "Tag": ["WebSec"],
         "Conference": "Black Hat",
@@ -326,7 +326,7 @@
     },
     "26": {
         "Title": "WebAssembly A New World of Native Exploits On The Web",
-        "Author": "",
+        "Author": [""],
         "Date": "2018",
         "Tag": ["WebAssembly"],
         "Conference": "Black Hat",
@@ -339,7 +339,7 @@
     },
     "27": {
         "Title": "Edge Type Confusion \u5229\u7528",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "Blog",
@@ -352,7 +352,7 @@
     },
     "28": {
         "Title": "IDN Visual Security Deep Thinking",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["IDN"],
         "Conference": "Blog",
@@ -365,7 +365,7 @@
     },
     "29": {
         "Title": "25 Million flows later - Large-scale detection of DOM-based XSS",
-        "Author": "",
+        "Author": [""],
         "Date": "2013",
         "Tag": [""],
         "Conference": "CCS",
@@ -378,7 +378,7 @@
     },
     "30": {
         "Title": "Block Oriented Programming Automating Data-Only Attacks",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Exploit"],
         "Conference": "CCS",
@@ -391,7 +391,7 @@
     },
     "31": {
         "Title": "Code-Reuse Attacks for the Web Breaking Cross-Site Scripting Mitigations via Script Gadgets",
-        "Author": "",
+        "Author": [""],
         "Date": "2017",
         "Tag": ["Web XSS"],
         "Conference": "CCS",
@@ -404,7 +404,7 @@
     },
     "32": {
         "Title": "Deterministic Browser",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Browser"],
         "Conference": "CCS",
@@ -417,7 +417,7 @@
     },
     "33": {
         "Title": "Directed Greybox Fuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "2017",
         "Tag": ["Fuzz"],
         "Conference": "CCS",
@@ -430,7 +430,7 @@
     },
     "34": {
         "Title": "Hawkeye: towards a desired directed grey box fuzzer",
-        "Author": "",
+        "Author": [""],
         "Date": "2018",
         "Tag": ["Fuzz"],
         "Conference": "CCS",
@@ -443,7 +443,7 @@
     },
     "35": {
         "Title": "HyCC: Compilation of Hybrid Protocols for Practical Secure Computation",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "CCS",
@@ -456,7 +456,7 @@
     },
     "36": {
         "Title": "IMF Infeered Model-based Fuzzer",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "CCS",
@@ -469,7 +469,7 @@
     },
     "37": {
         "Title": "POISED Spotting Twitter Spam Off the Beaten Paths",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Spam"],
         "Conference": "CCS",
@@ -482,7 +482,7 @@
     },
     "38": {
         "Title": "Predicting Impending Exposure to Malicious Content from User Behavior",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "CCS",
@@ -495,7 +495,7 @@
     },
     "39": {
         "Title": "Rewriting History Changing the Archived Web from the Present",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "CCS",
@@ -508,7 +508,7 @@
     },
     "40": {
         "Title": "SemFuzz Semantics-based Automatic Generation of Proof-of-Concept Exploits",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "CCS",
@@ -521,7 +521,7 @@
     },
     "41": {
         "Title": "The TypTop System Personalized Typo-Tolerant Password Checking",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "CCS",
@@ -534,7 +534,7 @@
     },
     "42": {
         "Title": "Threat Intelligence Computing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Threat Intelligence"],
         "Conference": "CCS",
@@ -547,7 +547,7 @@
     },
     "43": {
         "Title": "Trends, challenge, and shifts in software vulnerability mitigation",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "CCS",
@@ -560,7 +560,7 @@
     },
     "44": {
         "Title": "Web Sixth Sense A Study of Scripts Accessing Smartphone Sensors",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "CCS",
@@ -573,7 +573,7 @@
     },
     "45": {
         "Title": "When Good Components Go Bad Formally Secure Compilation Despite Dynamic Compromise",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "CCS",
@@ -586,7 +586,7 @@
     },
     "46": {
         "Title": "Yet Another Text Captcha Solver A Generative Adversarial Network Based Approach",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "CCS",
@@ -599,7 +599,7 @@
     },
     "47": {
         "Title": "Analysis of Mutation and Generation Based Fuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "DEFCON",
@@ -612,7 +612,7 @@
     },
     "48": {
         "Title": "geoff mcdonald meddle framework updated",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "DEFCON",
@@ -625,7 +625,7 @@
     },
     "49": {
         "Title": "The ECMA and The Chakra",
-        "Author": "Natalie Silvanovich",
+        "Author": ["Natalie Silvanovich"],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "HITB",
@@ -638,7 +638,7 @@
     },
     "50": {
         "Title": "The Secret of ChakraCore",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "HITB",
@@ -651,7 +651,7 @@
     },
     "51": {
         "Title": "From Out of Memory to Remote Code Execution",
-        "Author": "Yuki Chen",
+        "Author": ["Yuki Chen"],
         "Date": "2017",
         "Tag": ["Fuzz"],
         "Conference": "HITB",
@@ -664,7 +664,7 @@
     },
     "52": {
         "Title": "Browser Fuzzing by Scheduled Mutation and Generation of Document Object Models",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "IEEE",
@@ -677,7 +677,7 @@
     },
     "53": {
         "Title": "CollAFL Path Sensitive Fuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "IEEE",
@@ -690,7 +690,7 @@
     },
     "54": {
         "Title": "End User and Administrator Mental Models of HTTPS",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["Web"],
         "Conference": "IEEE",
@@ -703,7 +703,7 @@
     },
     "55": {
         "Title": "Full-speed Fuzzing Reducing Fuzzing Overhead through Coverage-guided Tracing",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["Fuzz"],
         "Conference": "IEEE",
@@ -716,7 +716,7 @@
     },
     "56": {
         "Title": "Fuzzing File Systems via Two-Dimensional Input Space Exploration",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["Fuzz"],
         "Conference": "IEEE",
@@ -729,7 +729,7 @@
     },
     "57": {
         "Title": "GramFuzz: Fuzzing Testing of Web Browsers Based on Grammar Analysis and Structural Mutation",
-        "Author": "",
+        "Author": [""],
         "Date": "2013",
         "Tag": ["Fuzz"],
         "Conference": "IEEE",
@@ -742,7 +742,7 @@
     },
     "58": {
         "Title": "HOLMES Real-time APT Detection through Correlation of Suspicious Information Flows",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["APT"],
         "Conference": "IEEE",
@@ -755,7 +755,7 @@
     },
     "59": {
         "Title": "ProFuzzer On-the-fly Input Type Probing for Better Zero-day Vulnerability Discovery",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["Fuzz"],
         "Conference": "IEEE",
@@ -768,7 +768,7 @@
     },
     "60": {
         "Title": "RAZZER Finding Kernel Race Bugs through Fuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["Fuzz Kernel Race"],
         "Conference": "IEEE",
@@ -781,7 +781,7 @@
     },
     "61": {
         "Title": "Research on Android browser fuzzing based on bitmap structure",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "IEEE",
@@ -794,7 +794,7 @@
     },
     "62": {
         "Title": "Resident Evil Understanding Residential IP Proxy as a Dark Service",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["\u751f\u6001"],
         "Conference": "IEEE",
@@ -807,7 +807,7 @@
     },
     "63": {
         "Title": "Skyfire Data Driven Seed Generation for Fuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "IEEE S&P",
@@ -820,7 +820,7 @@
     },
     "64": {
         "Title": "Software Crash Analysis for Automatic Exploit Generation by Modeling Attacks as Symbolic Continuations",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "IEEE",
@@ -833,7 +833,7 @@
     },
     "65": {
         "Title": "Violating Assumptions with Fuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "IEEE",
@@ -846,7 +846,7 @@
     },
     "66": {
         "Title": "browser ui security whitepaper",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Misc",
@@ -859,7 +859,7 @@
     },
     "67": {
         "Title": "Critical Vulnerability in Browser Security Metrics",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Misc",
@@ -872,7 +872,7 @@
     },
     "68": {
         "Title": "cure53 browser security whitepaper",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Misc",
@@ -885,7 +885,7 @@
     },
     "69": {
         "Title": "Drive by Key Extraction Cache Attacks from Portable Code",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Misc",
@@ -898,7 +898,7 @@
     },
     "70": {
         "Title": "Escaping Internet Explorer Protected Mode",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Misc",
@@ -911,7 +911,7 @@
     },
     "71": {
         "Title": "Fuzzing JavaScript Engine APIs",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Misc",
@@ -924,7 +924,7 @@
     },
     "72": {
         "Title": "Test Harness For Web Browser Fuzz Testing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Misc",
@@ -937,7 +937,7 @@
     },
     "73": {
         "Title": "The Security Architecture of the Chromium Browser",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Misc",
@@ -950,7 +950,7 @@
     },
     "74": {
         "Title": "X41 Browser Security White Paper",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Misc",
@@ -963,7 +963,7 @@
     },
     "75": {
         "Title": "neural fuzzing mcr",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "MS",
@@ -976,7 +976,7 @@
     },
     "76": {
         "Title": "Don\u2019t Trust The Locals: Investigating the Prevalence of Persistent Client-Side Cross-Site Scripting in the Wild",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["XSS"],
         "Conference": "NDSS",
@@ -989,7 +989,7 @@
     },
     "77": {
         "Title": "NAUTILUS:Fishing for Deep Bugs with Grammars",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["Fuzz", "Browser"],
         "Conference": "NDSS",
@@ -1002,7 +1002,7 @@
     },
     "78": {
         "Title": "Neural Machine Translation Inspired Binary Code Similarity Comparison beyond Function Pairs",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["NLP Binary"],
         "Conference": "NDSS",
@@ -1015,7 +1015,7 @@
     },
     "79": {
         "Title": "VulDeePecker",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "NDSS",
@@ -1028,7 +1028,7 @@
     },
     "80": {
         "Title": "Attacking Edge Through the JavaScript Compiler",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["Exploit"],
         "Conference": "Offensive",
@@ -1041,7 +1041,7 @@
     },
     "81": {
         "Title": "Chrome IPC Exploitation",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["Exploit"],
         "Conference": "Offensive",
@@ -1054,7 +1054,7 @@
     },
     "82": {
         "Title": "Coverage-Guided USB Fuzzing with Syzkaller",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["Fuzz"],
         "Conference": "Offensive",
@@ -1067,7 +1067,7 @@
     },
     "83": {
         "Title": "From Assembly to JavaScript and back",
-        "Author": "",
+        "Author": [""],
         "Date": "2018",
         "Tag": [""],
         "Conference": "Offensive",
@@ -1080,7 +1080,7 @@
     },
     "84": {
         "Title": "Fuzzil: Guided Fuzzing for JavaScript Engines",
-        "Author": "Samuel Gro\u00df",
+        "Author": ["Samuel Gro\u00df"],
         "Date": "2019",
         "Tag": ["Fuzz"],
         "Conference": "Offensive",
@@ -1093,7 +1093,7 @@
     },
     "85": {
         "Title": "1day browser exploitaion",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "PPT",
@@ -1106,7 +1106,7 @@
     },
     "86": {
         "Title": "Blink Rendering",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "PPT",
@@ -1119,7 +1119,7 @@
     },
     "87": {
         "Title": "BrowserFuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "2014",
         "Tag": [""],
         "Conference": "PPT",
@@ -1132,7 +1132,7 @@
     },
     "88": {
         "Title": "OffensiveCon2018 From Assembly to JavaScript and back",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "PPT",
@@ -1145,7 +1145,7 @@
     },
     "89": {
         "Title": "Taking Browsers Fuzzing to the next (DOM) Level",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "PPT",
@@ -1158,7 +1158,7 @@
     },
     "90": {
         "Title": "the art of fuzzing slides",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "PPT",
@@ -1171,7 +1171,7 @@
     },
     "91": {
         "Title": "ZeroNights2017 darko fuzzer",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "PPT",
@@ -1184,7 +1184,7 @@
     },
     "92": {
         "Title": "Attacking Modern Web Technologies",
-        "Author": "",
+        "Author": [""],
         "Date": "2018",
         "Tag": ["HTML5 Security"],
         "Conference": "PPT",
@@ -1197,7 +1197,7 @@
     },
     "93": {
         "Title": "php internals exploit dev",
-        "Author": "",
+        "Author": [""],
         "Date": "2018",
         "Tag": ["PHP Fuzz"],
         "Conference": "PPT",
@@ -1210,7 +1210,7 @@
     },
     "94": {
         "Title": "Chakra vulnerability and exploit bypass all system mitigation",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "Secwest",
@@ -1223,7 +1223,7 @@
     },
     "95": {
         "Title": "Shellcodes are for the 99%",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Secwest",
@@ -1236,7 +1236,7 @@
     },
     "96": {
         "Title": "Parser-Directed Fuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["Fuzz"],
         "Conference": "SIGPLAN",
@@ -1249,7 +1249,7 @@
     },
     "97": {
         "Title": "An Empirical Analysis of Single Sign-On Account Hijacking and Session Management on the Web",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["Web, SSO"],
         "Conference": "Usenix",
@@ -1262,7 +1262,7 @@
     },
     "98": {
         "Title": "An Empirical Study of CORS",
-        "Author": "",
+        "Author": [""],
         "Date": "2018",
         "Tag": ["CORS"],
         "Conference": "Usenix",
@@ -1275,7 +1275,7 @@
     },
     "99": {
         "Title": "Author Attribute Anonymity by Adversarial Training of Neural Machine Translation",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "Usenix",
@@ -1288,7 +1288,7 @@
     },
     "100": {
         "Title": "Automatic Generation of Data-Oriented Exploits",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "Usenix",
@@ -1301,7 +1301,7 @@
     },
     "101": {
         "Title": "Effective Attacks and Provable Defenses for Website Fingerprinting",
-        "Author": "",
+        "Author": [""],
         "Date": "2014",
         "Tag": ["Fingerprint"],
         "Conference": "Usenix",
@@ -1314,7 +1314,7 @@
     },
     "102": {
         "Title": "Empirical Analysis of Redirection Hijacking in Content Delivery Networks",
-        "Author": "",
+        "Author": [""],
         "Date": "2018",
         "Tag": ["CDN"],
         "Conference": "Usenix",
@@ -1327,7 +1327,7 @@
     },
     "103": {
         "Title": "Fortifying Web Protocols via Browser-Side Security Monitoring",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "Usenix",
@@ -1340,7 +1340,7 @@
     },
     "104": {
         "Title": "Fuze",
-        "Author": "",
+        "Author": [""],
         "Date": "2018",
         "Tag": [""],
         "Conference": "Usenix",
@@ -1353,7 +1353,7 @@
     },
     "105": {
         "Title": "Fuzzing with Code Fragments",
-        "Author": "",
+        "Author": [""],
         "Date": "2018",
         "Tag": ["Fuzz"],
         "Conference": "Usenix",
@@ -1366,7 +1366,7 @@
     },
     "106": {
         "Title": "Generalized Transferability for Evasion and Poisoning Attacks",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "Usenix",
@@ -1379,7 +1379,7 @@
     },
     "107": {
         "Title": "k-fingerprinting A Robust Scalable Website Fingerprinting Technique",
-        "Author": "",
+        "Author": [""],
         "Date": "2016",
         "Tag": ["fingerprint"],
         "Conference": "Usenix",
@@ -1392,7 +1392,7 @@
     },
     "108": {
         "Title": "MoonShine Optimizing OS Fuzzer Seed Selection with Trace Distillation",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "Usenix",
@@ -1405,7 +1405,7 @@
     },
     "109": {
         "Title": "MOPT-Optimized Mutation Scheduling for Fuzzers",
-        "Author": "",
+        "Author": [""],
         "Date": "2019",
         "Tag": ["Fuzz"],
         "Conference": "Usenix",
@@ -1418,7 +1418,7 @@
     },
     "110": {
         "Title": "NAVEX Precise and Scalable Exploit Generation for Dynamic Web Applications",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "Usenix",
@@ -1431,7 +1431,7 @@
     },
     "111": {
         "Title": "Optimizing seed selection for fuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": ["Fuzz"],
         "Conference": "Usenix",
@@ -1444,7 +1444,7 @@
     },
     "112": {
         "Title": "QSYM A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "Usenix",
@@ -1457,7 +1457,7 @@
     },
     "113": {
         "Title": "Reverse Engineering Ethereum\u2019s Opaque Smart Contracts",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "Usenix",
@@ -1470,7 +1470,7 @@
     },
     "114": {
         "Title": "SoK Make JIT-Spray Great Again",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "Usenix",
@@ -1483,7 +1483,7 @@
     },
     "115": {
         "Title": "Syntia: Synthesizing the Semantics of Obfuscated Code",
-        "Author": "",
+        "Author": [""],
         "Date": "2017",
         "Tag": ["Obfuscate"],
         "Conference": "Usenix",
@@ -1496,7 +1496,7 @@
     },
     "116": {
         "Title": "Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts",
-        "Author": "",
+        "Author": [""],
         "Date": "",
         "Tag": [""],
         "Conference": "Usenix",
@@ -1509,7 +1509,7 @@
     },
     "117": {
         "Title": "Watermarking Deep Neural Networks by Backdooring",
-        "Author": "",
+        "Author": [""],
         "Date": "2018",
         "Tag": ["Deep Learning"],
         "Conference": "Usenix",
@@ -1522,7 +1522,7 @@
     },
     "118": {
         "Title": "Learn&Fuzz: Machine Learning for Input Fuzzing",
-        "Author": "Godefroid",
+        "Author": ["Godefroid"],
         "Date": "2017",
         "Tag": ["Fuzz"],
         "Conference": "IEEE-ACM",
@@ -1535,20 +1535,20 @@
     },
     "119": {
         "Title": "Synthesizing program input grammars",
-        "Author": "Osbert Bastani",
+        "Author": ["Osbert Bastani"],
         "Date": "2017",
         "Tag": ["Fuzz"],
         "Conference": "SIGPLAN",
         "Org": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": "",
+        "Code": "https://github.com/obastani/glade",
         "Abstract": "",
         "Comment": ""
     },
     "120": {
         "Title": "HVLearn: Automated black-box analysis of hostname verification in SSL/TLS implementations",
-        "Author": "Sivakorn",
+        "Author": ["Sivakorn"],
         "Date": "2017",
         "Tag": ["Fuzz"],
         "Conference": "IEEE S&P",
@@ -1561,7 +1561,7 @@
     },
     "121": {
         "Title": "Using Logic Programming to Recover C++ Classes and Methods from Compiled Executables",
-        "Author": "Schwartz",
+        "Author": ["Schwartz"],
         "Date": "2018",
         "Tag": ["Decompile"],
         "Conference": "ACM",
@@ -1574,7 +1574,7 @@
     },
     "122": {
         "Title": "Angora: Efficient Fuzzing by Principled Search",
-        "Author": "Peng Chen",
+        "Author": ["Peng Chen"],
         "Date": "2018",
         "Tag": ["Fuzz"],
         "Conference": "IEEE",
@@ -1587,7 +1587,7 @@
     },
     "123": {
         "Title": "The Limitations of Deep Learning in Adversarial Settings",
-        "Author": "Nicolas Papernot",
+        "Author": ["Nicolas Papernot"],
         "Date": "2016",
         "Tag": ["GAN", "Machine Learning"],
         "Conference": "IEEE S&P",
@@ -1600,7 +1600,7 @@
     },
     "124": {
         "Title": "Synode: Understanding and Automatically Preventing Injection Attacks on Node.js",
-        "Author": "SOLA",
+        "Author": ["SOLA"],
         "Date": "2019",
         "Tag": ["Web", "Auomatica"],
         "Conference": "NDSS",
@@ -1613,7 +1613,7 @@
     },
     "125": {
         "Title": "REDQUEEN: Fuzzing with Input-to-State Correspondence",
-        "Author": "Cornelius Aschermann,Sergej Schumilo,Tim Blazytko,Robert Gawlik and Thorsten Holz",
+        "Author": ["Cornelius Aschermann,Sergej Schumilo,Tim Blazytko,Robert Gawlik and Thorsten Holz"],
         "Date": "2019",
         "Tag": ["Fuzz"],
         "Conference": "NDSS",
@@ -1626,7 +1626,7 @@
     },
     "126": {
         "Title": "Practical Side-Channel Attacks against WPA-TKIP",
-        "Author": "Domien Schepers",
+        "Author": ["Domien Schepers"],
         "Date": "2019",
         "Tag": ["Wi", "Fi"],
         "Conference": "AsiaCCS",
@@ -1639,7 +1639,7 @@
     },
     "127": {
         "Title": "ScriptProtect: Mitigating UnsafeThird-Party JavaScript Practices",
-        "Author": "Marius Musch",
+        "Author": ["Marius Musch"],
         "Org": "TU Braunschweig",
         "Date": "2019",
         "Tag": ["XSS"],
@@ -1652,7 +1652,7 @@
     },
     "128": {
         "Title": "A Feature-Oriented Corpus for Understanding, Evaluating and Improving Fuzz Testing",
-        "Author": "Xiaogang Zhu",
+        "Author": ["Xiaogang Zhu"],
         "Org": "Swinburne University of Technology",
         "Date": "2019",
         "Tag": ["Fuzzing"],
@@ -1665,7 +1665,7 @@
     },
     "129": {
         "Title": "PTrix Efficient Hardware-Assisted Fuzzing for COTS Binary",
-        "Author": "Yaohui Chen",
+        "Author": ["Yaohui Chen"],
         "Org": "Northeastern University",
         "Date": "2019",
         "Tag": ["Fuzz"],
@@ -1678,7 +1678,7 @@
     },
     "130": {
         "Title": "SAVIOR: Towards Bug-Driven Hybrid Testing",
-        "Author": "",
+        "Author": [""],
         "Org": "",
         "Date": "2020",
         "Tag": ["Fuzz", "Hybrid"],
@@ -1689,7 +1689,7 @@
     },
     "131": {
         "Title": "NEZHA: Efficient Domain-Independent Differential Testing",
-        "Author": "",
+        "Author": [""],
         "Org": "",
         "Date": "2017",
         "Tag": ["Fuzz", "Differential"],
@@ -1700,7 +1700,7 @@
     },
     "132": {
         "Title": "Coverage-Directed Differential Testing of JVM Implementations",
-        "Author": "Yuting Chen",
+        "Author": ["Yuting Chen"],
         "Org": "SJTU",
         "Date": "2016",
         "Tag": ["Fuzz", "JVM", "Differential"],
@@ -1711,7 +1711,7 @@
     },
     "133": {
         "Title": "Superion Grammar-Aware Greybox Fuzzing",
-        "Author": "Junjie Wang",
+        "Author": ["Junjie Wang"],
         "Org": "Fudan University",
         "Date": "2019",
         "Tag": ["Fuzz", "AST"],
@@ -1722,7 +1722,7 @@
     },
     "134": {
         "Title": "DifFuzz Differential Fuzzing for Side-Channel Analysis",
-        "Author": "Shirin Nilizadeh",
+        "Author": ["Shirin Nilizadeh"],
         "Org": "uta.edu",
         "Date": "2019",
         "Tag": ["Differential Fuzz"],
@@ -1733,7 +1733,7 @@
     },
     "135": {
         "Title": "REST-ler: Automatic Intelligent REST API Fuzzing",
-        "Author": "Vaggelis Atlidakis",
+        "Author": ["Vaggelis Atlidakis"],
         "Org": "Columbia University",
         "Date": "2019",
         "Tag": ["Fuzz Web RESTful"],
@@ -1744,7 +1744,7 @@
     },
     "136": {
         "Title": "VUzzer Application-aware Evolutionary Fuzzing",
-        "Author": "Sanjay Rawat",
+        "Author": ["Sanjay Rawat"],
         "Org": "",
         "Date": "2017",
         "Tag": ["Fuzz"],
@@ -1755,7 +1755,7 @@
     },
     "137": {
         "Title": "SLF: Fuzzing without Valid Seed Inputs",
-        "Author": "Wei You",
+        "Author": ["Wei You"],
         "Org": "Purdue University",
         "Date": "2019",
         "Tag": ["Fuzz"],
@@ -1766,7 +1766,7 @@
     },
     "138": {
         "Title": "Parser-Directed Fuzzing",
-        "Author": "Mathis",
+        "Author": ["Mathis"],
         "Org": "cispa",
         "Date": "2019",
         "Tag": ["Fuzz"],
@@ -1777,7 +1777,7 @@
     },
     "139": {
         "Title": "Battle Of Windows Service A Silver Bullet To Discover File Privilege Escalation Bugs Automatically",
-        "Author": "Wenxu Wu (@Ma7h1as)",
+        "Author": ["Wenxu Wu (@Ma7h1as)"],
         "Org": "Xuanwu Lab of Tencent",
         "Date": "2019",
         "Tag": ["Windows", "Fuzz", "Logic"],
@@ -1788,7 +1788,7 @@
     },
     "140": {
         "Title": "Monsters in the Middleboxes: Building Tools for Detecting HTTPS Interception",
-        "Author": "Luke Valenta",
+        "Author": ["Luke Valenta"],
         "Org": "Cloudflare",
         "Date": "2019",
         "Tag": ["Web"],
@@ -1799,7 +1799,7 @@
     },
     "141": {
         "Title": "Munoz SSO Wars The Token Menace",
-        "Author": "Alvaro Munoz",
+        "Author": ["Alvaro Munoz"],
         "Org": "",
         "Date": "2019",
         "Tag": ["Web", "Auth", "SAML"],
@@ -1810,7 +1810,7 @@
     },
     "142": {
         "Title": "Attacking And Defending The Microsoft Cloud",
-        "Author": "Sean Metcalf",
+        "Author": ["Sean Metcalf"],
         "Org": "",
         "Date": "2019",
         "Tag": ["Web"],
@@ -1821,7 +1821,7 @@
     },
     "143": {
         "Title": "Dragonblood: Attacking the Dragonfly Handshake of WPA3",
-        "Author": "Mathy Vanhoef",
+        "Author": ["Mathy Vanhoef"],
         "Org": "New York University Abu Dhabi",
         "Date": "2019",
         "Tag": ["Wifi"],
@@ -1832,7 +1832,7 @@
     },
     "144": {
         "Title": "All the 4G Modules Could be Hacked",
-        "Author": "Shupeng Gao",
+        "Author": ["Shupeng Gao"],
         "Org": "Baidu Security Lab",
         "Date": "2019",
         "Tag": ["4G", "IoT"],
@@ -1843,7 +1843,7 @@
     },
     "145": {
         "Title": "HTTP Desync Attacks: Smashing into the Cell Next Door",
-        "Author": "James Kettle",
+        "Author": ["James Kettle"],
         "Org": "PortSwigger Web Security",
         "Date": "2019",
         "Tag": ["Web"],
@@ -1854,7 +1854,7 @@
     },
     "146": {
         "Title": "I'm Unique, Just Like You: Human Side-Channels and Their Implications for Security and Privacy",
-        "Author": "Matt Wixey",
+        "Author": ["Matt Wixey"],
         "Org": "PwC",
         "Date": "2019",
         "Tag": ["Social Engineering"],
@@ -1865,7 +1865,7 @@
     },
     "147": {
         "Title": "Infiltrating Corporate Intranet Like NSA - Pre-auth RCE on Leading SSL VPNs",
-        "Author": "Orange Tsai",
+        "Author": ["Orange Tsai"],
         "Org": "DEVCORE",
         "Date": "2019",
         "Tag": ["Web"],
@@ -1876,7 +1876,7 @@
     },
     "148": {
         "Title": "Attack Surface as a Service",
-        "Author": "Anna Westelius",
+        "Author": ["Anna Westelius"],
         "Org": "Arkose Labs",
         "Date": "2019",
         "Tag": ["PPT"],
@@ -1887,7 +1887,7 @@
     },
     "149": {
         "Title": "The Enemy Within: Modern Supply Chain Attacks",
-        "Author": "Eric Doerr",
+        "Author": ["Eric Doerr"],
         "Org": "MSRC",
         "Date": "2019",
         "Tag": ["Supply Chain"],
@@ -1900,7 +1900,7 @@
     },
     "150": {
         "Title": "API-Induced SSRF: How Apple Pay Scattered Vulnerabilities Across the Web",
-        "Author": "Joshua Maddux",
+        "Author": ["Joshua Maddux"],
         "Org": "PKC Security",
         "Date": "2019",
         "Tag": ["Web", "SSRF", "API"],
@@ -1913,7 +1913,7 @@
     },
     "151": {
         "Title": "DevSecOps : What, Why and How",
-        "Author": "Anant Shrivastava",
+        "Author": ["Anant Shrivastava"],
         "Org": "NotSoSecure",
         "Date": "2019",
         "Tag": ["DevSecOps"],
@@ -1926,7 +1926,7 @@
     },
     "152": {
         "Title": "0-days & Mitigations: Roadways to Exploit and Secure Connected BMW Cars",
-        "Author": "Zhiqiang Cai",
+        "Author": ["Zhiqiang Cai"],
         "Org": "KeenLab",
         "Date": "2019",
         "Tag": ["Car"],
@@ -1939,7 +1939,7 @@
     },
     "153": {
         "Title": "Exploiting Qualcomm WLAN and Modem Over The Air",
-        "Author": "Xiling Gong",
+        "Author": ["Xiling Gong"],
         "Org": "Tencent Blade Team",
         "Date": "2019",
         "Tag": ["WLAN"],
@@ -1952,7 +1952,7 @@
     },
     "154": {
         "Title": "Practical Approach to Automate the Discovery and Eradication of Open-Source Software Vulnerabilities at Scale",
-        "Author": "Aladdin Almubayed",
+        "Author": ["Aladdin Almubayed"],
         "Org": "Netflix",
         "Date": "2019",
         "Tag": ["Supply Chain"],
@@ -1965,7 +1965,7 @@
     },
     "155": {
         "Title": "Locate Then Detect\uff1aWeb Attack Detection via Attention-based Deep Neural Networks",
-        "Author": "Tianlong Liu,Jianan Yan",
+        "Author": ["Tianlong Liu,Jianan Yan"],
         "Org": "Ali",
         "Date": "2019",
         "Tag": ["Web", "Machine Learning", "WAF"],
@@ -1978,7 +1978,7 @@
     },
     "156": {
         "Title": "HostSplit: Exploitable Antipatterns in Unicode Normalization",
-        "Author": "Jonathan Birch",
+        "Author": ["Jonathan Birch"],
         "Org": "Microsoft",
         "Date": "2019",
         "Tag": ["IDN"],
@@ -1991,7 +1991,7 @@
     },
     "157": {
         "Title": "Discovering and Understanding the Security Hazards in the Interactions between IoT Devices, Mobile Apps, and Clouds on Smart Home Platforms",
-        "Author": "Wei Zhou",
+        "Author": ["Wei Zhou"],
         "Org": "IIE",
         "Date": "2019",
         "Tag": ["IoT"],
@@ -2004,7 +2004,7 @@
     },
     "158": {
         "Title": "IOTFUZZER: Discovering Memory Corruptions in IoT Through App-based Fuzzing",
-        "Author": "Jiongyi Chen",
+        "Author": ["Jiongyi Chen"],
         "Org": "The Chinese University of Hong Kong",
         "Date": "2019",
         "Tag": ["IoT", "Fuzz"],
@@ -2017,7 +2017,7 @@
     },
     "159": {
         "Title": "Towards Automated Dynamic Analysis for Linux-based Embedded Firmware",
-        "Author": "Daming D. Chen",
+        "Author": ["Daming D. Chen"],
         "Org": "CMU",
         "Date": "2016",
         "Tag": ["Firmware"],
@@ -2030,7 +2030,7 @@
     },
     "160": {
         "Title": "Stealing Machine Learning Models via Prediction APIs",
-        "Author": "Florian Tramer",
+        "Author": ["Florian Tramer"],
         "Org": "",
         "Date": "2016",
         "Tag": ["Model Stealing"],
@@ -2043,7 +2043,7 @@
     },
     "161": {
         "Title": "Static Code Analysis Recognition Evasion",
-        "Author": "Andreas Wiegenstein",
+        "Author": ["Andreas Wiegenstein"],
         "Org": "AP Cyber Security",
         "Date": "2019",
         "Tag": ["Code Analysis"],
@@ -2056,7 +2056,7 @@
     },
     "162": {
         "Title": "BadBluetooth Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals",
-        "Author": "Fenghao Xu",
+        "Author": ["Fenghao Xu"],
         "Org": "The Chinese University of Hong Kong",
         "Date": "2019",
         "Tag": ["Bluetooth"],
@@ -2069,7 +2069,7 @@
     },
     "163": {
         "Title": "(State of) The Art of War: Offensive Techniques in Binary Analysis",
-        "Author": "Yan Shoshitaishvili",
+        "Author": ["Yan Shoshitaishvili"],
         "Org": "UCSB",
         "Date": "2016",
         "Tag": ["Angr", "Binary Analysis"],
@@ -2082,7 +2082,7 @@
     },
     "164": {
         "Title": "Driller: Augmenting Fuzzing Through Selective Symbolic Execution",
-        "Author": "Nick Stephens, John Grosen, Christopher Salls, Andrew Dutcher, Ruoyu Wang, Jacopo Corbetta, Yan Shoshitaishvili, Christopher Kruegel, Giovanni Vigna",
+        "Author": ["Nick Stephens, John Grosen, Christopher Salls, Andrew Dutcher, Ruoyu Wang, Jacopo Corbetta, Yan Shoshitaishvili, Christopher Kruegel, Giovanni Vigna"],
         "Org": "UCSB",
         "Date": "2016",
         "Tag": ["Fuzz", "Selective Symbolic Execution"],
@@ -2095,7 +2095,7 @@
     },
     "165": {
         "Title": "Firmware slap: automating discovery of exploitable vulnerabilities in firmware",
-        "Author": "Christopher roberts",
+        "Author": ["Christopher roberts"],
         "Org": "",
         "Date": "2019",
         "Tag": ["Firmware"],
@@ -2108,7 +2108,7 @@
     },
     "166": {
         "Title": "REDQUEEN: Fuzzing with Input-to-State Correspondence",
-        "Author": "Cornelius Aschermann, Sergej Schumilo, Tim Blazytko, Robert Gawlik, Thorsten Holz",
+        "Author": ["Cornelius Aschermann, Sergej Schumilo, Tim Blazytko, Robert Gawlik, Thorsten Holz"],
         "Org": "Ruhr-Universit\u00e4t Bochum",
         "Date": "2019",
         "Tag": ["Fuzzing"],
@@ -2121,7 +2121,7 @@
     },
     "167": {
         "Title": "Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation",
-        "Author": "Panagiotis Papadopoulos",
+        "Author": ["Panagiotis Papadopoulos"],
         "Org": "FORTH-ICS",
         "Date": "2019",
         "Tag": ["Web", "HTML5", "Browseer API"],
@@ -2134,7 +2134,7 @@
     },
     "168": {
         "Title": "JavaScript Template Attacks: Automatically Inferring Host Information for Targeted Exploits",
-        "Author": "Michael Schwarz",
+        "Author": ["Michael Schwarz"],
         "Org": "Graz University of Technology",
         "Date": "2019",
         "Tag": ["Side", "Channel"],
@@ -2147,7 +2147,7 @@
     },
     "169": {
         "Title": "TextBugger: Generating Adversarial Text Against Real-world Applications",
-        "Author": "Jinfeng Li",
+        "Author": ["Jinfeng Li"],
         "Org": "Zhejiang University",
         "Date": "2019",
         "Tag": ["Adversarial"],
@@ -2160,7 +2160,7 @@
     },
     "170": {
         "Title": "Analyzing Semantic Correctness with Symbolic Execution: A Case Study on PKCS#1 v1.5 Signature Verification",
-        "Author": "Sze Yiu Chau",
+        "Author": ["Sze Yiu Chau"],
         "Org": "Purdue University",
         "Date": "2019",
         "Tag": ["Fuzz", "Symbolic Execution"],
@@ -2173,7 +2173,7 @@
     },
     "171": {
         "Title": "PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary",
-        "Author": "Dokyung Song",
+        "Author": ["Dokyung Song"],
         "Org": "University of California, Irvine",
         "Date": "2019",
         "Tag": ["Fuzz", "Hardware"],
@@ -2186,7 +2186,7 @@
     },
     "172": {
         "Title": "Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing",
-        "Author": "Lei Zhao",
+        "Author": ["Lei Zhao"],
         "Org": "Wuhan University",
         "Date": "2019",
         "Tag": ["Hybrid Fuzzing"],
@@ -2199,7 +2199,7 @@
     },
     "173": {
         "Title": "DNS Cache-Based User Tracking",
-        "Author": "Amit Klein",
+        "Author": ["Amit Klein"],
         "Org": "Bar Ilan University",
         "Date": "2019",
         "Tag": ["DNS", "Privacy"],
@@ -2212,7 +2212,7 @@
     },
     "174": {
         "Title": "How Bad Can It Git? Characterizing Secret Leakage in Public GitHub Repositories",
-        "Author": "Michael Meli",
+        "Author": ["Michael Meli"],
         "Org": "North Carolina State University",
         "Date": "2019",
         "Tag": ["Privacy", "Git"],
@@ -2225,7 +2225,7 @@
     },
     "175": {
         "Title": "One Engine To Serve 'em All: Inferring Taint Rules Without Architectural Semantics",
-        "Author": "Zheng Leong Chua",
+        "Author": ["Zheng Leong Chua"],
         "Org": "National University of Singapore",
         "Date": "2019",
         "Tag": [""],
@@ -2238,7 +2238,7 @@
     },
     "176": {
         "Title": "CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines",
-        "Author": "HyungSeok Han",
+        "Author": ["HyungSeok Han"],
         "Org": "KAIST",
         "Date": "2019",
         "Tag": ["Fuzz"],
@@ -2251,7 +2251,7 @@
     },
     "177": {
         "Title": "Profit: Detecting and Quantifying Side Channels in Networked Applications",
-        "Author": "Nicol\u00e1s Rosner",
+        "Author": ["Nicol\u00e1s Rosner"],
         "Org": "University of California, Santa Barbara",
         "Date": "2019",
         "Tag": ["Side Channel"],
@@ -2264,7 +2264,7 @@
     },
     "178": {
         "Title": "Distinguishing Attacks from Legitimate Authentication Traffic at Scale",
-        "Author": "Cormac Herley",
+        "Author": ["Cormac Herley"],
         "Org": "Microsoft",
         "Date": "2019",
         "Tag": ["Side Channel"],
@@ -2277,7 +2277,7 @@
     },
     "179": {
         "Title": "ICSREF: A Framework for Automated Reverse Engineering of Industrial Control Systems Binaries",
-        "Author": "Anastasis Keliris",
+        "Author": ["Anastasis Keliris"],
         "Org": "NYU",
         "Date": "2019",
         "Tag": ["IoT", "Reverse Engineering"],
@@ -2290,7 +2290,7 @@
     },
     "180": {
         "Title": "A Systematic Framework to Generate Invariants for Anomaly Detection in Industrial Control Systems",
-        "Author": "Cheng Feng",
+        "Author": ["Cheng Feng"],
         "Org": "Imperial College London",
         "Date": "2019",
         "Tag": ["ICS"],
@@ -2303,7 +2303,7 @@
     },
     "181": {
         "Title": "DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems",
-        "Author": "Tigist Abera",
+        "Author": ["Tigist Abera"],
         "Org": "Technische Universit\u00e4t Darmstadt",
         "Date": "2019",
         "Tag": ["IoT"],
@@ -2316,7 +2316,7 @@
     },
     "182": {
         "Title": "DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems",
-        "Author": "Z. Berkay Celik",
+        "Author": ["Z. Berkay Celik"],
         "Org": "Penn State University",
         "Date": "2019",
         "Tag": ["IoT"],
@@ -2329,7 +2329,7 @@
     },
     "183": {
         "Title": "Toward the Analysis of Embedded Firmware through Automated Re-hosting",
-        "Author": "Eric Gustafson",
+        "Author": ["Eric Gustafson"],
         "Org": "UCSB",
         "Date": "2019",
         "Tag": ["Firmware", "virtualize"],
@@ -2342,7 +2342,7 @@
     },
     "184": {
         "Title": "The KNOB is Broken: Exploiting Low Entropy in the Encryption Key Negotiation Of Bluetooth BR/EDR",
-        "Author": "Daniele Antonioli",
+        "Author": ["Daniele Antonioli"],
         "Org": "SUTD",
         "Date": "2019",
         "Tag": ["Bluetooth", "protocol"],
@@ -2355,7 +2355,7 @@
     },
     "185": {
         "Title": "Leaky Images: Targeted Privacy Attacks in the Web",
-        "Author": "Cristian-Alexandru Staicu and Michael Pradel",
+        "Author": ["Cristian-Alexandru Staicu and Michael Pradel"],
         "Org": "TU Darmstadt",
         "Date": "2019",
         "Tag": ["Web", "Side Channel"],
@@ -2368,7 +2368,7 @@
     },
     "186": {
         "Title": "All Your Clicks Belong to Me: Investigating Click Interception on the Web",
-        "Author": "Mingxue Zhang and Wei Meng",
+        "Author": ["Mingxue Zhang and Wei Meng"],
         "Org": "Pennsylvania State University",
         "Date": "2019",
         "Tag": ["Web", "Click hijack"],
@@ -2381,7 +2381,7 @@
     },
     "187": {
         "Title": "Coverage-based Greybox Fuzzing as Markov Chain",
-        "Author": "Marcel B\u00f6hme",
+        "Author": ["Marcel B\u00f6hme"],
         "Org": "School of Computing, National University of Singapore",
         "Date": "2016",
         "Tag": ["Fuzz"],
@@ -2394,7 +2394,7 @@
     },
     "188": {
         "Title": "KATCH High-Coverage Testing of Software Patches",
-        "Author": "Paul Dan Marinescu",
+        "Author": ["Paul Dan Marinescu"],
         "Org": "",
         "Date": "2013",
         "Tag": ["Fuzz", "Patch"],
@@ -2407,7 +2407,7 @@
     },
     "189": {
         "Title": "FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation",
-        "Author": "Yaowen Zheng",
+        "Author": ["Yaowen Zheng"],
         "Org": "School of Cyber Security, University of Chinese Academy of Sciences, China",
         "Date": "2019",
         "Tag": ["Fuzz", "Firm"],
@@ -2420,7 +2420,7 @@
     },
     "190": {
         "Title": "Avatar: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares",
-        "Author": "Jonas Zaddach",
+        "Author": ["Jonas Zaddach"],
         "Org": "EURECOM, France",
         "Date": "2014",
         "Tag": ["Fuzz", "Firmware"],
@@ -2433,7 +2433,7 @@
     },
     "191": {
         "Title": "Dragonblood: Analyzing the Dragonfly Handshake of WPA3 and EAP-pwd",
-        "Author": "Mathy Vanhoef",
+        "Author": ["Mathy Vanhoef"],
         "Org": "New York University Abu Dhabi",
         "Date": "2020",
         "Tag": ["Wifi"],
@@ -2446,7 +2446,7 @@
     },
     "192": {
         "Title": "Your IoTs Are (Not) Mine: On the Remote BindingBetween IoT Devices and Users",
-        "Author": "Jiongyi Chen",
+        "Author": ["Jiongyi Chen"],
         "Org": "The Chinese University of Hong Kong",
         "Date": "2019",
         "Tag": ["IoT"],
@@ -2459,7 +2459,7 @@
     },
     "193": {
         "Title": "Soteria: Automated IoT Safety and Security Analysis",
-        "Author": "Z.Berkay Celik",
+        "Author": ["Z.Berkay Celik"],
         "Org": "The Pennsylvania State University",
         "Date": "2018",
         "Tag": ["IoT"],
@@ -2472,7 +2472,7 @@
     },
     "194": {
         "Title": "Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack",
-        "Author": "Hoai Viet Nguyen",
+        "Author": ["Hoai Viet Nguyen"],
         "Org": "Cologne University of Applied Sciences, Germany",
         "Date": "2019",
         "Tag": ["Web", "Cache"],
@@ -2485,7 +2485,7 @@
     },
     "195": {
         "Title": "ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications",
-        "Author": "Todd Warszawski",
+        "Author": ["Todd Warszawski"],
         "Org": "Stanford InfoLab",
         "Date": "2017",
         "Tag": ["Web"],
@@ -2498,7 +2498,7 @@
     },
     "196": {
         "Title": "GREYONE: Data Flow Sensitive Fuzzing",
-        "Author": "Shuitao Gan",
+        "Author": ["Shuitao Gan"],
         "Org": "State Key Laboratory of Mathematical Engineering and Advanced Computing",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -2511,7 +2511,7 @@
     },
     "197": {
         "Title": "Compiler Fuzzing: How Much Does It Matter?",
-        "Author": "MICHA\u00cbL MARCOZZI",
+        "Author": ["MICHA\u00cbL MARCOZZI"],
         "Org": "Imperial College London, United Kingdom",
         "Date": "2019",
         "Tag": ["Fuzz"],
@@ -2524,7 +2524,7 @@
     },
     "198": {
         "Title": "CRYPTOREX: Large-scale Analysis of Cryptographic Misuse in IOT Devices",
-        "Author": "Li Zhang",
+        "Author": ["Li Zhang"],
         "Org": "Jinan University",
         "Date": "2019",
         "Tag": ["Crypto", "IoT"],
@@ -2537,7 +2537,7 @@
     },
     "199": {
         "Title": "1 Trillion Dollar Refund \u2013 How To Spoof PDF Signatures",
-        "Author": "Vladislav Mladenov",
+        "Author": ["Vladislav Mladenov"],
         "Org": "Ruhr University Bochum",
         "Date": "2019",
         "Tag": ["PDF"],
@@ -2550,7 +2550,7 @@
     },
     "200": {
         "Title": "Charting the Attack Surface of Trigger-Action IoT Platforms",
-        "Author": "Qi Wang",
+        "Author": ["Qi Wang"],
         "Org": "University of Illinois at Urbana-Champaign",
         "Date": "2019",
         "Tag": ["IoT"],
@@ -2563,7 +2563,7 @@
     },
     "201": {
         "Title": "LibreCAN: Automated CAN Message Translator",
-        "Author": "Mert D. Pes\u00e9",
+        "Author": ["Mert D. Pes\u00e9"],
         "Org": "University of Michigan",
         "Date": "2019",
         "Tag": ["CAN"],
@@ -2576,7 +2576,7 @@
     },
     "202": {
         "Title": "Matryoshka: fuzzing deeply nested branches",
-        "Author": "Peng Chen",
+        "Author": ["Peng Chen"],
         "Org": "ByteDance AI Lab",
         "Date": "2019",
         "Tag": ["Fuzz"],
@@ -2589,7 +2589,7 @@
     },
     "203": {
         "Title": "Principled Unearthing of TCP Side Channel Vulnerabilities",
-        "Author": "Yue Cao",
+        "Author": ["Yue Cao"],
         "Org": "UC Riverside",
         "Date": "2019",
         "Tag": ["TCP", "Side Channel"],
@@ -2602,7 +2602,7 @@
     },
     "204": {
         "Title": "Tor: The Second-Generation Onion Router",
-        "Author": "Dingledine",
+        "Author": ["Dingledine"],
         "Org": "Naval Research Lab Washington DC",
         "Date": "2004",
         "Tag": ["Tor"],
@@ -2615,7 +2615,7 @@
     },
     "205": {
         "Title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
-        "Author": "Satoshi Nakamoto",
+        "Author": ["Satoshi Nakamoto"],
         "Org": "Bitcoin.Org",
         "Date": "2008",
         "Tag": ["Bitcoin"],
@@ -2628,7 +2628,7 @@
     },
     "206": {
         "Title": "Embedded Research & Automation",
-        "Author": "Brian Butterly",
+        "Author": ["Brian Butterly"],
         "Org": "",
         "Date": "2019",
         "Tag": ["Embedded", "Fuzz"],
@@ -2641,7 +2641,7 @@
     },
     "207": {
         "Title": "PowerFL: Fuzzing VxWorks embedded system",
-        "Author": "Peter Goodman",
+        "Author": ["Peter Goodman"],
         "Org": "",
         "Date": "2019",
         "Tag": ["Embedded", "Fuzz", "IoT"],
@@ -2654,7 +2654,7 @@
     },
     "208": {
         "Title": "Building Fast Fuzzers",
-        "Author": "Rahul Gopinath and Andreas Zeller",
+        "Author": ["Rahul Gopinath and Andreas Zeller"],
         "Org": "CISPA",
         "Date": "2019",
         "Tag": ["Fuzz"],
@@ -2667,7 +2667,7 @@
     },
     "209": {
         "Title": "Unicorn: Next Generation CPU Emulator Framework",
-        "Author": "NGUYEN Anh Quynh ",
+        "Author": ["NGUYEN Anh Quynh "],
         "Org": "",
         "Date": "2015",
         "Tag": ["Emulator"],
@@ -2680,7 +2680,7 @@
     },
     "210": {
         "Title": "Embedded Devices Security and Firmware Reverse Engineering",
-        "Author": "Jonas Zaddach",
+        "Author": ["Jonas Zaddach"],
         "Org": "",
         "Date": "2013",
         "Tag": ["Embedded Devices", "Firmware", "Reverse Engineering"],
@@ -2693,7 +2693,7 @@
     },
     "211": {
         "Title": "FairFuzz: A Targeted Mutation Strategy for Increasing Greybox Fuzz Testing Coverage",
-        "Author": "Caroline Lemieux",
+        "Author": ["Caroline Lemieux"],
         "Org": "University of California, Berkeley, USA",
         "Date": "2018",
         "Tag": ["Fuzz", "AFL"],
@@ -2706,7 +2706,7 @@
     },
     "212": {
         "Title": "Opening Pandora's Box through ATFuzzer: Dynamic Analysis of AT Interface for Android Smartphones",
-        "Author": "Imtiaz Karim",
+        "Author": ["Imtiaz Karim"],
         "Org": "Purdue University",
         "Date": "2019",
         "Tag": ["Fuzz"],
@@ -2719,7 +2719,7 @@
     },
     "213": {
         "Title": "Unveiling your keystrokes: A Cache-based Side-channel Attack on Graphics Lib",
-        "Author": "Daimeng Wang",
+        "Author": ["Daimeng Wang"],
         "Org": "University of California Riverside",
         "Date": "2019",
         "Tag": ["Side-channel"],
@@ -2732,7 +2732,7 @@
     },
     "214": {
         "Title": "Chain of Fools: An Exploration of Certificate Chain Validation Mishaps",
-        "Author": "James Barclay",
+        "Author": ["James Barclay"],
         "Org": "Duo Security",
         "Date": "2019",
         "Tag": ["Cryptography"],
@@ -2745,7 +2745,7 @@
     },
     "215": {
         "Title": "Mobile Network Hacking, IP Edition",
-        "Author": "Karsten Nohl",
+        "Author": ["Karsten Nohl"],
         "Org": "",
         "Date": "2019",
         "Tag": ["Mobile"],
@@ -2758,7 +2758,7 @@
     },
     "216": {
         "Title": "Far Sides of Java Remote Protocols",
-        "Author": "An Trinh",
+        "Author": ["An Trinh"],
         "Org": "Viettel Cyber Security",
         "Date": "2019",
         "Tag": ["Java"],
@@ -2771,7 +2771,7 @@
     },
     "217": {
         "Title": "Sneak into Your Room: Security Holes in the Integration and Management of Messaging Protocols on Commercial IoT Clouds",
-        "Author": "Yan Jia",
+        "Author": ["Yan Jia"],
         "Org": "NCNIPC",
         "Date": "2019",
         "Tag": ["IoT"],
@@ -2784,7 +2784,7 @@
     },
     "218": {
         "Title": "Reverse Engineering and Exploiting Builds in the Cloud",
-        "Author": "Etienne Stalmans",
+        "Author": ["Etienne Stalmans"],
         "Org": "Salesforce Heroku",
         "Date": "2019",
         "Tag": [""],
@@ -2797,7 +2797,7 @@
     },
     "219": {
         "Title": "Booting the iOS Kernel to an Interactive Bash Shell on QEMU",
-        "Author": "Jonathan Afek",
+        "Author": ["Jonathan Afek"],
         "Org": "HCL/AppScan",
         "Date": "2019",
         "Tag": ["iOS"],
@@ -2810,7 +2810,7 @@
     },
     "220": {
         "Title": "Fuzzing and Exploiting Virtual Channels in Microsoft Remote Desktop Protocol for Fun and Profit",
-        "Author": "Chun Sung Park",
+        "Author": ["Chun Sung Park"],
         "Org": "Korea University",
         "Date": "2019",
         "Tag": ["Fuzz", "RDP"],
@@ -2823,7 +2823,7 @@
     },
     "221": {
         "Title": "Side Channel Attacks in 4G and 5G Cellular Networks",
-        "Author": "Syed Hussain",
+        "Author": ["Syed Hussain"],
         "Org": "Purdue University",
         "Date": "2019",
         "Tag": ["Mobile", "telecommunication"],
@@ -2836,7 +2836,7 @@
     },
     "222": {
         "Title": "Fatal Fury on ESP32: Time to Release Hardware Exploits",
-        "Author": "",
+        "Author": [""],
         "Org": "",
         "Date": "2019",
         "Tag": [""],
@@ -2849,7 +2849,7 @@
     },
     "223": {
         "Title": "Site Isolation: Confining Untrustworthy Code in the Web Browser",
-        "Author": "Nasko Oskov",
+        "Author": ["Nasko Oskov"],
         "Org": "Google",
         "Date": "2019",
         "Tag": ["Browser", "Web"],
@@ -2862,7 +2862,7 @@
     },
     "224": {
         "Title": "Practical Side-Channel Attacks Against WPA-TKIP",
-        "Author": "Mathy Vanhoef",
+        "Author": ["Mathy Vanhoef"],
         "Org": "New York University Abu Dhabi",
         "Date": "2019",
         "Tag": ["WiFi"],
@@ -2875,7 +2875,7 @@
     },
     "225": {
         "Title": "BlueMaster: Bypassing and Fixing Bluetooth-based Proximity Authentication",
-        "Author": "Youngman Jung",
+        "Author": ["Youngman Jung"],
         "Org": "Samsung Electronics",
         "Date": "2019",
         "Tag": ["Bluetooth"],
@@ -2888,7 +2888,7 @@
     },
     "226": {
         "Title": "KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware",
-        "Author": "Nilo Redini",
+        "Author": ["Nilo Redini"],
         "Org": "ucsb-seclab",
         "Date": "2020",
         "Tag": ["Embedded"],
@@ -2901,7 +2901,7 @@
     },
     "227": {
         "Title": "Unicorefuzz: On the Viability of Emulation for Kernelspace Fuzzing",
-        "Author": "Dominik Maier, Benedikt Radtke, and Bastian Harren, TU Berlin",
+        "Author": ["Dominik Maier, Benedikt Radtke, and Bastian Harren, TU Berlin"],
         "Org": "TU Berlin",
         "Date": "2019",
         "Tag": ["Unicorn", "FUzz"],
@@ -2914,7 +2914,7 @@
     },
     "228": {
         "Title": "PerfFuzz: Automatically Generating Pathological Inputs",
-        "Author": "Caroline Lemieux",
+        "Author": ["Caroline Lemieux"],
         "Org": "University of California, Berkeley, USA",
         "Date": "2018",
         "Tag": ["Fuzz"],
@@ -2927,7 +2927,7 @@
     },
     "229": {
         "Title": "SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities",
-        "Author": "los Petsios",
+        "Author": ["los Petsios"],
         "Org": "Columbia University",
         "Date": "2017",
         "Tag": ["Fuzz"],
@@ -2940,7 +2940,7 @@
     },
     "230": {
         "Title": "FuzzFactory: Domain-Specific Fuzzing with Waypoints",
-        "Author": "Rohan Padhye",
+        "Author": ["Rohan Padhye"],
         "Org": "University of California at Berkeley, USA",
         "Date": "2019",
         "Tag": ["Fuzz"],
@@ -2953,7 +2953,7 @@
     },
     "231": {
         "Title": "Pass-the-Hash in Windows 10 39170",
-        "Author": "Lukasz Cyra",
+        "Author": ["Lukasz Cyra"],
         "Org": "",
         "Date": "2019",
         "Tag": ["Windows", "NTLM"],
@@ -2966,7 +2966,7 @@
     },
     "232": {
         "Title": "Android Enterprise Security White Paper",
-        "Author": "Google",
+        "Author": ["Google"],
         "Org": "Google",
         "Date": "2019",
         "Tag": ["Android"],
@@ -2979,7 +2979,7 @@
     },
     "233": {
         "Title": "Hardwear 2018 BLE Security Essentials",
-        "Author": "",
+        "Author": [""],
         "Org": "Smartlockpicking.com",
         "Date": "2018",
         "Tag": ["BLE"],
@@ -2992,7 +2992,7 @@
     },
     "234": {
         "Title": "HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation",
-        "Author": "Abraham A Clements",
+        "Author": ["Abraham A Clements"],
         "Org": "Sandia National Laboratories",
         "Date": "2020",
         "Tag": ["Firmware"],
@@ -3005,7 +3005,7 @@
     },
     "235": {
         "Title": "What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices",
-        "Author": "Marius Muench",
+        "Author": ["Marius Muench"],
         "Org": "EURECOM",
         "Date": "2018",
         "Tag": ["Fuzz", "Embedded"],
@@ -3018,7 +3018,7 @@
     },
     "236": {
         "Title": "Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites",
-        "Author": "Takuya Watanabe",
+        "Author": ["Takuya Watanabe"],
         "Org": "NTT",
         "Date": "2020",
         "Tag": ["Web"],
@@ -3031,7 +3031,7 @@
     },
     "237": {
         "Title": "Deceptive Previews: A Study of the Link Preview Trustworthiness in Social Platforms",
-        "Author": "Giada Stivala",
+        "Author": ["Giada Stivala"],
         "Org": "CISPA",
         "Date": "2020",
         "Tag": ["Web", "Social"],
@@ -3044,7 +3044,7 @@
     },
     "238": {
         "Title": "Cross-Origin State Inference (COSI) Attacks: Leaking Web Site States through XS-Leaks",
-        "Author": "Avinash Sudhodanan",
+        "Author": ["Avinash Sudhodanan"],
         "Org": "IMDEA Software Institute",
         "Date": "2020",
         "Tag": ["Web", "Frontend"],
@@ -3057,7 +3057,7 @@
     },
     "239": {
         "Title": "HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing",
-        "Author": "William Blair",
+        "Author": ["William Blair"],
         "Org": "Boston University",
         "Date": "2020",
         "Tag": ["Fuzz", "SlowFuzz"],
@@ -3070,7 +3070,7 @@
     },
     "240": {
         "Title": "Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization",
-        "Author": "Yanhao Wang",
+        "Author": ["Yanhao Wang"],
         "Org": "Institute of Software, Chinese Academy of Sciences",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3083,7 +3083,7 @@
     },
     "241": {
         "Title": "TaintScope: A Checksum-Aware Directed Fuzzing Tool for Automatic Software Vulnerability Detection",
-        "Author": "Tielei Wang",
+        "Author": ["Tielei Wang"],
         "Org": "",
         "Date": "2020",
         "Tag": ["taint", "fuzz"],
@@ -3096,7 +3096,7 @@
     },
     "242": {
         "Title": "MemLock: Memory Usage Guided Fuzzing",
-        "Author": "Cheng Wen",
+        "Author": ["Cheng Wen"],
         "Org": "Shenzhen University;Ant Financial",
         "Date": "2020",
         "Tag": ["Fuzz", "AFL"],
@@ -3109,7 +3109,7 @@
     },
     "243": {
         "Title": "EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as aVariant of the Adversarial Multi-Armed Bandit",
-        "Author": "Tai Yue, Pengfei Wang, Yong Tan",
+        "Author": ["Tai Yue, Pengfei Wang, Yong Tan"],
         "Org": "National University of Defense Technology",
         "Date": "2020",
         "Tag": ["Fuzz", "AI"],
@@ -3122,7 +3122,7 @@
     },
     "244": {
         "Title": "Dowsing for Overflows: A Guided Fuzzer to Find Buffer Boundary Violations",
-        "Author": "Istvan Haller",
+        "Author": ["Istvan Haller"],
         "Org": "VU University Amsterdam",
         "Date": "2013",
         "Tag": ["Guied Fuzz"],
@@ -3135,7 +3135,7 @@
     },
     "245": {
         "Title": "FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzingthrough Deep Learning",
-        "Author": "Peiyuan Zong",
+        "Author": ["Peiyuan Zong"],
         "Org": "UCAS",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3148,7 +3148,7 @@
     },
     "246": {
         "Title": "New Exploit Technique In Java Deserialization Attack",
-        "Author": "Yongtao Wang",
+        "Author": ["Yongtao Wang"],
         "Org": "BCM Social Corp",
         "Date": "2019",
         "Tag": ["Java", "Deserialization"],
@@ -3161,7 +3161,7 @@
     },
     "247": {
         "Title": "Boosting Fuzzer Efficiency:An Information Theoretic Perspective",
-        "Author": "Marcel B\u00f6hme",
+        "Author": ["Marcel B\u00f6hme"],
         "Org": "Monash University",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3174,7 +3174,7 @@
     },
     "248": {
         "Title": "AFLNET: A Greybox Fuzzer for Network Protocols",
-        "Author": "Van-Thuan Pham",
+        "Author": ["Van-Thuan Pham"],
         "Org": "Monash University",
         "Date": "2020",
         "Tag": ["Fuzz", " Network"],
@@ -3187,7 +3187,7 @@
     },
     "249": {
         "Title": "NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities",
-        "Author": "Lior Shafir",
+        "Author": ["Lior Shafir"],
         "Org": "Tel Aviv University",
         "Date": "2020",
         "Tag": ["DNS", "DoS"],
@@ -3200,7 +3200,7 @@
     },
     "250": {
         "Title": "Understanding The Attack Surface And Attack Resilience Of Project Spartans New EdgeHTML Rendering Engine",
-        "Author": "Mark Vincent Yason",
+        "Author": ["Mark Vincent Yason"],
         "Org": "IBM X-Force Advanced Research",
         "Date": "2015",
         "Tag": ["Edge", "Attack"],
@@ -3213,7 +3213,7 @@
     },
     "251": {
         "Title": "Building Next-Gen Security Analysis Tools With Qiling Framework",
-        "Author": "KaiJern LAU",
+        "Author": ["KaiJern LAU"],
         "Org": "qiling.io",
         "Date": "2020",
         "Tag": ["Emulation"],
@@ -3226,7 +3226,7 @@
     },
     "252": {
         "Title": "SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback",
-        "Author": "Rui Zhong, Yongheng Chen, Hong Hu, Hangfan Zhang, Wenke Lee, Dinghao Wu",
+        "Author": ["Rui Zhong, Yongheng Chen, Hong Hu, Hangfan Zhang, Wenke Lee, Dinghao Wu"],
         "Org": "Software Systems Security Team at Penn State University",
         "Date": "2020",
         "Tag": ["Fuzz", "SQL"],
@@ -3239,7 +3239,7 @@
     },
     "253": {
         "Title": "Mobile Private Contact Discovery at Scale",
-        "Author": "Daniel Kales",
+        "Author": ["Daniel Kales"],
         "Org": "Graz University of Technology",
         "Date": "2019",
         "Tag": ["Mobile"],
@@ -3252,7 +3252,7 @@
     },
     "254": {
         "Title": "P2IM Scalable and Hardware-independent Firmware Testing via Automatic Peripheral Interface Modeling",
-        "Author": "Bo Feng, Alejandro Mera, and Long Lu",
+        "Author": ["Bo Feng, Alejandro Mera, and Long Lu"],
         "Org": "Northeastern University",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3265,7 +3265,7 @@
     },
     "255": {
         "Title": "Typestate-Guided Fuzzer for Discovering Use-after-Free Vulnerabilities",
-        "Author": "Haijun Wang",
+        "Author": ["Haijun Wang"],
         "Org": "Ant Financial Services Group",
         "Date": "2020",
         "Tag": ["Fuzz", "UAF"],
@@ -3278,7 +3278,7 @@
     },
     "256": {
         "Title": "WEIZZ: Automatic Grey-Box Fuzzingfor Structured Binary Formats",
-        "Author": "Andrea Fioraldi",
+        "Author": ["Andrea Fioraldi"],
         "Org": "Sapienza University of RomeItaly",
         "Date": "2020",
         "Tag": ["Fuzz", "Structured"],
@@ -3291,7 +3291,7 @@
     },
     "257": {
         "Title": "Defending Containers Like a Ninja: A Walk through the Advanced Security Features of Docker & Kubernetes",
-        "Author": "Sheila Berta",
+        "Author": ["Sheila Berta"],
         "Org": "Head of Research, Dreamlab Technologies",
         "Date": "2020",
         "Tag": ["Defense", "Cloud"],
@@ -3304,7 +3304,7 @@
     },
     "258": {
         "Title": "Emulating Samsung's Baseband for Security Testing",
-        "Author": "Grant Hernandez",
+        "Author": ["Grant Hernandez"],
         "Org": "Security Researcher, University of Florida",
         "Date": "2020",
         "Tag": ["Mobile", "Hardware", "Emulate"],
@@ -3317,7 +3317,7 @@
     },
     "259": {
         "Title": "Hiding Process Memory via Anti-Forensic Techniques",
-        "Author": "Frank Block",
+        "Author": ["Frank Block"],
         "Org": "Security Researcher, ERNW Research GmbH",
         "Date": "2020",
         "Tag": ["Malware", "Forensics"],
@@ -3330,7 +3330,7 @@
     },
     "260": {
         "Title": "HTTP Request Smuggling in 2020 \u2013 New Variants, New Defenses and New Challenges",
-        "Author": "Amit Klein",
+        "Author": ["Amit Klein"],
         "Org": "VP Security Research, SafeBreach",
         "Date": "2020",
         "Tag": ["Web"],
@@ -3343,7 +3343,7 @@
     },
     "261": {
         "Title": "Decade of the RATs \u2013 Custom Chinese Linux Rootkits for Everyone",
-        "Author": "Kevin Livelli",
+        "Author": ["Kevin Livelli"],
         "Org": "Director of Threat Intelligence, BlackBerry",
         "Date": "2020",
         "Tag": ["Malware"],
@@ -3356,7 +3356,7 @@
     },
     "262": {
         "Title": "Detecting Fake 4G Base Stations in Real Time",
-        "Author": "Cooper Quintin",
+        "Author": ["Cooper Quintin"],
         "Org": "Senior Staff Technologist, Electronic Frontier Foundation",
         "Date": "2020",
         "Tag": ["Mobile"],
@@ -3369,7 +3369,7 @@
     },
     "263": {
         "Title": "Web Cache Entanglement: Novel Pathways to Poisoning",
-        "Author": "James Kettle",
+        "Author": ["James Kettle"],
         "Org": "PortSwigger Web Security",
         "Date": "2020",
         "Tag": ["Web"],
@@ -3382,7 +3382,7 @@
     },
     "264": {
         "Title": "Demystifying Modern Windows Rootkits",
-        "Author": "Bill Demirkapi",
+        "Author": ["Bill Demirkapi"],
         "Org": "",
         "Date": "2020",
         "Tag": ["Rootkit"],
@@ -3395,7 +3395,7 @@
     },
     "265": {
         "Title": "Discovering Hidden Properties to Attack the Node.js Ecosystem",
-        "Author": "Feng Xiao",
+        "Author": ["Feng Xiao"],
         "Org": "Georgia Institute of Technology",
         "Date": "2020",
         "Tag": ["Web"],
@@ -3408,7 +3408,7 @@
     },
     "266": {
         "Title": "NoJITsu: Locking Down JavaScript Engines",
-        "Author": "Taemin Park",
+        "Author": ["Taemin Park"],
         "Org": "University of California, Irvine",
         "Date": "2020",
         "Tag": ["JavaScript"],
@@ -3421,7 +3421,7 @@
     },
     "267": {
         "Title": "When TLS Hacks You",
-        "Author": "Joshua Maddux",
+        "Author": ["Joshua Maddux"],
         "Org": "Latacora",
         "Date": "2020",
         "Tag": ["Web"],
@@ -3434,7 +3434,7 @@
     },
     "268": {
         "Title": "OTRazor: Static Code Analysis for Vulnerability Discovery in Industrial Automation Scripts",
-        "Author": "Federico Maggi",
+        "Author": ["Federico Maggi"],
         "Org": "Trend Micro Research",
         "Date": "2020",
         "Tag": ["Audit"],
@@ -3447,7 +3447,7 @@
     },
     "269": {
         "Title": "Fooling Windows through Superfetch",
-        "Author": "Mathilde Venault",
+        "Author": ["Mathilde Venault"],
         "Org": "ESIEA",
         "Date": "2020",
         "Tag": ["Windows"],
@@ -3460,7 +3460,7 @@
     },
     "270": {
         "Title": "Escaping Virtualized Containers",
-        "Author": "Yuval Avrahami",
+        "Author": ["Yuval Avrahami"],
         "Org": "Palo Alto Networks",
         "Date": "2020",
         "Tag": ["Virtualize"],
@@ -3473,7 +3473,7 @@
     },
     "271": {
         "Title": "About Directed Fuzzing and Use-After-Free: How to Find Complex & Silent Bugs?",
-        "Author": "S\u00e9bastien Bardin  ",
+        "Author": ["S\u00e9bastien Bardin  "],
         "Org": "",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3486,7 +3486,7 @@
     },
     "272": {
         "Title": "Detecting Access Token Manipulation",
-        "Author": "William Burgess",
+        "Author": ["William Burgess"],
         "Org": "Elastic",
         "Date": "2020",
         "Tag": ["Windows"],
@@ -3499,7 +3499,7 @@
     },
     "273": {
         "Title": "You have No Idea Who Sent that Email: 18 Attacks on Email Sender Authentication",
-        "Author": "Jianjun Chen",
+        "Author": ["Jianjun Chen"],
         "Org": "",
         "Date": "2020",
         "Tag": ["Social Enginner"],
@@ -3512,7 +3512,7 @@
     },
     "274": {
         "Title": "Routopsy: Modern Routing Protocol Vulnerability Analysis and Exploitation",
-        "Author": "Szymon Ziolkowski ",
+        "Author": ["Szymon Ziolkowski "],
         "Org": "SensePost",
         "Date": "2020",
         "Tag": ["Router"],
@@ -3525,7 +3525,7 @@
     },
     "275": {
         "Title": "Virtually Private Networks",
-        "Author": "Charl van der Walt",
+        "Author": ["Charl van der Walt"],
         "Org": "Global Head of Security Research, Orange Cyberdefense",
         "Date": "2020",
         "Tag": ["Web"],
@@ -3538,7 +3538,7 @@
     },
     "276": {
         "Title": "Mind Games: Using Data to Solve for the Human Element",
-        "Author": "Masha Sedova",
+        "Author": ["Masha Sedova"],
         "Org": "Elevate Security",
         "Date": "2020",
         "Tag": ["Social Enginner"],
@@ -3551,7 +3551,7 @@
     },
     "277": {
         "Title": "Sys: A Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code",
-        "Author": "Fraser Brown, Stanford University; Deian Stefan, UC San Diego; Dawson Engler, Stanford University",
+        "Author": ["Fraser Brown, Stanford University", " Deian Stefan, UC San Diego", " Dawson Engler, Stanford University"],
         "Org": "Stanford University",
         "Date": "2020",
         "Tag": ["Browser", "Vuln Discovery"],
@@ -3564,7 +3564,7 @@
     },
     "278": {
         "Title": "AURORA: Statistical Crash Analysis for Automated Root Cause Explanation",
-        "Author": "Tim Blazytko",
+        "Author": ["Tim Blazytko"],
         "Org": "Ruhr-Universit\u00e4t Bochum",
         "Date": "2020",
         "Tag": ["Automated"],
@@ -3577,7 +3577,7 @@
     },
     "279": {
         "Title": "Poison Over Troubled Forwarders: A Cache Poisoning Attack Targeting DNS Forwarding Devices",
-        "Author": "Xiaofeng Zheng",
+        "Author": ["Xiaofeng Zheng"],
         "Org": "Tsinghua University",
         "Date": "2020",
         "Tag": ["DNS", "Cache Poisoning"],
@@ -3590,7 +3590,7 @@
     },
     "280": {
         "Title": "NXNSAttack: Recursive DNS Inefficiencies and Vulnerabilities",
-        "Author": "Yehuda Afek",
+        "Author": ["Yehuda Afek"],
         "Org": "Tel-Aviv University",
         "Date": "2020",
         "Tag": ["DNS"],
@@ -3603,7 +3603,7 @@
     },
     "281": {
         "Title": "A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email",
-        "Author": "Hyeonmin Lee",
+        "Author": ["Hyeonmin Lee"],
         "Org": "Seoul National University",
         "Date": "2020",
         "Tag": ["Email", "DNS"],
@@ -3616,7 +3616,7 @@
     },
     "282": {
         "Title": "Cached and Confused: Web Cache Deception in the Wild",
-        "Author": "Seyed Ali Mirheidari",
+        "Author": ["Seyed Ali Mirheidari"],
         "Org": "University of Trento",
         "Date": "2020",
         "Tag": ["Cache Deception"],
@@ -3629,7 +3629,7 @@
     },
     "283": {
         "Title": "KOOBE: Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities",
-        "Author": "Weiteng Chen",
+        "Author": ["Weiteng Chen"],
         "Org": "UC Riverside",
         "Date": "2020",
         "Tag": ["OOB", "Exploit"],
@@ -3642,7 +3642,7 @@
     },
     "284": {
         "Title": "Automatic Techniques to Systematically Discover New Heap Exploitation Primitives",
-        "Author": "Insu Yun",
+        "Author": ["Insu Yun"],
         "Org": "Georgia Institute of Technology",
         "Date": "2020",
         "Tag": ["Heap", "Exploit"],
@@ -3655,7 +3655,7 @@
     },
     "285": {
         "Title": "The Industrial Age of Hacking",
-        "Author": "Timothy Nosco",
+        "Author": ["Timothy Nosco"],
         "Org": "United States Army",
         "Date": "2020",
         "Tag": ["Training"],
@@ -3668,7 +3668,7 @@
     },
     "286": {
         "Title": "FuzzGen: Automatic Fuzzer Generation",
-        "Author": "Kyriakos Ispoglou",
+        "Author": ["Kyriakos Ispoglou"],
         "Org": "Daniel Austin",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3681,7 +3681,7 @@
     },
     "287": {
         "Title": "FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzing through Deep Learning",
-        "Author": "Peiyuan Zong",
+        "Author": ["Peiyuan Zong"],
         "Org": "IIE",
         "Date": "2020",
         "Tag": ["Fuzz", "Deep Learning"],
@@ -3694,7 +3694,7 @@
     },
     "288": {
         "Title": "MUZZ: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs",
-        "Author": "Hongxu Chen",
+        "Author": ["Hongxu Chen"],
         "Org": "University of Science and Technology of China and Nayang Technological University",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3707,7 +3707,7 @@
     },
     "289": {
         "Title": "EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as a Variant of the Adversarial Multi-Armed Bandit",
-        "Author": "Tai Yue",
+        "Author": ["Tai Yue"],
         "Org": "National University of Defense Technology",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3720,7 +3720,7 @@
     },
     "290": {
         "Title": "ParmeSan: Sanitizer-guided Greybox Fuzzing",
-        "Author": "Sebastian \u00d6sterlund",
+        "Author": ["Sebastian \u00d6sterlund"],
         "Org": "Vrije Universiteit Amsterdam",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3733,7 +3733,7 @@
     },
     "291": {
         "Title": "Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer",
-        "Author": "Suyoung Lee",
+        "Author": ["Suyoung Lee"],
         "Org": "KAIST",
         "Date": "2020",
         "Tag": ["Fuzz", "NN"],
@@ -3746,7 +3746,7 @@
     },
     "292": {
         "Title": "Fuzzing Error Handling Code using Context-Sensitive Software Fault Injection",
-        "Author": "Zu-Ming Jiang",
+        "Author": ["Zu-Ming Jiang"],
         "Org": "Tsinghua University",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3759,7 +3759,7 @@
     },
     "293": {
         "Title": "USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation",
-        "Author": "Hui Peng",
+        "Author": ["Hui Peng"],
         "Org": "Purdue University",
         "Date": "2020",
         "Tag": ["Fuzz", "Emulation"],
@@ -3772,7 +3772,7 @@
     },
     "294": {
         "Title": "Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine Checkpoints",
-        "Author": "Dokyung Song",
+        "Author": ["Dokyung Song"],
         "Org": "University of California, Irvine",
         "Date": "2020",
         "Tag": ["Fuzz", "Kernel"],
@@ -3785,7 +3785,7 @@
     },
     "295": {
         "Title": "Analysis of DTLS Implementations Using Protocol State Fuzzing",
-        "Author": "Paul Fiterau-Brostean",
+        "Author": ["Paul Fiterau-Brostean"],
         "Org": "Uppsala University",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3798,7 +3798,7 @@
     },
     "296": {
         "Title": "Room for Escape: Scribbling Outside the Lines of Template Security",
-        "Author": "Alvaro Mu\u00f1oz;Oleksandr Mirosh",
+        "Author": ["Alvaro Mu\u00f1oz", "Oleksandr Mirosh"],
         "Org": "GitHub",
         "Date": "2020",
         "Tag": ["Web"],
@@ -3811,7 +3811,7 @@
     },
     "297": {
         "Title": "FANS: Fuzzing Android Native System Services via Automated Interface Analysis",
-        "Author": "Baozheng Liu,Chao Zhang",
+        "Author": ["Baozheng Liu,Chao Zhang"],
         "Org": "Tsinghua University",
         "Date": "2020",
         "Tag": ["Fuzz", "Android"],
@@ -3824,7 +3824,7 @@
     },
     "298": {
         "Title": "IJON: Exploring Deep State Spaces via Fuzzing",
-        "Author": "Cornelius Aschermann, Sergej Schumilo, Ali Abbasi, and Thorsten Holz",
+        "Author": ["Cornelius Aschermann, Sergej Schumilo, Ali Abbasi, and Thorsten Holz"],
         "Org": "Ruhr University Bochum",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3837,7 +3837,7 @@
     },
     "299": {
         "Title": "Steelix: Program-State Based Binary Fuzzing",
-        "Author": "Yuekang Li",
+        "Author": ["Yuekang Li"],
         "Org": "Nanyang Technological University",
         "Date": "2017",
         "Tag": ["Fuzz"],
@@ -3850,7 +3850,7 @@
     },
     "300": {
         "Title": "T-Fuzz: fuzzing by program transformation",
-        "Author": "Hui Peng",
+        "Author": ["Hui Peng"],
         "Org": "Purdue University",
         "Date": "2018",
         "Tag": ["Fuzz", "Black Box"],
@@ -3863,7 +3863,7 @@
     },
     "301": {
         "Title": "Full-speed Fuzzing: Reducing Fuzzing Overhead through Coverage-guided Tracing",
-        "Author": "Stefan Nagy",
+        "Author": ["Stefan Nagy"],
         "Org": "Virginia Tech",
         "Date": "2019",
         "Tag": ["Fuzz"],
@@ -3876,7 +3876,7 @@
     },
     "302": {
         "Title": "EnFuzz: Ensemble Fuzzing with Seed Synchronization among Diverse Fuzzers",
-        "Author": "Yuanliang Chen, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, Chijin Zhou",
+        "Author": ["Yuanliang Chen, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, Chijin Zhou"],
         "Org": "Tsinghua University",
         "Date": "2019",
         "Tag": ["Fuzz"],
@@ -3889,7 +3889,7 @@
     },
     "303": {
         "Title": "GRIMOIRE: Synthesizing Structure while Fuzzing",
-        "Author": "Tim Blazytko, Cornelius Aschermann, Moritz Schl\u00f6gel, Ali Abbasi, Sergej Schumilo, Simon W\u00f6rner",
+        "Author": ["Tim Blazytko, Cornelius Aschermann, Moritz Schl\u00f6gel, Ali Abbasi, Sergej Schumilo, Simon W\u00f6rner"],
         "Org": "Ruhr-Universit\u00e4t Bochum",
         "Date": "2019",
         "Tag": ["Fuzz"],
@@ -3902,7 +3902,7 @@
     },
     "304": {
         "Title": "Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing",
-        "Author": "Lei Zhao",
+        "Author": ["Lei Zhao"],
         "Org": "Wuhan University",
         "Date": "2019",
         "Tag": ["Fuzz"],
@@ -3915,7 +3915,7 @@
     },
     "305": {
         "Title": "PANGOLIN: Incremental Hybrid Fuzzing with Polyhedral Path Abstraction",
-        "Author": "Heqing Huang",
+        "Author": ["Heqing Huang"],
         "Org": "The Hong Kong University of Science and Technology, China",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3928,7 +3928,7 @@
     },
     "306": {
         "Title": "Symbolic execution with SymCC: Don't interpret, compile!",
-        "Author": "Sebastian Poeplau",
+        "Author": ["Sebastian Poeplau"],
         "Org": "EURECOM",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3941,7 +3941,7 @@
     },
     "307": {
         "Title": "Finding and preventing bugs in JavaScript bindings",
-        "Author": "Fraser Brown",
+        "Author": ["Fraser Brown"],
         "Org": "Stanford University",
         "Date": "2017",
         "Tag": ["Fuzz", "JavaScript"],
@@ -3954,7 +3954,7 @@
     },
     "308": {
         "Title": "Fast and Precise Hybrid Type Inference for JavaScript",
-        "Author": "Brian Hackett",
+        "Author": ["Brian Hackett"],
         "Org": "Mozilla",
         "Date": "2012",
         "Tag": ["Fuzz", "JavaScript"],
@@ -3964,5 +3964,57 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "309": {
+        "Title": "DNS Cache Poisoning Attack Reloaded: Revolutions with Side Channels",
+        "Author": ["Keyu Man,Zhiyun Qian"],
+        "Org": "University of California, Riverside",
+        "Date": "2020",
+        "Tag": ["DNS cache poisoning", "side channel"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "310": {
+        "Title": "Designing New Operating Primitives to Improve Fuzzing Performance",
+        "Author": ["Wen Xu"],
+        "Org": "Georgia Institute of Technology Virginia Tech",
+        "Date": "2017",
+        "Tag": ["Fuzz", "Speed"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "311": {
+        "Title": "Designing New Operating Primitives to Improve Fuzzing Performance",
+        "Author": ["Wen Xu"],
+        "Org": "Georgia Institute of Technology Virginia Tech",
+        "Date": "2017",
+        "Tag": ["Fuzz", "Speed"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "312": {
+        "Title": "Frankenstein: Advanced Wireless Fuzzing to Exploit New Bluetooth Escalation Targets",
+        "Author": ["Jan Ruge"],
+        "Org": "Secure Mobile Networking Lab, TU Darmstadt",
+        "Date": "2020",
+        "Tag": ["Fuzz", "Bluetooth", "Emulate", "Firmware"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": "https://github.com/seemoo-lab/frankenstein"
     }
 }

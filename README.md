@@ -1,8 +1,10 @@
 # Papers
 
 Recently read academic papers, articles on Web Security/Fuzzing, etc., and some reading notes written by myself or excerpted from other sources.
-## Index
 
+## Table of Contents
+
+- [Recommend Conferences](#recommend-conferences)
 - [ACM](#acm)
 - [ACSAC](#acsac)
 - [ASE](#ase)
@@ -44,6 +46,15 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 - [Usenix](#usenix)
 - [WOOT](#woot)
 - [Whitepaper](#whitepaper)
+
+# Recommend Conferences
+
+| Conference | Full Name | dblp Link |
+| ----- | ----- | ----- |
+| CCS | ACM Conference on Computer and Communications Security | https://dblp.uni-trier.de/db/conf/uss/ |
+| Usenix | USENIX Security Symposium | https://dblp.uni-trier.de/db/conf/ccs/ |
+| S&P | IEEE Symposium on Security and Privacy | https://dblp.uni-trier.de/db/conf/sp/ |
+| NDSS | ISOC Network and Distributed System Security Symposium | https://dblp.uni-trier.de/db/conf/ndss/ |
 
 ## ACM
 
@@ -189,6 +200,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Author | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| DNS Cache Poisoning Attack Reloaded: Revolutions with Side Channels | Keyu Man,Zhiyun Qian | University of California, Riverside | 2020 | DNS cache poisoning;side channel |
 | SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback | Rui Zhong, Yongheng Chen, Hong Hu, Hangfan Zhang, Wenke Lee, Dinghao Wu | Software Systems Security Team at Penn State University | 2020 | Fuzz;SQL |
 | 1 Trillion Dollar Refund – How To Spoof PDF Signatures | Vladislav Mladenov | Ruhr University Bochum | 2019 | PDF |
 | Charting the Attack Surface of Trigger-Action IoT Platforms | Qi Wang | University of Illinois at Urbana-Champaign | 2019 | IoT |
@@ -198,6 +210,8 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | Your Cache Has Fallen: Cache-Poisoned Denial-of-Service Attack | Hoai Viet Nguyen | Cologne University of Applied Sciences, Germany | 2019 | Web;Cache |
 | Hawkeye: towards a desired directed grey box fuzzer |  |  | 2018 | Fuzz |
 | Code-Reuse Attacks for the Web Breaking Cross-Site Scripting Mitigations via Script Gadgets |  |  | 2017 | Web XSS |
+| Designing New Operating Primitives to Improve Fuzzing Performance | Wen Xu | Georgia Institute of Technology Virginia Tech | 2017 | Fuzz;Speed |
+| Designing New Operating Primitives to Improve Fuzzing Performance | Wen Xu | Georgia Institute of Technology Virginia Tech | 2017 | Fuzz;Speed |
 | Directed Greybox Fuzzing |  |  | 2017 | Fuzz |
 | SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities | los Petsios | Columbia University | 2017 | Fuzz |
 | Coverage-based Greybox Fuzzing as Markov Chain | Marcel Böhme | School of Computing, National University of Singapore | 2016 | Fuzz |
@@ -494,6 +508,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as a Variant of the Adversarial Multi-Armed Bandit | Tai Yue | National University of Defense Technology | 2020 | Fuzz |
 | EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as aVariant of the Adversarial Multi-Armed Bandit | Tai Yue, Pengfei Wang, Yong Tan | National University of Defense Technology | 2020 | Fuzz;AI |
 | FANS: Fuzzing Android Native System Services via Automated Interface Analysis | Baozheng Liu,Chao Zhang | Tsinghua University | 2020 | Fuzz;Android |
+| Frankenstein: Advanced Wireless Fuzzing to Exploit New Bluetooth Escalation Targets | Jan Ruge | Secure Mobile Networking Lab, TU Darmstadt | 2020 | Fuzz;Bluetooth;Emulate;Firmware |
 | FuzzGen: Automatic Fuzzer Generation | Kyriakos Ispoglou | Daniel Austin | 2020 | Fuzz |
 | FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzing through Deep Learning | Peiyuan Zong | IIE | 2020 | Fuzz;Deep Learning |
 | FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzingthrough Deep Learning | Peiyuan Zong | UCAS | 2020 | Fuzz |

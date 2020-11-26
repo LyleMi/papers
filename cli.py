@@ -10,13 +10,13 @@ from jsbeautifier import beautify
 
 
 def loadJson():
-    with open('papers.json', 'r') as fp:
+    with open("papers.json", "r", encoding="utf-8") as fp:
         obj = json.load(fp)
     return obj
 
 
 def dumpJson(papers):
-    with open('papers.json', 'w') as fp:
+    with open("papers.json", "w", encoding="utf-8") as fp:
         fp.write(beautify(json.dumps(papers)))
 
 
@@ -53,20 +53,35 @@ def genReadme(papers):
     header = '''# Papers
 
 Recently read academic papers, articles on Web Security/Fuzzing, etc., and some reading notes written by myself or excerpted from other sources.
-## Index\n
+
+## Table of Contents
+
+- [Recommend Conferences](#recommend-conferences)
 '''
+
+    recommend = """
+# Recommend Conferences
+
+| Conference | Full Name | dblp Link |
+| ----- | ----- | ----- |
+| CCS | ACM Conference on Computer and Communications Security | https://dblp.uni-trier.de/db/conf/uss/ |
+| Usenix | USENIX Security Symposium | https://dblp.uni-trier.de/db/conf/ccs/ |
+| S&P | IEEE Symposium on Security and Privacy | https://dblp.uni-trier.de/db/conf/sp/ |
+| NDSS | ISOC Network and Distributed System Security Symposium | https://dblp.uni-trier.de/db/conf/ndss/ |
+"""
 
     with open("README.md", "w", encoding="utf-8", newline="\n") as fh:
         fh.write(header)
         for c in conferences:
             fh.write("- [%s](#%s)\n" % (c, str2anchor(c)))
+        fh.write(recommend)
         fh.write("\n")
         for c in conferences:
             s = ''
             s += '## ' + c + '\n\n'
             s += '| '
             s += ' | '.join([
-                'Title', 'Author', 'Organization', 'Year', 'Keywords'
+                'Title', 'Authors', 'Organization', 'Year', 'Keywords'
             ])
             s += ' |\n'
             s += '|' + ' --- |' * 5 + '\n'
@@ -76,7 +91,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
                 s += '| '
                 s += ' | '.join([
                     p['Title'],
-                    p['Author'],
+                    ';'.join(p['Author']),
                     p['Org'],
                     p['Date'],
                     ';'.join(p['Tag'])
@@ -110,6 +125,9 @@ set CONFERENCE=Usenix
     papers = loadJson()
 
     '''
+    for i in papers:
+        if isinstance(papers[i]['Author'], str):
+            papers[i]['Author'] = papers[i]['Author'].split(";")
     # when need add new tag
     for i in papers:
         # papers[i]['NewKeyword'] = '' # or []
@@ -133,7 +151,7 @@ set CONFERENCE=Usenix
     elif opts.add:
         nindex = len(papers) + 1
         title = input('Title?').strip()
-        author = input('Author (split with ",")?')
+        author = input('Author (split with ";")?')
         org = input('Organization?').strip()
         tag = input('Tag (split with ";")?')
         # date = '2019'
@@ -145,7 +163,7 @@ set CONFERENCE=Usenix
             conference = os.getenv('CONFERENCE')
         newpaper = {}
         newpaper['Title'] = title
-        newpaper['Author'] = author
+        newpaper['Author'] = author.split(';')
         newpaper['Org'] = org
         newpaper['Date'] = date
         newpaper['Tag'] = tag.split(';')
