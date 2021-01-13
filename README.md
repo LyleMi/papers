@@ -58,7 +58,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## ACM
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Using Logic Programming to Recover C++ Classes and Methods from Compiled Executables | Schwartz |  | 2018 | Decompile |
 | Automatic exploit generation |  |  |  | Fuzz |
@@ -69,19 +69,19 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## ACSAC
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Opening Pandora's Box through ATFuzzer: Dynamic Analysis of AT Interface for Android Smartphones | Imtiaz Karim | Purdue University | 2019 | Fuzz |
 
 ## ASE
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | FairFuzz: A Targeted Mutation Strategy for Increasing Greybox Fuzz Testing Coverage | Caroline Lemieux | University of California, Berkeley, USA | 2018 | Fuzz;AFL |
 
 ## Arxiv
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Building Fast Fuzzers | Rahul Gopinath and Andreas Zeller | CISPA | 2019 | Fuzz |
 | Improving Grey-Box Fuzzing by Modeling Program Behavior |  |  | 2019 | Fuzz |
@@ -99,7 +99,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## AsiaCCS
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | A Feature-Oriented Corpus for Understanding, Evaluating and Improving Fuzz Testing | Xiaogang Zhu | Swinburne University of Technology | 2019 | Fuzzing |
 | PTrix Efficient Hardware-Assisted Fuzzing for COTS Binary | Yaohui Chen | Northeastern University | 2019 | Fuzz |
@@ -108,7 +108,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## Black Hat
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | 0-days & Mitigations: Roadways to Exploit and Secure Connected BMW Cars | Zhiqiang Cai | KeenLab | 2019 | Car |
 | API-Induced SSRF: How Apple Pay Scattered Vulnerabilities Across the Web | Joshua Maddux | PKC Security | 2019 | Web;SSRF;API |
@@ -139,7 +139,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## Black Hat EU
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | BlueMaster: Bypassing and Fixing Bluetooth-based Proximity Authentication | Youngman Jung | Samsung Electronics | 2019 | Bluetooth |
 | Booting the iOS Kernel to an Interactive Bash Shell on QEMU | Jonathan Afek | HCL/AppScan | 2019 | iOS |
@@ -157,7 +157,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## Black Hat USA
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | About Directed Fuzzing and Use-After-Free: How to Find Complex & Silent Bugs? | Sébastien Bardin   |  | 2020 | Fuzz |
 | Decade of the RATs – Custom Chinese Linux Rootkits for Everyone | Kevin Livelli | Director of Threat Intelligence, BlackBerry | 2020 | Malware |
@@ -184,13 +184,13 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## Black Hat WorkShop
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Embedded Devices Security and Firmware Reverse Engineering | Jonas Zaddach |  | 2013 | Embedded Devices;Firmware;Reverse Engineering |
 
 ## Blog
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | IDN Visual Security Deep Thinking |  |  | 2019 | IDN |
 | Pass-the-Hash in Windows 10 39170 | Lukasz Cyra |  | 2019 | Windows;NTLM |
@@ -198,10 +198,17 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## CCS
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| Bypassing Tor Exit Blocking with Exit Bridge Onion Services | Zhao Zhang | Georgetown University | 2020 | Tor |
+| CLAPS: Client-Location-Aware Path Selection in Tor | Florentin Rochet | UCLouvain | 2020 | Tor |
 | DNS Cache Poisoning Attack Reloaded: Revolutions with Side Channels | Keyu Man,Zhiyun Qian | University of California, Riverside | 2020 | DNS cache poisoning;side channel |
+| DNS Cache Poisoning Attack Reloaded: Revolutions with Side Channels | Keyu Man | University of California, Riverside | 2020 | DNS |
+| PMForce: Systematically Analyzing postMessage Handlers at Scale | Marius Steffens | CISPA | 2020 | Web |
 | SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback | Rui Zhong, Yongheng Chen, Hong Hu, Hangfan Zhang, Wenke Lee, Dinghao Wu | Software Systems Security Team at Penn State University | 2020 | Fuzz;SQL |
+| The Cookie Hunter: Automated Black-box Auditing for WebAuthentication and Authorization Flaws | Kostas Drakonakis | FORTH ICS, Greece | 2020 | Web;Auth |
+| TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting | Wladimir De la Cadena | University of Luxembourg | 2020 | Web;Fingerprinting |
+| Zombie Awakening: Stealthy Hijacking of Active Domains through DNS Hosting Referral | Eihal Alowaisheq | Indiana University | 2020 | DNS |
 | 1 Trillion Dollar Refund – How To Spoof PDF Signatures | Vladislav Mladenov | Ruhr University Bochum | 2019 | PDF |
 | Charting the Attack Surface of Trigger-Action IoT Platforms | Qi Wang | University of Illinois at Urbana-Champaign | 2019 | IoT |
 | LibreCAN: Automated CAN Message Translator | Mert D. Pesé | University of Michigan | 2019 | CAN |
@@ -233,7 +240,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## DEFCON
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Firmware slap: automating discovery of exploitable vulnerabilities in firmware | Christopher roberts |  | 2019 | Firmware |
 | Analysis of Mutation and Generation Based Fuzzing |  |  |  | Fuzz |
@@ -241,32 +248,32 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## DSN
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Your IoTs Are (Not) Mine: On the Remote BindingBetween IoT Devices and Users | Jiongyi Chen | The Chinese University of Hong Kong | 2019 | IoT |
 
 ## ESEC/FSE
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Boosting Fuzzer Efficiency:An Information Theoretic Perspective | Marcel Böhme | Monash University | 2020 | Fuzz |
 
 ## FSE
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Steelix: Program-State Based Binary Fuzzing | Yuekang Li | Nanyang Technological University | 2017 | Fuzz |
 | KATCH High-Coverage Testing of Software Patches | Paul Dan Marinescu |  | 2013 | Fuzz;Patch |
 
 ## H2HC
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Embedded Research & Automation | Brian Butterly |  | 2019 | Embedded;Fuzz |
 
 ## HITB
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Building Next-Gen Security Analysis Tools With Qiling Framework | KaiJern LAU | qiling.io | 2020 | Emulation |
 | Static Code Analysis Recognition Evasion | Andreas Wiegenstein | AP Cyber Security | 2019 | Code Analysis |
@@ -276,7 +283,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## ICSE
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | MemLock: Memory Usage Guided Fuzzing | Cheng Wen | Shenzhen University;Ant Financial | 2020 | Fuzz;AFL |
 | Typestate-Guided Fuzzer for Discovering Use-after-Free Vulnerabilities | Haijun Wang | Ant Financial Services Group | 2020 | Fuzz;UAF |
@@ -287,13 +294,13 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## ICST
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | AFLNET: A Greybox Fuzzer for Network Protocols | Van-Thuan Pham | Monash University | 2020 | Fuzz; Network |
 
 ## IEEE
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | End User and Administrator Mental Models of HTTPS |  |  | 2019 | Web |
 | Full-speed Fuzzing Reducing Fuzzing Overhead through Coverage-guided Tracing |  |  | 2019 | Fuzz |
@@ -312,7 +319,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## IEEE S&P
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Dragonblood: Analyzing the Dragonfly Handshake of WPA3 and EAP-pwd | Mathy Vanhoef | New York University Abu Dhabi | 2020 | Wifi |
 | IJON: Exploring Deep State Spaces via Fuzzing | Cornelius Aschermann, Sergej Schumilo, Ali Abbasi, and Thorsten Holz | Ruhr University Bochum | 2020 | Fuzz |
@@ -331,32 +338,32 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## IEEE-ACM
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Learn&Fuzz: Machine Learning for Input Fuzzing | Godefroid |  | 2017 | Fuzz |
 
 ## IJCAI
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Locate Then Detect：Web Attack Detection via Attention-based Deep Neural Networks | Tianlong Liu,Jianan Yan | Ali | 2019 | Web;Machine Learning;WAF |
 
 ## ISSTA
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | WEIZZ: Automatic Grey-Box Fuzzingfor Structured Binary Formats | Andrea Fioraldi | Sapienza University of RomeItaly | 2020 | Fuzz;Structured |
 | PerfFuzz: Automatically Generating Pathological Inputs | Caroline Lemieux | University of California, Berkeley, USA | 2018 | Fuzz |
 
 ## MS
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | neural fuzzing mcr |  |  |  | Fuzz |
 
 ## Misc
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto | Bitcoin.Org | 2008 | Bitcoin |
 | Tor: The Second-Generation Onion Router | Dingledine | Naval Research Lab Washington DC | 2004 | Tor |
@@ -372,7 +379,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## NDSS
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Cross-Origin State Inference (COSI) Attacks: Leaking Web Site States through XS-Leaks | Avinash Sudhodanan | IMDEA Software Institute | 2020 | Web;Frontend |
 | Deceptive Previews: A Study of the Link Preview Trustworthiness in Social Platforms | Giada Stivala | CISPA | 2020 | Web;Social |
@@ -414,14 +421,14 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## OOPSLA
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Compiler Fuzzing: How Much Does It Matter? | MICHAËL MARCOZZI | Imperial College London, United Kingdom | 2019 | Fuzz |
 | FuzzFactory: Domain-Specific Fuzzing with Waypoints | Rohan Padhye | University of California at Berkeley, USA | 2019 | Fuzz |
 
 ## Offensive
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Attacking Edge Through the JavaScript Compiler |  |  | 2019 | Exploit |
 | Chrome IPC Exploitation |  |  | 2019 | Exploit |
@@ -431,14 +438,14 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## PLDI
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Parser-Directed Fuzzing | Mathis | cispa | 2019 | Fuzz |
 | Coverage-Directed Differential Testing of JVM Implementations | Yuting Chen | SJTU | 2016 | Fuzz;JVM;Differential |
 
 ## PPT
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Attacking Modern Web Technologies |  |  | 2018 | HTML5 Security |
 | php internals exploit dev |  |  | 2018 | PHP Fuzz |
@@ -452,25 +459,25 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## QPSS
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | PowerFL: Fuzzing VxWorks embedded system | Peter Goodman |  | 2019 | Embedded;Fuzz;IoT |
 
 ## RAID
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | CRYPTOREX: Large-scale Analysis of Cryptographic Misuse in IOT Devices | Li Zhang | Jinan University | 2019 | Crypto;IoT |
 
 ## SIGMOD
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications | Todd Warszawski | Stanford InfoLab | 2017 | Web |
 
 ## SIGPLAN
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Parser-Directed Fuzzing |  |  | 2019 | Fuzz |
 | Synthesizing program input grammars | Osbert Bastani |  | 2017 | Fuzz |
@@ -478,26 +485,26 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## Secwest
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Chakra vulnerability and exploit bypass all system mitigation |  |  |  |  |
 | Shellcodes are for the 99% |  |  |  | Fuzz |
 
 ## TSE
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Smart Greybox Fuzzing | Van-Thuan Pham |  | 2019 | Fuzz |
 
 ## USENIX ATC
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Soteria: Automated IoT Safety and Security Analysis | Z.Berkay Celik | The Pennsylvania State University | 2018 | IoT |
 
 ## Usenix
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email | Hyeonmin Lee | Seoul National University | 2020 | Email;DNS |
 | AURORA: Statistical Crash Analysis for Automated Root Cause Explanation | Tim Blazytko | Ruhr-Universität Bochum | 2020 | Automated |
@@ -562,13 +569,13 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 ## WOOT
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Unicorefuzz: On the Viability of Emulation for Kernelspace Fuzzing | Dominik Maier, Benedikt Radtke, and Bastian Harren, TU Berlin | TU Berlin | 2019 | Unicorn;FUzz |
 
 ## Whitepaper
 
-| Title | Author | Organization | Year | Keywords |
+| Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Android Enterprise Security White Paper | Google | Google | 2019 | Android |
 | Hardwear 2018 BLE Security Essentials |  | Smartlockpicking.com | 2018 | BLE |

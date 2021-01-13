@@ -3261,7 +3261,7 @@
         "Comment": "",
         "Reading Notes": [],
         "Slides": "",
-        "Code": ""
+        "Code": "https://github.com/RiS3-Lab/p2im"
     },
     "255": {
         "Title": "Typestate-Guided Fuzzer for Discovering Use-after-Free Vulnerabilities",
@@ -4016,5 +4016,96 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": "https://github.com/seemoo-lab/frankenstein"
+    },
+    "313": {
+        "Title": "Bypassing Tor Exit Blocking with Exit Bridge Onion Services",
+        "Author": ["Zhao Zhang"],
+        "Org": "Georgetown University",
+        "Date": "2020",
+        "Tag": ["Tor"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "314": {
+        "Title": "CLAPS: Client-Location-Aware Path Selection in Tor",
+        "Author": ["Florentin Rochet"],
+        "Org": "UCLouvain",
+        "Date": "2020",
+        "Tag": ["Tor"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "315": {
+        "Title": "PMForce: Systematically Analyzing postMessage Handlers at Scale",
+        "Author": ["Marius Steffens"],
+        "Org": "CISPA",
+        "Date": "2020",
+        "Tag": ["Web"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "316": {
+        "Title": "Zombie Awakening: Stealthy Hijacking of Active Domains through DNS Hosting Referral",
+        "Author": ["Eihal Alowaisheq"],
+        "Org": "Indiana University",
+        "Date": "2020",
+        "Tag": ["DNS"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "317": {
+        "Title": "DNS Cache Poisoning Attack Reloaded: Revolutions with Side Channels",
+        "Author": ["Keyu Man"],
+        "Org": "University of California, Riverside",
+        "Date": "2020",
+        "Tag": ["DNS"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "318": {
+        "Title": "The Cookie Hunter: Automated Black-box Auditing for WebAuthentication and Authorization Flaws",
+        "Author": ["Kostas Drakonakis"],
+        "Org": "FORTH ICS, Greece",
+        "Date": "2020",
+        "Tag": ["Web", "Auth"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "319": {
+        "Title": "TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting",
+        "Author": ["Wladimir De la Cadena"],
+        "Org": "University of Luxembourg",
+        "Date": "2020",
+        "Tag": ["Web", "Fingerprinting"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

@@ -28,15 +28,14 @@ the first automated dynamic analysis system that specifically targets Linuxbased
 
 不适用于内核模块，缺乏对位于文件系统上的的一些内核模块的支持，该内核模块不在预准备的内核文件中，所以内核版本的差异可能导致系统不稳定，不过绝大部分的那些缺少的内核模块对于系统都是无用的，因为我们构建的内核提供了功能等价的模块
 
-
-
 # IV. IMPLEMENTATION
 
 ## A. Acquisition
 ## B. Extraction
+
 ## C. Emulation
 
-#### NVRAM
+#### 1) NVRAM
 
 nvram：52.6%占比
 
@@ -49,34 +48,72 @@ nvram：52.6%占比
 
 nvram配置不适用于所有固件：一些固件会调用没有仿真的nvram相关函数等
 
-#### Kernel
-
-2、内核：90.8%占比  armel  mipsel  mipseb
+#### 2) Kernel
 
 不使用原来的内核
 用自己的定制内核
 
+
+可以满足固件数据库中90.8%的内容（armel mipsel mipseb）
+
 使用 kernel dynamic probes （kprobes）hook 20个系统调用  
-截断改变执行环境的调用，包括设置mac地址，创建网桥，重启系统，执行程序
+截断改变执行环境的调用，包括
+
+- 设置mac地址
+- 创建网桥
+- 重启系统
+- 执行程序
 
 一些固件会需要特定的文件系统 在 boot 时 mount 
 例如 /dev /proc
 
-使用 rdinit 内核参数 在init执行之前运行自定义脚本来初始化这些文件系统
+文章使用定制的 rdinit 内核参数 在init执行之前运行自定义脚本来初始化这些文件系统
 另外，加载 nandsim 内核模块，用于仿真mtd分区，通过/dev/mtdX访问
 禁止用户重启，通过运行init来模拟此行为
 
 针对mips架构，给大端和小端都编译了内核2.6.32.68
 针对arm架构，只支持小端系统，目标瞄准arm versatile express development platform，使用的是Cortex-A9(ARMv7-A)处理器，该平台只支持最多一个仿真的以太网硬件，由于pci总线的缺失
 
+> 这里要考虑qemu对不同架构的系统硬件也要写的
+
 增加架构支持是非自动化的
 PCI / VirtIO 都要写相应架构的
 
-3）内核配置
+#### 3) 内核配置
 
+路由设备多数使用DHCP配置网络 而且有多张网卡
+
+默认挂载QEMU自带的多张网卡 然后监听系统调用
+查看配置到不同网卡的配置
 通过启动 学习正确的网卡配置
+
+创建一个网络TAP来代表LAN口
+最后通过nmap icmp检查连通性
 
 内核模块：58.8%的模块配置网络相关的功能，12.7%用于提供不同外设的支持（驱动）（无线，平台芯片，其他硬件），许多剩下的内核模块似乎包括在编译的内核中，被编译为可加载的，包括usb接口配置，文件系统加载，加密功能
 
 不能仿真的情况：缺少init程序（缺少，或者名称不对），解压失败，只能解压类似于unix的文件系统
 arm只能支持一个网卡，可能导致一些固件不能正确infer networking
+
+# V. EVALUATION
+
+有时候并不能建立起固件和产品的一对一映射。
+例如Mikrotik用一个固件给所有架构的产品。
+OpenWRT用一个固件给大量不同的硬件产品。
+QNAP和Synology在主版本上做轻量级修改后给不同产品。
+
+## A. Statistics
+
+*1) Architectures*
+
+基于busybox获取arch
+在实验中几乎79.4%都是32位mips程序。
+
+*5) Emulation Progress*
+
+8617个提取出来的程序中，96.6%（8591）启动成功
+不成功的例子因为找不到init
+
+在8,591个仿真成功的程序中，只有 32.3% (2797) 的程序进入了网络配置阶段
+
+只有 70.8% (1,971) of the 2,797 的程序可以通过网络访问
