@@ -77,6 +77,8 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| BigFuzz: Efficient Fuzz Testing for Data Analytics using Framework Abstraction | Qian Zhang | University of California, Los Angeles | 2020 | Fuzz |
+| Learning-Guided Network Fuzzing for Testing Cyber-Physical System Defences | Yuqi Chen | Singapore University of Technology and Design, Singapore | 2019 | Fuzz |
 | FairFuzz: A Targeted Mutation Strategy for Increasing Greybox Fuzz Testing Coverage | Caroline Lemieux | University of California, Berkeley, USA | 2018 | Fuzz;AFL |
 
 ## Arxiv
@@ -262,6 +264,10 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| CrFuzz: Fuzzing Multi-purpose Programs through Input Validation | Suhwan Song | Seoul National University | 2020 | Fuzz |
+| Detecting Critical Bugs in SMT Solvers using Blackbox Mutational Fuzzing | Muhammad Numair Mansur | MPI-SWS, Germany | 2020 | Fuzz |
+| Fuzzing: On the Exponential Cost of Vulnerability Discovery | Marcel Böhme | Monash University, Australia | 2020 | Fuzz |
+| MTFuzz: Fuzzing with a Multi-task Neural Network | Dongdong She | Columbia University | 2020 | Fuzz |
 | Steelix: Program-State Based Binary Fuzzing | Yuekang Li | Nanyang Technological University | 2017 | Fuzz |
 | KATCH High-Coverage Testing of Software Patches | Paul Dan Marinescu |  | 2013 | Fuzz;Patch |
 
@@ -297,6 +303,8 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | AFLNET: A Greybox Fuzzer for Network Protocols | Van-Thuan Pham | Monash University | 2020 | Fuzz; Network |
+| SeqFuzzer An Industrial Protocol Fuzzing Framework in Deep Learning Perspective | Hui Zhao | National Trusted Embedded Software Engineering Technology Research Center | 2019 | Fuzz |
+| SeqFuzzer: An Industrial Protocol Fuzzing Framework in Deep Learning Perspective | Nicolas Coppik | DEEDS Group, TU Darmstadt | 2019 | Fuzz |
 
 ## IEEE
 
@@ -352,7 +360,14 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| Active Fuzzing for Testing and Securing Cyber-Physical Systems | Yuqi Chen | Singapore Management University | 2020 | Fuzz |
+| Learning Input Tokens for Effective Fuzzing | Björn Mathis | CISPA Helmholtz Center for Information Security | 2020 | Fuzz |
 | WEIZZ: Automatic Grey-Box Fuzzingfor Structured Binary Formats | Andrea Fioraldi | Sapienza University of RomeItaly | 2020 | Fuzz;Structured |
+| DeepHunter: A Coverage-Guided Fuzz Testing Framework for Deep Neural Networks | Xiaofei Xie | Nanyang Technological University | 2019 | Fuzz |
+| Deferred Concretization in Symbolic Execution via Fuzzing | Awanish Pandey | Computer Sc. and Engg. | 2019 | Fuzz |
+| Semantic Fuzzing with Zest | Rohan Padhye | University of California, Berkeley | 2019 | Fuzz |
+| Badger: Complexity Analysis with Fuzzing and Symbolic Execution | Yannic Noller | Humboldt University of Berlin | 2018 | Fuzz |
+| Compiler Fuzzing through Deep Learning | Chris Cummins | Pavlos Petoumenos | 2018 | Fuzz |
 | PerfFuzz: Automatically Generating Pathological Inputs | Caroline Lemieux | University of California, Berkeley, USA | 2018 | Fuzz |
 
 ## MS
