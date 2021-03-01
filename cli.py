@@ -70,6 +70,11 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | NDSS | ISOC Network and Distributed System Security Symposium | https://dblp.uni-trier.de/db/conf/ndss/ |
 """
 
+    footer = """## Disclaimer
+
+To make the paper more accessible, please place the PDF version of the paper in the repo. All pdfs are collected from the Internet. If this article violates your copyright, please contact me to delete it.
+"""
+
     with open("README.md", "w", encoding="utf-8", newline="\n") as fh:
         fh.write(header)
         for c in conferences:
@@ -99,6 +104,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
                 s += ' |\n'
             s += '\n'
             fh.write(s)
+        fh.write(footer)
 
 
 def main():

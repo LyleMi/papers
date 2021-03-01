@@ -4302,5 +4302,44 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "335": {
+        "Title": "The BORG: Nanoprobing Binaries for Buffer Overreads",
+        "Author": ["Matthias Neugschwandtner"],
+        "Org": "Vienna University of Technology",
+        "Date": "2015",
+        "Tag": ["Fuzz", "Taint"],
+        "Conference": "IEEE S&P",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "336": {
+        "Title": "Make It Work, Make It Right, Make It Fast: Building a Platform-Neutral Whole-System Dynamic Binary Analysis Platform",
+        "Author": ["Andrew Henderson"],
+        "Org": "Department of EECS",
+        "Date": "2014",
+        "Tag": ["binary analysis", "taint analysis", "virtual machine introspection"],
+        "Conference": "ISSTA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "337": {
+        "Title": "Tappan Zee (North) Bridge: Mining Memory Accesses for Introspection",
+        "Author": ["Brendan Dolan-Gavitt"],
+        "Org": "Georgia Tech",
+        "Date": "2013",
+        "Tag": ["Introspection", "reverse engineering"],
+        "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

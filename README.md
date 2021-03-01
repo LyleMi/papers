@@ -225,6 +225,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities | los Petsios | Columbia University | 2017 | Fuzz |
 | Coverage-based Greybox Fuzzing as Markov Chain | Marcel Böhme | School of Computing, National University of Singapore | 2016 | Fuzz |
 | 25 Million flows later - Large-scale detection of DOM-based XSS |  |  | 2013 |  |
+| Tappan Zee (North) Bridge: Mining Memory Accesses for Introspection | Brendan Dolan-Gavitt | Georgia Tech | 2013 | Introspection;reverse engineering |
 | Block Oriented Programming Automating Data-Only Attacks |  |  |  | Exploit |
 | Deterministic Browser |  |  |  | Browser |
 | HyCC: Compilation of Hybrid Protocols for Practical Secure Computation |  |  |  | Fuzz |
@@ -342,6 +343,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | NEZHA: Efficient Domain-Independent Differential Testing |  |  | 2017 | Fuzz;Differential |
 | (State of) The Art of War: Offensive Techniques in Binary Analysis | Yan Shoshitaishvili | UCSB | 2016 | Angr;Binary Analysis |
 | The Limitations of Deep Learning in Adversarial Settings | Nicolas Papernot |  | 2016 | GAN;Machine Learning |
+| The BORG: Nanoprobing Binaries for Buffer Overreads | Matthias Neugschwandtner | Vienna University of Technology | 2015 | Fuzz;Taint |
 | Skyfire Data Driven Seed Generation for Fuzzing |  |  |  | Fuzz |
 
 ## IEEE-ACM
@@ -369,6 +371,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | Badger: Complexity Analysis with Fuzzing and Symbolic Execution | Yannic Noller | Humboldt University of Berlin | 2018 | Fuzz |
 | Compiler Fuzzing through Deep Learning | Chris Cummins | Pavlos Petoumenos | 2018 | Fuzz |
 | PerfFuzz: Automatically Generating Pathological Inputs | Caroline Lemieux | University of California, Berkeley, USA | 2018 | Fuzz |
+| Make It Work, Make It Right, Make It Fast: Building a Platform-Neutral Whole-System Dynamic Binary Analysis Platform | Andrew Henderson | Department of EECS | 2014 | binary analysis;taint analysis;virtual machine introspection |
 
 ## MS
 
@@ -595,3 +598,6 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | Android Enterprise Security White Paper | Google | Google | 2019 | Android |
 | Hardwear 2018 BLE Security Essentials |  | Smartlockpicking.com | 2018 | BLE |
 
+## Disclaimer
+
+To make the paper more accessible, please place the PDF version of the paper in the repo. All pdfs are collected from the Internet. If this article violates your copyright, please contact me to delete it.
