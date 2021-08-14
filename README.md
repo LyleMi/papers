@@ -112,6 +112,15 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| A New Class of DNS Vulnerabilities Affecting Many DNS-as-Service Platforms | Shir Tamari | Wiz.io | 2021 | DNS;Cloud |
+| ALPACA: Application Layer Protocol Confusion - Analyzing and Mitigating Cracks in TLS Authentication | Marcus Brinkmann | Ruhr University Bochum | 2021 | TLS |
+| Another Road Leads to the Host: From a Message to VM Escape on Nvidia vGPU | Wenxiang Qian | Tencent Blade Team | 2021 | VM Escape |
+| Breaking the Isolation: Cross-Account AWS Vulnerabilities | Shir Tamari | Wiz.io | 2021 | AWS;Cloud |
+| Bypassing Windows Hello for Business and Pleasure | Omer Tsarfati | CyberArk | 2021 | Windows;Auth |
+| Do You Speak My Language? Make Static Analysis Engines Understand Each Other | Ibrahim Elsayed | Facebook | 2021 | Static Analysis |
+| Let's Attack Let's Encrypt | Haya Shulman |  | 2021 | Crypto;CA |
+| Mobius Band: Explore Hyper-V Attack Interface through Vulnerabilities Internals | Zhenhao Hong | Ant Group Light-Year Security Lab | 2021 | Hyper-V;Exploit |
+| hAFL1: Our Journey of Fuzzing Hyper-V and Discovering a 0-Day | Peleg Hadar | SafeBreach Labs | 2021 | Fuzz;Virtual |
 | 0-days & Mitigations: Roadways to Exploit and Secure Connected BMW Cars | Zhiqiang Cai | KeenLab | 2019 | Car |
 | API-Induced SSRF: How Apple Pay Scattered Vulnerabilities Across the Web | Joshua Maddux | PKC Security | 2019 | Web;SSRF;API |
 | All the 4G Modules Could be Hacked | Shupeng Gao | Baidu Security Lab | 2019 | 4G;IoT |
