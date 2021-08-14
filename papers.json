@@ -338,7 +338,7 @@
         "Comment": ""
     },
     "27": {
-        "Title": "Edge Type Confusion \u5229\u7528",
+        "Title": "Edge Type Confusion 利用",
         "Author": [""],
         "Date": "",
         "Tag": [""],
@@ -796,7 +796,7 @@
         "Title": "Resident Evil Understanding Residential IP Proxy as a Dark Service",
         "Author": [""],
         "Date": "2019",
-        "Tag": ["\u751f\u6001"],
+        "Tag": ["生态"],
         "Conference": "IEEE",
         "Org": "",
         "Reading Notes": [],
@@ -975,7 +975,7 @@
         "Comment": ""
     },
     "76": {
-        "Title": "Don\u2019t Trust The Locals: Investigating the Prevalence of Persistent Client-Side Cross-Site Scripting in the Wild",
+        "Title": "Don’t Trust The Locals: Investigating the Prevalence of Persistent Client-Side Cross-Site Scripting in the Wild",
         "Author": [""],
         "Date": "2019",
         "Tag": ["XSS"],
@@ -1080,7 +1080,7 @@
     },
     "84": {
         "Title": "Fuzzil: Guided Fuzzing for JavaScript Engines",
-        "Author": ["Samuel Gro\u00df"],
+        "Author": ["Samuel Groß"],
         "Date": "2019",
         "Tag": ["Fuzz"],
         "Conference": "Offensive",
@@ -1456,7 +1456,7 @@
         "Comment": ""
     },
     "113": {
-        "Title": "Reverse Engineering Ethereum\u2019s Opaque Smart Contracts",
+        "Title": "Reverse Engineering Ethereum’s Opaque Smart Contracts",
         "Author": [""],
         "Date": "",
         "Tag": [""],
@@ -1964,7 +1964,7 @@
         "Code": ""
     },
     "155": {
-        "Title": "Locate Then Detect\uff1aWeb Attack Detection via Attention-based Deep Neural Networks",
+        "Title": "Locate Then Detect：Web Attack Detection via Attention-based Deep Neural Networks",
         "Author": ["Tianlong Liu,Jianan Yan"],
         "Org": "Ali",
         "Date": "2019",
@@ -2109,7 +2109,7 @@
     "166": {
         "Title": "REDQUEEN: Fuzzing with Input-to-State Correspondence",
         "Author": ["Cornelius Aschermann, Sergej Schumilo, Tim Blazytko, Robert Gawlik, Thorsten Holz"],
-        "Org": "Ruhr-Universit\u00e4t Bochum",
+        "Org": "Ruhr-Universität Bochum",
         "Date": "2019",
         "Tag": ["Fuzzing"],
         "Conference": "NDSS",
@@ -2251,7 +2251,7 @@
     },
     "177": {
         "Title": "Profit: Detecting and Quantifying Side Channels in Networked Applications",
-        "Author": ["Nicol\u00e1s Rosner"],
+        "Author": ["Nicolás Rosner"],
         "Org": "University of California, Santa Barbara",
         "Date": "2019",
         "Tag": ["Side Channel"],
@@ -2304,7 +2304,7 @@
     "181": {
         "Title": "DIAT: Data Integrity Attestation for Resilient Collaboration of Autonomous Systems",
         "Author": ["Tigist Abera"],
-        "Org": "Technische Universit\u00e4t Darmstadt",
+        "Org": "Technische Universität Darmstadt",
         "Date": "2019",
         "Tag": ["IoT"],
         "Conference": "NDSS",
@@ -2381,7 +2381,7 @@
     },
     "187": {
         "Title": "Coverage-based Greybox Fuzzing as Markov Chain",
-        "Author": ["Marcel B\u00f6hme"],
+        "Author": ["Marcel Böhme"],
         "Org": "School of Computing, National University of Singapore",
         "Date": "2016",
         "Tag": ["Fuzz"],
@@ -2511,7 +2511,7 @@
     },
     "197": {
         "Title": "Compiler Fuzzing: How Much Does It Matter?",
-        "Author": ["MICHA\u00cbL MARCOZZI"],
+        "Author": ["MICHAËL MARCOZZI"],
         "Org": "Imperial College London, United Kingdom",
         "Date": "2019",
         "Tag": ["Fuzz"],
@@ -2536,7 +2536,7 @@
         "Code": ""
     },
     "199": {
-        "Title": "1 Trillion Dollar Refund \u2013 How To Spoof PDF Signatures",
+        "Title": "1 Trillion Dollar Refund – How To Spoof PDF Signatures",
         "Author": ["Vladislav Mladenov"],
         "Org": "Ruhr University Bochum",
         "Date": "2019",
@@ -2563,7 +2563,7 @@
     },
     "201": {
         "Title": "LibreCAN: Automated CAN Message Translator",
-        "Author": ["Mert D. Pes\u00e9"],
+        "Author": ["Mert D. Pesé"],
         "Org": "University of Michigan",
         "Date": "2019",
         "Tag": ["CAN"],
@@ -3161,7 +3161,7 @@
     },
     "247": {
         "Title": "Boosting Fuzzer Efficiency:An Information Theoretic Perspective",
-        "Author": ["Marcel B\u00f6hme"],
+        "Author": ["Marcel Böhme"],
         "Org": "Monash University",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3329,7 +3329,7 @@
         "Code": ""
     },
     "260": {
-        "Title": "HTTP Request Smuggling in 2020 \u2013 New Variants, New Defenses and New Challenges",
+        "Title": "HTTP Request Smuggling in 2020 – New Variants, New Defenses and New Challenges",
         "Author": ["Amit Klein"],
         "Org": "VP Security Research, SafeBreach",
         "Date": "2020",
@@ -3342,7 +3342,7 @@
         "Code": ""
     },
     "261": {
-        "Title": "Decade of the RATs \u2013 Custom Chinese Linux Rootkits for Everyone",
+        "Title": "Decade of the RATs – Custom Chinese Linux Rootkits for Everyone",
         "Author": ["Kevin Livelli"],
         "Org": "Director of Threat Intelligence, BlackBerry",
         "Date": "2020",
@@ -3473,7 +3473,7 @@
     },
     "271": {
         "Title": "About Directed Fuzzing and Use-After-Free: How to Find Complex & Silent Bugs?",
-        "Author": ["S\u00e9bastien Bardin  "],
+        "Author": ["Sébastien Bardin  "],
         "Org": "",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3565,7 +3565,7 @@
     "278": {
         "Title": "AURORA: Statistical Crash Analysis for Automated Root Cause Explanation",
         "Author": ["Tim Blazytko"],
-        "Org": "Ruhr-Universit\u00e4t Bochum",
+        "Org": "Ruhr-Universität Bochum",
         "Date": "2020",
         "Tag": ["Automated"],
         "Conference": "Usenix",
@@ -3720,7 +3720,7 @@
     },
     "290": {
         "Title": "ParmeSan: Sanitizer-guided Greybox Fuzzing",
-        "Author": ["Sebastian \u00d6sterlund"],
+        "Author": ["Sebastian Österlund"],
         "Org": "Vrije Universiteit Amsterdam",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -3798,7 +3798,7 @@
     },
     "296": {
         "Title": "Room for Escape: Scribbling Outside the Lines of Template Security",
-        "Author": ["Alvaro Mu\u00f1oz", "Oleksandr Mirosh"],
+        "Author": ["Alvaro Muñoz", "Oleksandr Mirosh"],
         "Org": "GitHub",
         "Date": "2020",
         "Tag": ["Web"],
@@ -3889,8 +3889,8 @@
     },
     "303": {
         "Title": "GRIMOIRE: Synthesizing Structure while Fuzzing",
-        "Author": ["Tim Blazytko, Cornelius Aschermann, Moritz Schl\u00f6gel, Ali Abbasi, Sergej Schumilo, Simon W\u00f6rner"],
-        "Org": "Ruhr-Universit\u00e4t Bochum",
+        "Author": ["Tim Blazytko, Cornelius Aschermann, Moritz Schlögel, Ali Abbasi, Sergej Schumilo, Simon Wörner"],
+        "Org": "Ruhr-Universität Bochum",
         "Date": "2019",
         "Tag": ["Fuzz"],
         "Conference": "Usenix",
@@ -4136,7 +4136,7 @@
     },
     "322": {
         "Title": "Learning Input Tokens for Effective Fuzzing",
-        "Author": ["Bj\u00f6rn Mathis"],
+        "Author": ["Björn Mathis"],
         "Org": "CISPA Helmholtz Center for Information Security",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -4149,7 +4149,7 @@
     },
     "323": {
         "Title": "Fuzzing: On the Exponential Cost of Vulnerability Discovery",
-        "Author": ["Marcel B\u00f6hme"],
+        "Author": ["Marcel Böhme"],
         "Org": "Monash University, Australia",
         "Date": "2020",
         "Tag": ["Fuzz"],
@@ -4336,6 +4336,19 @@
         "Date": "2013",
         "Tag": ["Introspection", "reverse engineering"],
         "Conference": "CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "338": {
+        "Title": "ZMap: Fast Internet-wide Scanning and Its Security Applications",
+        "Author": ["Zakir Durumeric"],
+        "Org": "University of Michigan",
+        "Date": "2013",
+        "Tag": ["scanner"],
+        "Conference": "Usenix",
         "Abstract": "",
         "Comment": "",
         "Reading Notes": [],

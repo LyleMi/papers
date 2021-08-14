@@ -17,7 +17,7 @@ def loadJson():
 
 def dumpJson(papers):
     with open("papers.json", "w", encoding="utf-8") as fp:
-        fp.write(beautify(json.dumps(papers)))
+        fp.write(beautify(json.dumps(papers, ensure_ascii=False)))
 
 
 def reindex(papers):

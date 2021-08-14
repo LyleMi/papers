@@ -59,7 +59,9 @@ Scanning directories at the syncing phase is not scalable for the following reas
 ### 3.1 Snapshot System Call
 
 ```c
-int snapshot(unsigned long cmd, unsigned long callback, struct iovec *shared_addr);
+// cmd: BEG_SNAPSHOT / END_SNAPSHOT
+int snapshot(unsigned long cmd, unsigned long callback, 
+    struct iovec *shared_addr);
 ```
 
 cmd is either BEG_SNAPSHOT for snapshotting or END_SNAPSHOT for reverting. 
@@ -69,21 +71,23 @@ It even has better performance than pthread_create() because it does not need to
 #### 3.1.1 Before Fuzzing: Process Snapshotting
 
 
-• Virtual Memory Area (VMA). snapshot() iterates the vir- tual memory areas (i.e., vmas) of the process and temporarily stores the start and end address of every vma.
-• Page. snapshot() maintains a set of pages that belong to a writable vma because it is possible that the target application may modify these writable pages, which the kernel should revert to the original state when the application terminates. To track these writable pages and maintain their original memory status, we use the copy-on-write (CoW) technique. We change the permission of writable pages to read-only by updating their corresponding page table entries (PTE) and flushing TLB to maintain the consistency. Thus, any write on these pages incurs a page fault, which the page-fault handler captures and handles. Our approach includes an optimization: We do not change the permission of mapped writable virtual address for which the kernel is yet to allocate a physical page because memory access on those pages will always incur a page fault.
-• brk. A process’s brk defines the end of its data segment, which indicates the valid range of its heap region in Linux. Thus it influences the results of heap allocations during the execution of the process. snapshot() saves the brk value of the current process.
-• File descriptor. At the end of a snapshotted process, the kernel closes file descriptors that are opened after snapshot but revert the status of file descriptors that were already opened before snapshot. snapshot() saves the status of open file descriptors by checking the file descriptor table and bitmap
+- Virtual Memory Area (VMA). snapshot() iterates the virtual memory areas (i.e., vmas) of the process and temporarily stores the start and end address of every vma.
+- Page. snapshot() maintains a set of pages that belong to a writable vma because it is possible that the target application may modify these writable pages, which the kernel should revert to the original state when the application terminates. To track these writable pages and maintain their original memory status, we use the copy-on-write (CoW) technique. We change the permission of writable pages to read-only by updating their corresponding page table entries (PTE) and flushing TLB to maintain the consistency. Thus, any write on these pages incurs a page fault, which the page-fault handler captures and handles. Our approach includes an optimization: We do not change the permission of mapped writable virtual address for which the kernel is yet to allocate a physical page because memory access on those pages will always incur a page fault.
+- brk. A process’s brk defines the end of its data segment, which indicates the valid range of its heap region in Linux. Thus it influences the results of heap allocations during the execution of the process. snapshot() saves the brk value of the current process.
+- File descriptor. At the end of a snapshotted process, the kernel closes file descriptors that are opened after snapshot but revert the status of file descriptors that were already opened before snapshot. snapshot() saves the status of open file descriptors by checking the file descriptor table and bitmap
 
 #### 3.1.2 During Fuzzing: Demanding Page Copy
 
 #### 3.1.3 After Fuzzing: Snapshot Recovering
 
-• Recovering copied pages. snapshot() recovers the pages that have a modified copy of the original one; it also deallocates the allocated physical memory, reverts corresponding PTE, and flushes the corresponding TLB entries.
-• Adjusting memory layout. snapshot() iterates the VMAs of the target process again and unmaps all of the newly mapped virtual memory areas.
-• Recovering brk. The brk value of a process affects the heap allocations and it is restored to the saved brk value.
-• Closing opened file descriptors. By comparing the current file descriptor bitmap with the one saved before the past fuzzing run, snapshot() determines the opened file descriptors and closes them.
+- Recovering copied pages. snapshot() recovers the pages that have a modified copy of the original one; it also deallocates the allocated physical memory, reverts corresponding PTE, and flushes the corresponding TLB entries.
+- Adjusting memory layout. snapshot() iterates the VMAs of the target process again and unmaps all of the newly mapped virtual memory areas.
+- Recovering brk. The brk value of a process affects the heap allocations and it is restored to the saved brk value.
+- Closing opened file descriptors. By comparing the current file descriptor bitmap with the one saved before the past fuzzing run, snapshot() determines the opened file descriptors and closes them.
 
 ### 3.2 Dual File System Service
+
+second operating primitive, dual file system service,  to provide effcient and scalable file operations for fuzzing
 
 ## 优点
 

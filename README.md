@@ -573,6 +573,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | k-fingerprinting A Robust Scalable Website Fingerprinting Technique |  |  | 2016 | fingerprint |
 | Effective Attacks and Provable Defenses for Website Fingerprinting |  |  | 2014 | Fingerprint |
 | Dowsing for Overflows: A Guided Fuzzer to Find Buffer Boundary Violations | Istvan Haller | VU University Amsterdam | 2013 | Guied Fuzz |
+| ZMap: Fast Internet-wide Scanning and Its Security Applications | Zakir Durumeric | University of Michigan | 2013 | scanner |
 | Author Attribute Anonymity by Adversarial Training of Neural Machine Translation |  |  |  |  |
 | Automatic Generation of Data-Oriented Exploits |  |  |  |  |
 | Fortifying Web Protocols via Browser-Side Security Monitoring |  |  |  |  |
