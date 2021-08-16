@@ -4471,5 +4471,44 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "348": {
+        "Title": "Weak Links in Authentication Chains: A Large-scale Analysis of Email Sender Spoofing Attacks",
+        "Author": ["Kaiwen Shen"],
+        "Org": "Tsinghua University",
+        "Date": "2021",
+        "Tag": ["Mail"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "349": {
+        "Title": "",
+        "Author": ["You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion"],
+        "Org": "",
+        "Date": "2021",
+        "Tag": ["AI"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "350": {
+        "Title": "ReDMArk: Bypassing RDMA Security Mechanisms",
+        "Author": ["Benjamin Rothenberger"],
+        "Org": "",
+        "Date": "2021",
+        "Tag": ["RDMA"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

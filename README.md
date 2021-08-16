@@ -533,6 +533,9 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+|  | You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion |  | 2021 | AI |
+| ReDMArk: Bypassing RDMA Security Mechanisms | Benjamin Rothenberger |  | 2021 | RDMA |
+| Weak Links in Authentication Chains: A Large-scale Analysis of Email Sender Spoofing Attacks | Kaiwen Shen | Tsinghua University | 2021 | Mail |
 | A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email | Hyeonmin Lee | Seoul National University | 2020 | Email;DNS |
 | AURORA: Statistical Crash Analysis for Automated Root Cause Explanation | Tim Blazytko | Ruhr-Universität Bochum | 2020 | Automated |
 | Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine Checkpoints | Dokyung Song | University of California, Irvine | 2020 | Fuzz;Kernel |
