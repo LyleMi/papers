@@ -16,8 +16,8 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 - [Black Hat WorkShop](#black-hat-workshop)
 - [Blog](#blog)
 - [CCS](#ccs)
-- [DEFCON](#defcon)
 - [DSN](#dsn)
+- [Defcon](#defcon)
 - [ESEC/FSE](#esecfse)
 - [FSE](#fse)
 - [H2HC](#h2hc)
@@ -250,19 +250,21 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | When Good Components Go Bad Formally Secure Compilation Despite Dynamic Compromise |  |  |  |  |
 | Yet Another Text Captcha Solver A Generative Adversarial Network Based Approach |  |  |  |  |
 
-## DEFCON
-
-| Title | Authors | Organization | Year | Keywords |
-| --- | --- | --- | --- | --- |
-| Firmware slap: automating discovery of exploitable vulnerabilities in firmware | Christopher roberts |  | 2019 | Firmware |
-| Analysis of Mutation and Generation Based Fuzzing |  |  |  | Fuzz |
-| geoff mcdonald meddle framework updated |  |  |  | Fuzz |
-
 ## DSN
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Your IoTs Are (Not) Mine: On the Remote BindingBetween IoT Devices and Users | Jiongyi Chen | The Chinese University of Hong Kong | 2019 | IoT |
+
+## Defcon
+
+| Title | Authors | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Extension-Land - exploits and rootkits in your browser extensions | Barak Sternberg | SentinelOneLabs | 2021 | brower extension |
+| Offensive Golang Bonanza - Writing Golang Malware | Ben Kurtz |  | 2021 | Golang;Malware |
+| Firmware slap: automating discovery of exploitable vulnerabilities in firmware | Christopher roberts |  | 2019 | Firmware |
+| Analysis of Mutation and Generation Based Fuzzing |  |  |  | Fuzz |
+| geoff mcdonald meddle framework updated |  |  |  | Fuzz |
 
 ## ESEC/FSE
 
@@ -528,14 +530,27 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Soteria: Automated IoT Safety and Security Analysis | Z.Berkay Celik | The Pennsylvania State University | 2018 | IoT |
+| Gdev: First-Class GPU Resource Management in the Operating System | Shinpei Kato | Department of Computer Science, UC Santa Cruz | 2012 | GPU |
 
 ## Usenix
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 |  | You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion |  | 2021 | AI |
+| Android SmartTVs Vulnerability Discovery via Log-Guided Fuzzing | Yousra Aafer | University of Waterloo | 2021 | Fuzz;IoT |
+| Automatic Firmware Emulation through Invalidity-guided Knowledge Inference | Wei Zhou | National Computer Network Intrusion Protection Center, University of Chinese Academy of Sciences | 2021 | Emulation;IoT |
+| Automatic Policy Generation for Inter-Service Access Control of Microservices | Xing Li | Zhejiang University | 2021 | Microservice;Policy |
+| Blind In/On-Path Attacks and Applications to VPNs | William J. Tolley | Breakpointing Bad/Arizona State University | 2021 | VPN;Hijack |
+| Causal Analysis for Software-Defined Networking Attacks | Benjamin E. Ujcich | Georgetown University | 2021 | SDN |
+| Constraint-guided Directed Greybox Fuzzing | Gwangmu Lee | Seoul National University | 2021 | Greybox Fuzz; |
+| Fine Grained Dataflow Tracking with Proximal Gradients | Gabriel Ryan | Columbia University | 2021 | Taint Analysis |
+| Fingerprinting in Style: Detecting Browser Extensions via Injected Style Sheets | Pierre Laperdrix | Univ. Lille, CNRS, Inria | 2021 | Fingerprint;Browser |
+| Jetset: Targeted Firmware Rehosting for Embedded Systems | Evan Johnson | University of California, San Diego | 2021 | Firmware;Rehosting |
+| LZR: Identifying Unexpected Internet Services | Liz Izhikevich | Stanford University | 2021 | port scan |
 | ReDMArk: Bypassing RDMA Security Mechanisms | Benjamin Rothenberger |  | 2021 | RDMA |
+| Reducing Bias in Modeling Real-world Password Strength via Deep Learning and Dynamic Dictionaries | Dario Pasquini | Sapienza University of Rome, Institute of Applied Computing CNR | 2021 | Auth |
 | Weak Links in Authentication Chains: A Large-scale Analysis of Email Sender Spoofing Attacks | Kaiwen Shen | Tsinghua University | 2021 | Mail |
+| Weaponizing Middleboxes for TCP Reflected Amplification | Kevin Bock | University of Maryland; Abdulrahman Alaraj | 2021 | Web;DoS |
 | A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email | Hyeonmin Lee | Seoul National University | 2020 | Email;DNS |
 | AURORA: Statistical Crash Analysis for Automated Root Cause Explanation | Tim Blazytko | Ruhr-Universität Bochum | 2020 | Automated |
 | Agamotto: Accelerating Kernel Driver Fuzzing with Lightweight Virtual Machine Checkpoints | Dokyung Song | University of California, Irvine | 2020 | Fuzz;Kernel |
