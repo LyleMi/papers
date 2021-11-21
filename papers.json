@@ -4705,5 +4705,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "366": {
+        "Title": "New Ways of IPV6 Scanning",
+        "Author": ["Shupeng Gao"],
+        "Org": "Senior Security Researcher, Baidu",
+        "Date": "2021",
+        "Tag": ["IPv6", "scan"],
+        "Conference": "Black Hat EU",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "367": {
+        "Title": "HTTP/2: The Sequel is Always Worse",
+        "Author": ["James Kettle"],
+        "Org": "Director of Research, PortSwigger",
+        "Date": "2021",
+        "Tag": ["HTTP/2", "smuggling"],
+        "Conference": "Black Hat EU",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

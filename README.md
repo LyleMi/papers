@@ -152,6 +152,8 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| HTTP/2: The Sequel is Always Worse | James Kettle | Director of Research, PortSwigger | 2021 | HTTP/2;smuggling |
+| New Ways of IPV6 Scanning | Shupeng Gao | Senior Security Researcher, Baidu | 2021 | IPv6;scan |
 | BlueMaster: Bypassing and Fixing Bluetooth-based Proximity Authentication | Youngman Jung | Samsung Electronics | 2019 | Bluetooth |
 | Booting the iOS Kernel to an Interactive Bash Shell on QEMU | Jonathan Afek | HCL/AppScan | 2019 | iOS |
 | Chain of Fools: An Exploration of Certificate Chain Validation Mishaps | James Barclay | Duo Security | 2019 | Cryptography |
