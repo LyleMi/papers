@@ -213,6 +213,20 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| A formally verified configuration for Hardware Security Modules in the cloud | Riccardo Focardi | University Ca' Foscari, Venice and Cryptosense | 2021 | Hardware;Cloud |
+| All your credentials are belong to us: On Insecure WPA2-Enterprise Configurations | Man Hong Hue | The Chinese University of Hong Kong | 2021 | WPA2 |
+| An In-Depth Symbolic Security Analysis of the ACME Standard | Karthikeyan Bhargavan | INRIA Paris, France | 2021 | ACME;Symbolic Security Analysis |
+| Chunk-Level Password Guessing: Towards Modeling Refined Password Composition Representations | Ming Xu | Fudan University | 2021 | Password Guessing |
+| DNS Cache Poisoning Attack: Resurrections with Side Channels | Keyu Man | University of California, Riverside | 2021 | DNS;Cache Poisoning |
+| ECMO: Peripheral Transplantation to Rehost Embedded Linux Kernels | Muhui Jiang | The Hong Kong Polytechnic University | 2021 | Embedded;Rehost |
+| Let's Downgrade Let's Encrypt | Tianxiang Dai | ATHENE Center & Fraunhofer SIT | 2021 | HTTPS |
+| New Directions in Automated Traffic Analysis | Jordan Holland | Princeton University | 2021 | Traffic |
+| Realtime Robust Malicious Traffic Detection via Frequency Domain Analysis | Chuanpu Fu | Tsinghua University | 2021 | Traffic;Domain |
+| SoFi: Reflection-Augmented Fuzzing for JavaScript Engines | Xiaoyu He | Institute of Information Engineering, Chinese Academy of Sciences | 2021 | Fuzz;JavaScript |
+| Spinner: Automated Dynamic Command Subsystem Perturbation | Meng Wang | University of Virginia | 2021 | Web |
+| T-Reqs: HTTP Request Smuggling with Differential Fuzzing | Bahruz Jabiyev | Northeastern University | 2021 | HTTP;Differential Fuzzing |
+| Towards Transparent and Stealthy Android OS Sandboxing via Customizable Container-Based Virtualization | Wenna Song | Wuhan University | 2021 | Android;Virtualization |
+| V-SHUTTLE: Scalable and Semantics-Aware Hypervisor Fuzzing | Gaoning Pan | Ant Group | 2021 | Hypervisor;Fuzzing |
 | Bypassing Tor Exit Blocking with Exit Bridge Onion Services | Zhao Zhang | Georgetown University | 2020 | Tor |
 | CLAPS: Client-Location-Aware Path Selection in Tor | Florentin Rochet | UCLouvain | 2020 | Tor |
 | DNS Cache Poisoning Attack Reloaded: Revolutions with Side Channels | Keyu Man,Zhiyun Qian | University of California, Riverside | 2020 | DNS cache poisoning;side channel |
