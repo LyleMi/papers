@@ -34,6 +34,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 - [NDSS](#ndss)
 - [OOPSLA](#oopsla)
 - [Offensive](#offensive)
+- [OffensiveCon](#offensivecon)
 - [PLDI](#pldi)
 - [PPT](#ppt)
 - [QPSS](#qpss)
@@ -481,6 +482,14 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | Fuzzil: Guided Fuzzing for JavaScript Engines | Samuel Groß |  | 2019 | Fuzz |
 | From Assembly to JavaScript and back |  |  | 2018 |  |
 
+## OffensiveCon
+
+| Title | Authors | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Attacking JavaScript Engines in 2022 | Samuel Groß;Amy Burnett |  | 2022 | JavaScript |
+| BeaconFuzz A Journey into Ethereum 2.0 Blockchain Fuzzing and Vulnerability Discovery | Patrick Ventuzelo  | FuzzingLabs | 2022 | Fuzz;Ethereum |
+| From Assembly to JavaScript and back |  |  | 2018 | Fuzz |
+
 ## PLDI
 
 | Title | Authors | Organization | Year | Keywords |
@@ -497,7 +506,6 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | BrowserFuzzing |  |  | 2014 |  |
 | 1day browser exploitaion |  |  |  | Fuzz |
 | Blink Rendering |  |  |  | Fuzz |
-| OffensiveCon2018 From Assembly to JavaScript and back |  |  |  | Fuzz |
 | Taking Browsers Fuzzing to the next (DOM) Level |  |  |  | Fuzz |
 | ZeroNights2017 darko fuzzer |  |  |  | Fuzz |
 | the art of fuzzing slides |  |  |  | Fuzz |
