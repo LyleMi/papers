@@ -11,6 +11,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 - [Arxiv](#arxiv)
 - [AsiaCCS](#asiaccs)
 - [Black Hat](#black-hat)
+- [Black Hat Asia](#black-hat-asia)
 - [Black Hat EU](#black-hat-eu)
 - [Black Hat USA](#black-hat-usa)
 - [Black Hat WorkShop](#black-hat-workshop)
@@ -148,6 +149,13 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | Dont Trust The DOM Bypassing XSS Mitigations Via Script Gadgets |  |  |  | Web |
 | Exposing Hidden Exploitable Behaviors In Programming Languages Using Differential Fuzzing |  |  |  | Fuzz |
 | It's A PHP Unserialization Vulnerability Jim But Not As We Know It |  |  |  |  |
+
+## Black Hat Asia
+
+| Title | Authors | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Dynamic Process Isolation | Pietro Borrello | Sapienza University of Rome | 2022 | Cloud;Spectre |
+| Remote Memory-Deduplication Attacks | Erik Kraft | Graz University of Technology | 2022 | Cloud |
 
 ## Black Hat EU
 

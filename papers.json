@@ -4939,5 +4939,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "384": {
+        "Title": "Remote Memory-Deduplication Attacks",
+        "Author": ["Erik Kraft"],
+        "Org": "Graz University of Technology",
+        "Date": "2022",
+        "Tag": ["Cloud"],
+        "Conference": "Black Hat Asia",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "385": {
+        "Title": "Dynamic Process Isolation",
+        "Author": ["Pietro Borrello"],
+        "Org": "Sapienza University of Rome",
+        "Date": "2022",
+        "Tag": ["Cloud", "Spectre"],
+        "Conference": "Black Hat Asia",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
