@@ -181,6 +181,41 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| A Journey Into Fuzzing WebAssembly Virtual Machines | Patrick Ventuzelo | FuzzingLabs | 2022 | Fuzz;WebAssembly |
+| A New Trend for the Blue Team - Using a Practical Symbolic Engine to Detect Evasive Forms of Malware/Ransomware | Sheng-Hao Ma | TXOne | 2022 | symbolic execution;malware detection |
+| Another Way to Talk with Browser: Exploiting Chrome at Network Layer | Rong Jian | 360 | 2022 | Chrome;WASM |
+| Attacks From a New Front Door in 4G & 5G Mobile Networks | Altaf Shaik | Technische Universität Berlin | 2022 | IoT |
+| Backdooring and Hijacking Azure AD Accounts by Abusing External Identities | Dirk-jan Mollema | Outsider Security | 2022 | Azure AD |
+| Better Privacy Through Offense: How To Build a Privacy Red Team | Scott Tenaglia | Privacy Red Team, Meta | 2022 | Privacy |
+| Blasting Event-Driven Cornucopia: WMI-based User-Space Attacks Blind SIEMs and EDRs | Claudiu Teodorescu |  | 2022 | WMI |
+| BrokenMesh: New Attack Surfaces of Bluetooth Mesh | Han Yan | Baidu | 2022 | Bluetooth |
+| Cautious: A New Exploitation Method! No Pipe but as Nasty as Dirty Pipe | Zhenpeng Lin | Northwestern University | 2022 | Linux;Privilege Escalation |
+| Controlling the Source: Abusing Source Code Management Systems | Brett Hawkins | IBM | 2022 | Git |
+| DNSSEC Downgrade Attacks | Haya Shulman | Fraunhofer SIT | 2022 | DNSSEC |
+| Devils Are in the File Descriptors: It Is Time To Catch Them All | Le Wu | Baidu | 2022 | File Descriptors |
+| DirectX: The New Hyper-V Attack Surface | Zhenhao Hong | Ant Group Light-Year Security Lab | 2022 | Hyper-V |
+| Do Not Trust the ASA, Trojans! | Jacob Baines | Rapid7 | 2022 | Cisco |
+| Don't Get Owned by Your Dependencies: How Firefox Uses In-process Sandboxing To Protect Itself From Exploitable Libraries (And You Can Too!) | Shravan Narayan | UC San Diego | 2022 | Firefox;Sandbox |
+| ELF Section Docking: Revisiting Stageless Payload Delivery | Dimitry Snezhkov | IBM | 2022 | Malware |
+| ElectroVolt: Pwning Popular Desktop Apps While Uncovering New Attack Surface on Electron | Aaditya Purani | Cure53 | 2022 | Electron |
+| Elevating Kerberos to the Next Level | James Forshaw | Google Project Zero | 2022 | Kerberos |
+| Google Reimagined a Phone. It was Our Job to Red Team and Secure it. | Farzan Karimi | Google | 2022 | Android |
+| IAM The One Who Knocks | Igal Gofman | Ermetic | 2022 | IAM;Cloud |
+| Is WebAssembly Really Safe? --Wasm VM Escape and RCE Vulnerabilities Have Been Found in New Way | Zhao Hai | Cyberpeace Tech Co., Ltd. | 2022 | WebAssembly |
+| Kubernetes Privilege Escalation: Container Escape == Cluster Admin? | Yuval Avrahami | Palo Alto Network | 2022 | Kubernetes;Privilege Escalation |
+| Let's Dance in the Cache - Destabilizing Hash Table on Microsoft IIS | Orange | DEVCORE | 2022 | IIS;Hash;Cache |
+| New Memory Forensics Techniques to Defeat Device Monitoring Malware | Andrew Case |  | 2022 | Memory Forensics |
+| PISE: Protocol Inference using Symbolic Execution and Automata Learning | Gabi Nakibly |  | 2022 | Protocol;Reverse |
+| Process Injection: Breaking All macOS Security Layers With a Single Vulnerability | Thijs Alkemade |  | 2022 | macOS |
+| Return to Sender - Detecting Kernel Exploits with eBPF | Guillaume Fournier | Datadog | 2022 | eBPF |
+| Scaling the Security Researcher to Eliminate OSS Vulnerabilities Once and For All | Jonathan Leitschuh | HUMAN Security Inc. | 2022 | OSS |
+| Stalloris: RPKI Downgrade Attack | Philipp Jeitner | SIT | 2022 | PKI |
+| The Battle Against the Billion-Scale Internet Underground Industry: Advertising Fraud Detection and Defense | Zheng Huang | Baidu | 2022 | Advertising Fraud |
+| The COW (Container On Windows) Who Escaped the Silo | Eran Segal | SafeBreach | 2022 | Windows;Container |
+| The Journey of Hunting In-the-Wild Windows LPE 0day | Quan Jin | DBAPPSecurity | 2022 | 0day |
+| To Flexibly Tame Kernel Execution With Onsite Analysis | Xuhua Ding | Singapore Management University | 2022 | Kernel |
+| Trace Me if You Can: Bypassing Linux Syscall Tracing | Rex Guo | Lacework | 2022 | Syscall;Linux;Bypass |
+| eBPF ELFs JMPing Through the Windows | Richard Johnson | Trellix Threat Labs | 2022 | eBPF;Windows |
 | About Directed Fuzzing and Use-After-Free: How to Find Complex & Silent Bugs? | Sébastien Bardin   |  | 2020 | Fuzz |
 | Decade of the RATs – Custom Chinese Linux Rootkits for Everyone | Kevin Livelli | Director of Threat Intelligence, BlackBerry | 2020 | Malware |
 | Defending Containers Like a Ninja: A Walk through the Advanced Security Features of Docker & Kubernetes | Sheila Berta | Head of Research, Dreamlab Technologies | 2020 | Defense;Cloud |
