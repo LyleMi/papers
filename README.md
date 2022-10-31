@@ -29,6 +29,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 - [IEEE S&P](#ieee-sp)
 - [IEEE-ACM](#ieee-acm)
 - [IJCAI](#ijcai)
+- [ISCA](#isca)
 - [ISSTA](#issta)
 - [MS](#ms)
 - [Misc](#misc)
@@ -353,6 +354,12 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| API Security Through External Attack Surface Management | Phillip Wylie |  | 2022 | API Security; |
+| Browser Hacking with ANGLE | Jeonghoon Shin |  | 2022 | Browser |
+| Building an Army of Bots by Hijacking a Unicorn’s Twitter Handle | Rahul Sasi |  | 2022 | OSINT |
+| EDR Evasion Primer for Red Teamers | Karsten Nohl |  | 2022 | EDR |
+| Scripts-behavioral ML Classification Using Windows 10 AMSI-instrumentation | Ankit Garg | MS | 2022 | Windows;Defender |
+| Windows Bribery for Invisible Persistence | Sebastian Castro |  | 2022 | Windows |
 | Building Next-Gen Security Analysis Tools With Qiling Framework | KaiJern LAU | qiling.io | 2020 | Emulation |
 | Static Code Analysis Recognition Evasion | Andreas Wiegenstein | AP Cyber Security | 2019 | Code Analysis |
 | From Out of Memory to Remote Code Execution | Yuki Chen |  | 2017 | Fuzz |
@@ -428,6 +435,12 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | Locate Then Detect：Web Attack Detection via Attention-based Deep Neural Networks | Tianlong Liu,Jianan Yan | Ali | 2019 | Web;Machine Learning;WAF |
+
+## ISCA
+
+| Title | Authors | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Debunking the 100X GPU vs. CPU Myth: An Evaluation of Throughput Computing on CPU and GPU | Victor W Lee;Changkyu Kim;Jatin Chhugani;Michael Deisher;Daehyun Kim;Anthony D. Nguyen;Nadathur Satish;Mikhail Smelyanskiy;Srinivas Chennupaty;Per Hammarlund;Ronak Singhal and Pradeep Dubey | Intel Corporation | 2010 | Computer Architecture |
 
 ## ISSTA
 
