@@ -616,6 +616,15 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| Exploring the Unchartered Space of Container Registry Typosquatting | Guannan Liu | George Mason University | 2022 | typosquatting |
+| Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing | Tobias Scharnowski | Ruhr-Universität Bochum | 2022 | Fuzz;IoT;emulator |
+| Lumos: Identifying and Localizing Diverse Hidden IoT Devices in an Unfamiliar Environment | Rahul Anand Sharma | Carnegie Mellon University | 2022 | IoT;eavesdrop |
+| Mining Node.js Vulnerabilities via Object Dependence Graph and Query | Song Li | Johns Hopkins University | 2022 | Node.js;AST;GraphQL |
+| Morphuzz: Bending (Input) Space to Fuzz Virtual Devices | Alexander Bulekov | Boston University | 2022 | Fuzz;IoT;virtual |
+| Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World | Giovanni Cherubin | EPFL SPRING Lab | 2022 | Fingerprinting;Tor |
+| RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices | Yi He | Tsinghua University | 2022 | Firmware;Hotpatch |
+| Spoki: Unveiling a New Wave of Scanners through a Reactive Network Telescope | Raphael Hiesgen | Freie Universität Berlin | 2022 | Scan |
+| Under the Hood of DANE Mismanagement in SMTP | Hyeonmin Lee | Seoul National University | 2022 | SMTP |
 |  | You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion |  | 2021 | AI |
 | Android SmartTVs Vulnerability Discovery via Log-Guided Fuzzing | Yousra Aafer | University of Waterloo | 2021 | Fuzz;IoT |
 | Automatic Firmware Emulation through Invalidity-guided Knowledge Inference | Wei Zhou | National Computer Network Intrusion Protection Center, University of Chinese Academy of Sciences | 2021 | Emulation;IoT |
