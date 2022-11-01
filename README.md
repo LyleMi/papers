@@ -616,15 +616,28 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| COMRace: Detecting Data Race Vulnerabilities in COM Objects | Fangming Gu | iie | 2022 | Windows |
+| Characterizing the Security of Github CI Workflows | Igibek Koishybayev | North Carolina State University | 2022 |  |
+| Creating a Secure Underlay for the Internet | Henry Birge-Lee | Princeton University | 2022 | internet;route |
+| Drifuzz: Harvesting Bugs in Device Drivers from Golden Seeds | Zekun Shen | NYU | 2022 | Fuzz |
 | Exploring the Unchartered Space of Container Registry Typosquatting | Guannan Liu | George Mason University | 2022 | typosquatting |
+| FRAMESHIFTER: Security Implications of HTTP/2-to-HTTP/1 Conversion Anomalies | Bahruz Jabiyev | Northeastern University | 2022 | HTTP |
+| FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing | Sunwoo Kim | Samsung Research | 2022 | Browsers;Fuzz;UXSS |
 | Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing | Tobias Scharnowski | Ruhr-Universität Bochum | 2022 | Fuzz;IoT;emulator |
+| GET /out: Automated Discovery of Application-Layer Censorship Evasion Strategies | Michael Harrity | University of Maryland | 2022 |  |
 | Lumos: Identifying and Localizing Diverse Hidden IoT Devices in an Unfamiliar Environment | Rahul Anand Sharma | Carnegie Mellon University | 2022 | IoT;eavesdrop |
 | Mining Node.js Vulnerabilities via Object Dependence Graph and Query | Song Li | Johns Hopkins University | 2022 | Node.js;AST;GraphQL |
 | Morphuzz: Bending (Input) Space to Fuzz Virtual Devices | Alexander Bulekov | Boston University | 2022 | Fuzz;IoT;virtual |
+| Off-Path Network Traffic Manipulation via Revitalized ICMP Redirect Attacks | Xuewei Feng | Department of Computer Science and Technology & BNRist | 2022 | ICMP |
 | Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World | Giovanni Cherubin | EPFL SPRING Lab | 2022 | Fingerprinting;Tor |
+| Practical Privacy-Preserving Authentication for SSH | Lawrence Roy | Oregon State University | 2022 | SSH |
 | RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices | Yi He | Tsinghua University | 2022 | Firmware;Hotpatch |
 | Spoki: Unveiling a New Wave of Scanners through a Reactive Network Telescope | Raphael Hiesgen | Freie Universität Berlin | 2022 | Scan |
+| StateFuzz: System Call-Based State-Aware Linux Driver Fuzzing | Bodong Zhao | Institute for Network Science and Cyberspace / BNRist | 2022 | Stateful fuzz |
+| Stateful Greybox Fuzzing | Jinsheng Ba | National University of Singapore | 2022 | Fuzz |
+| The Security Lottery: Measuring Client-Side Web Security Inconsistencies | Sebastian Roth | CISPA Helmholtz Center for Information Security | 2022 | Web |
 | Under the Hood of DANE Mismanagement in SMTP | Hyeonmin Lee | Seoul National University | 2022 | SMTP |
+| Uninvited Guests: Analyzing the Identity and Behavior of Certificate Transparency Bots | Brian Kondracki | Stony Brook University | 2022 | CT |
 |  | You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion |  | 2021 | AI |
 | Android SmartTVs Vulnerability Discovery via Log-Guided Fuzzing | Yousra Aafer | University of Waterloo | 2021 | Fuzz;IoT |
 | Automatic Firmware Emulation through Invalidity-guided Knowledge Inference | Wei Zhou | National Computer Network Intrusion Protection Center, University of Chinese Academy of Sciences | 2021 | Emulation;IoT |
