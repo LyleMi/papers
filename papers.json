@@ -5797,5 +5797,70 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "450": {
+        "Title": "Peerlock: Flexsealing BGP",
+        "Author": ["Tyler McDaniel"],
+        "Org": "University of Tennessee, Knoxville",
+        "Date": "2021",
+        "Tag": ["BGP"],
+        "Conference": "NDSS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "451": {
+        "Title": "A Devil of a Time: How Vulnerable is NTP to Malicious Timeservers?",
+        "Author": ["Yarin Perry"],
+        "Org": "The Hebrew University of Jerusalem",
+        "Date": "2021",
+        "Tag": ["NTP"],
+        "Conference": "NDSS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "452": {
+        "Title": "Subverting Stateful Firewalls with Protocol States",
+        "Author": ["Amit Klein"],
+        "Org": "Bar Ilan University",
+        "Date": "2022",
+        "Tag": ["TCP/IP"],
+        "Conference": "NDSS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "453": {
+        "Title": "Measuring and Mitigating the Risk of IP Reuse on Public Clouds",
+        "Author": ["Eric Pauley"],
+        "Org": "Pennsylvania State University",
+        "Date": "2022",
+        "Tag": ["Cloud"],
+        "Conference": "IEEE S&P",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "454": {
+        "Title": "PolyCruise: A Cross-Language Dynamic Information Flow Analysis",
+        "Author": ["Wen Li"],
+        "Org": "Washington State University",
+        "Date": "2022",
+        "Tag": ["Cross-Language", "Code Audit"],
+        "Conference": "Usenix",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

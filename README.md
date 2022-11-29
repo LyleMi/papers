@@ -408,6 +408,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| Measuring and Mitigating the Risk of IP Reuse on Public Clouds | Eric Pauley | Pennsylvania State University | 2022 | Cloud |
 | Dragonblood: Analyzing the Dragonfly Handshake of WPA3 and EAP-pwd | Mathy Vanhoef | New York University Abu Dhabi | 2020 | Wifi |
 | IJON: Exploring Deep State Spaces via Fuzzing | Cornelius Aschermann, Sergej Schumilo, Ali Abbasi, and Thorsten Holz | Ruhr University Bochum | 2020 | Fuzz |
 | KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware | Nilo Redini | ucsb-seclab | 2020 | Embedded |
@@ -483,6 +484,9 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| Subverting Stateful Firewalls with Protocol States | Amit Klein | Bar Ilan University | 2022 | TCP/IP |
+| A Devil of a Time: How Vulnerable is NTP to Malicious Timeservers? | Yarin Perry | The Hebrew University of Jerusalem | 2021 | NTP |
+| Peerlock: Flexsealing BGP | Tyler McDaniel | University of Tennessee, Knoxville | 2021 | BGP |
 | Cross-Origin State Inference (COSI) Attacks: Leaking Web Site States through XS-Leaks | Avinash Sudhodanan | IMDEA Software Institute | 2020 | Web;Frontend |
 | Deceptive Previews: A Study of the Link Preview Trustworthiness in Social Platforms | Giada Stivala | CISPA | 2020 | Web;Social |
 | HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing | William Blair | Boston University | 2020 | Fuzz;SlowFuzz |
@@ -630,6 +634,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | Morphuzz: Bending (Input) Space to Fuzz Virtual Devices | Alexander Bulekov | Boston University | 2022 | Fuzz;IoT;virtual |
 | Off-Path Network Traffic Manipulation via Revitalized ICMP Redirect Attacks | Xuewei Feng | Department of Computer Science and Technology & BNRist | 2022 | ICMP |
 | Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World | Giovanni Cherubin | EPFL SPRING Lab | 2022 | Fingerprinting;Tor |
+| PolyCruise: A Cross-Language Dynamic Information Flow Analysis | Wen Li | Washington State University | 2022 | Cross-Language;Code Audit |
 | Practical Privacy-Preserving Authentication for SSH | Lawrence Roy | Oregon State University | 2022 | SSH |
 | RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices | Yi He | Tsinghua University | 2022 | Firmware;Hotpatch |
 | Spoki: Unveiling a New Wave of Scanners through a Reactive Network Telescope | Raphael Hiesgen | Freie Universität Berlin | 2022 | Scan |
