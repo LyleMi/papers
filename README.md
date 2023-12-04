@@ -414,6 +414,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware | Nilo Redini | ucsb-seclab | 2020 | Embedded |
 | PANGOLIN: Incremental Hybrid Fuzzing with Polyhedral Path Abstraction | Heqing Huang | The Hong Kong University of Science and Technology, China | 2020 | Fuzz |
 | SAVIOR: Towards Bug-Driven Hybrid Testing |  |  | 2020 | Fuzz;Hybrid |
+| Tactical Provenance Analysis for Endpoint Detection and Response Systems | Wajih Ul Hassan |  | 2020 | EDR |
 | TaintScope: A Checksum-Aware Directed Fuzzing Tool for Automatic Software Vulnerability Detection | Tielei Wang |  | 2020 | taint;fuzz |
 | Full-speed Fuzzing: Reducing Fuzzing Overhead through Coverage-guided Tracing | Stefan Nagy | Virginia Tech | 2019 | Fuzz |
 | T-Fuzz: fuzzing by program transformation | Hui Peng | Purdue University | 2018 | Fuzz;Black Box |
@@ -492,6 +493,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing | William Blair | Boston University | 2020 | Fuzz;SlowFuzz |
 | Melting Pot of Origins: Compromising the Intermediary Web Services that Rehost Websites | Takuya Watanabe | NTT | 2020 | Web |
 | Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization | Yanhao Wang | Institute of Software, Chinese Academy of Sciences | 2020 | Fuzz |
+| UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats | Xueyuan Han |  | 2020 | APT |
 | A Systematic Framework to Generate Invariants for Anomaly Detection in Industrial Control Systems | Cheng Feng | Imperial College London | 2019 | ICS |
 | Analyzing Semantic Correctness with Symbolic Execution: A Case Study on PKCS#1 v1.5 Signature Verification | Sze Yiu Chau | Purdue University | 2019 | Fuzz;Symbolic Execution |
 | BadBluetooth Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals | Fenghao Xu | The Chinese University of Hong Kong | 2019 | Bluetooth |
@@ -580,6 +582,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| Cyber Threat Intelligence Modeling Based on Heterogeneous Graph Convolutional Network | Jun Zhao | Beihang University | 2020 | Threat Intelligence |
 | CRYPTOREX: Large-scale Analysis of Cryptographic Misuse in IOT Devices | Li Zhang | Jinan University | 2019 | Crypto;IoT |
 
 ## SIGMOD
@@ -620,6 +623,17 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting | Jian Qu;Xiaobo Ma;Jianfeng Li | Xi’an Jiaotong University | 2023 | Deep Learning;Traffic;Fingerprinting |
+| Attacks are Forwarded: Breaking the Isolation of MicroVM-based Containers Through Operation Forwarding | Jietao Xiao;Nanzi Yang | State Key Lab of ISN, School of Cyber Engineering, Xidian University, China | 2023 | Container Escape |
+| Bleem: Packet Sequence Oriented Fuzzing for Protocol Implementations | Zhengxiong Luo;Junze Yu;Feilong Zuo;Jianzhong Liu;Yu Jiang | Tsinghua University | 2023 | Fuzz;Protocol |
+| Detecting Multi-Step IAM Attacks in AWS Environments via Model Checking | Ilia Shevrin | Citi | 2023 | AWS;IAM |
+| Did the Shark Eat the Watchdog in the NTP Pool? Deceiving the NTP Pool’s Monitoring System | Jonghoon Kwon | ETH Zürich | 2023 | NTP |
+| Downgrading DNSSEC: How to Exploit Crypto Agility for Hijacking Signed Zones | Elias Heftrig | ATHENE Fraunhofer SIT | 2023 | DNS Hijacking |
+| NAUTILUS: Automated RESTful API Vulnerability Detection | Gelei Deng | Nanyang Technological University | 2023 | Web |
+| Pool-Party: Exploiting Browser Resource Pools for Web Tracking | Peter Snyder | Brave Software | 2023 | Browser |
+| TRIDENT: Towards Detecting and Mitigating Web-based Social Engineering Attacks | Zheng Yang | Georgia Institute of Technology | 2023 | web;ad-block |
+| Trojan Source: Invisible Vulnerabilities | Nicholas Boucher | University of Cambridge | 2023 | Unicode; human |
+| We Really Need to Talk About Session Tickets: A Large-Scale Analysis of Cryptographic Dangers with TLS Session Tickets | Sven Hebrok | Paderborn University | 2023 | TLS |
 | COMRace: Detecting Data Race Vulnerabilities in COM Objects | Fangming Gu | iie | 2022 | Windows |
 | Characterizing the Security of Github CI Workflows | Igibek Koishybayev | North Carolina State University | 2022 |  |
 | Creating a Secure Underlay for the Internet | Henry Birge-Lee | Princeton University | 2022 | internet;route |
