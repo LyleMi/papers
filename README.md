@@ -6,6 +6,7 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 - [Recommend Conferences](#recommend-conferences)
 - [ACM](#acm)
+- [ACM CCS](#acm-ccs)
 - [ACSAC](#acsac)
 - [ASE](#ase)
 - [Arxiv](#arxiv)
@@ -69,6 +70,13 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | Scheduling Black-box Mutational Fuzzing |  |  |  | Fuzz |
 | Symbolic execution for software testing three decades later |  |  |  | Fuzz |
 | evaluating fuzz testing |  |  |  | Fuzz |
+
+## ACM CCS
+
+| Title | Authors | Organization | Year | Keywords |
+| --- | --- | --- | --- | --- |
+| Don't Leak Your Keys: Understanding, Measuring, and Exploiting the AppSecret Leaks in Mini-Programs | Yue Zhang | The Ohio State University | 2023 | Mini-Program;Secret Leak |
+| Lost along the Way: Understanding and Mitigating Path-Misresolution Threats to Container Isolation | Zhi Li | Huazhong University of Science and Technology | 2023 | Container Isolation |
 
 ## ACSAC
 

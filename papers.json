@@ -6044,5 +6044,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "469": {
+        "Title": "Lost along the Way: Understanding and Mitigating Path-Misresolution Threats to Container Isolation",
+        "Author": ["Zhi Li"],
+        "Org": "Huazhong University of Science and Technology",
+        "Date": "2023",
+        "Tag": ["Container Isolation"],
+        "Conference": "ACM CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "470": {
+        "Title": "Don't Leak Your Keys: Understanding, Measuring, and Exploiting the AppSecret Leaks in Mini-Programs",
+        "Author": ["Yue Zhang"],
+        "Org": "The Ohio State University",
+        "Date": "2023",
+        "Tag": ["Mini-Program", "Secret Leak"],
+        "Conference": "ACM CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
