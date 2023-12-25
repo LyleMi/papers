@@ -6070,5 +6070,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "471": {
+        "Title": "Understanding and Detecting Abused Image Hosting Modules as Malicious Services",
+        "Author": ["Geng Hong"],
+        "Org": "Fudan University, Shanghai, China",
+        "Date": "2023",
+        "Tag": ["Abuse"],
+        "Conference": "ACM CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "472": {
+        "Title": "Silence is not Golden: Disrupting the Load Balancing of Authoritative DNS Servers",
+        "Author": ["Fenglu Zhang"],
+        "Org": "Tsinghua University",
+        "Date": "2023",
+        "Tag": ["DNS"],
+        "Conference": "ACM CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

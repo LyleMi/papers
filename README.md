@@ -77,6 +77,8 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | --- | --- | --- | --- | --- |
 | Don't Leak Your Keys: Understanding, Measuring, and Exploiting the AppSecret Leaks in Mini-Programs | Yue Zhang | The Ohio State University | 2023 | Mini-Program;Secret Leak |
 | Lost along the Way: Understanding and Mitigating Path-Misresolution Threats to Container Isolation | Zhi Li | Huazhong University of Science and Technology | 2023 | Container Isolation |
+| Silence is not Golden: Disrupting the Load Balancing of Authoritative DNS Servers | Fenglu Zhang | Tsinghua University | 2023 | DNS |
+| Understanding and Detecting Abused Image Hosting Modules as Malicious Services | Geng Hong | Fudan University, Shanghai, China | 2023 | Abuse |
 
 ## ACSAC
 
