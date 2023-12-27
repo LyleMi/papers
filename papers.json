@@ -6096,5 +6096,83 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "473": {
+        "Title": "PyRTFuzz: Detecting Bugs in Python Runtimes via Two-Level Collaborative Fuzzing",
+        "Author": ["Wen Li"],
+        "Org": "Washington State University",
+        "Date": "2023",
+        "Tag": ["Fuzz", "Python"],
+        "Conference": "ACM CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "474": {
+        "Title": "TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers",
+        "Author": ["Wei Xu"],
+        "Org": "Wei Xu",
+        "Date": "2023",
+        "Tag": ["Tsinghua University"],
+        "Conference": "ACM CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "475": {
+        "Title": "Alert Alchemy: SOC Workflows and Decisions in the Management of NIDS Rules",
+        "Author": ["Mathew Vermeer"],
+        "Org": "Technische Universiteit Delft",
+        "Date": "2023",
+        "Tag": ["NIDS"],
+        "Conference": "ACM CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "476": {
+        "Title": "Finding All Cross-Site Needles in the DOM Stack: A Comprehensive Methodology for the Automatic XS-Leak Detection in Web Browsers",
+        "Author": ["Dominik Trevor Noß"],
+        "Org": "Ruhr-Universität Bochum",
+        "Date": "2023",
+        "Tag": ["DOM"],
+        "Conference": "ACM CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "477": {
+        "Title": "Whole-Program Control-Flow Path Attestation",
+        "Author": ["Nikita Yadav"],
+        "Org": "Indian Institute of Science",
+        "Date": "2023",
+        "Tag": ["Control-Flow"],
+        "Conference": "ACM CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "478": {
+        "Title": "Black Ostrich: Web Application Scanning with String Solvers",
+        "Author": ["Benjamin Eriksson"],
+        "Org": "Chalmers Tekniska Högskola",
+        "Date": "2023",
+        "Tag": ["Web", "Spider"],
+        "Conference": "ACM CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
