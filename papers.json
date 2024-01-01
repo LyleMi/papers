@@ -6174,5 +6174,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "479": {
+        "Title": "Passive SSH key compromise via lattices",
+        "Author": ["Keegan Ryan"],
+        "Org": "University of California, San Diego",
+        "Date": "2023",
+        "Tag": ["SSH"],
+        "Conference": "ACM CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "480": {
+        "Title": "Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications",
+        "Author": ["Nanzi Yang"],
+        "Org": "Xidian University",
+        "Date": "2023",
+        "Tag": ["k8s"],
+        "Conference": "ACM CCS",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

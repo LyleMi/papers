@@ -80,8 +80,10 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | Don't Leak Your Keys: Understanding, Measuring, and Exploiting the AppSecret Leaks in Mini-Programs | Yue Zhang | The Ohio State University | 2023 | Mini-Program;Secret Leak |
 | Finding All Cross-Site Needles in the DOM Stack: A Comprehensive Methodology for the Automatic XS-Leak Detection in Web Browsers | Dominik Trevor Noß | Ruhr-Universität Bochum | 2023 | DOM |
 | Lost along the Way: Understanding and Mitigating Path-Misresolution Threats to Container Isolation | Zhi Li | Huazhong University of Science and Technology | 2023 | Container Isolation |
+| Passive SSH key compromise via lattices | Keegan Ryan | University of California, San Diego | 2023 | SSH |
 | PyRTFuzz: Detecting Bugs in Python Runtimes via Two-Level Collaborative Fuzzing | Wen Li | Washington State University | 2023 | Fuzz;Python |
 | Silence is not Golden: Disrupting the Load Balancing of Authoritative DNS Servers | Fenglu Zhang | Tsinghua University | 2023 | DNS |
+| Take Over the Whole Cluster: Attacking Kubernetes via Excessive Permissions of Third-party Applications | Nanzi Yang | Xidian University | 2023 | k8s |
 | TsuKing: Coordinating DNS Resolvers and Queries into Potent DoS Amplifiers | Wei Xu | Wei Xu | 2023 | Tsinghua University |
 | Understanding and Detecting Abused Image Hosting Modules as Malicious Services | Geng Hong | Fudan University, Shanghai, China | 2023 | Abuse |
 | Whole-Program Control-Flow Path Attestation | Nikita Yadav | Indian Institute of Science | 2023 | Control-Flow |
