@@ -200,6 +200,8 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
+| A Pain in the NAS: Exploiting Cloud Connectivity to PWN Your NAS | Noam Moshe | Vulnerability Researcher, Claroty | 2023 | NAS |
+| Chained to Hit: Discovering New Vectors to Gain Remote and Root Access in SAP Enterprise Software | Yvan Genuer | Security Researcher, Onapsis | 2023 | Java;RMI |
 | A Journey Into Fuzzing WebAssembly Virtual Machines | Patrick Ventuzelo | FuzzingLabs | 2022 | Fuzz;WebAssembly |
 | A New Trend for the Blue Team - Using a Practical Symbolic Engine to Detect Evasive Forms of Malware/Ransomware | Sheng-Hao Ma | TXOne | 2022 | symbolic execution;malware detection |
 | Another Way to Talk with Browser: Exploiting Chrome at Network Layer | Rong Jian | 360 | 2022 | Chrome;WASM |

@@ -6200,5 +6200,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "481": {
+        "Title": "A Pain in the NAS: Exploiting Cloud Connectivity to PWN Your NAS",
+        "Author": ["Noam Moshe"],
+        "Org": "Vulnerability Researcher, Claroty",
+        "Date": "2023",
+        "Tag": ["NAS"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "482": {
+        "Title": "Chained to Hit: Discovering New Vectors to Gain Remote and Root Access in SAP Enterprise Software",
+        "Author": ["Yvan Genuer"],
+        "Org": "Security Researcher, Onapsis",
+        "Date": "2023",
+        "Tag": ["Java", "RMI"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
