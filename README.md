@@ -201,7 +201,13 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | Title | Authors | Organization | Year | Keywords |
 | --- | --- | --- | --- | --- |
 | A Pain in the NAS: Exploiting Cloud Connectivity to PWN Your NAS | Noam Moshe | Vulnerability Researcher, Claroty | 2023 | NAS |
+| All Cops Are Broadcasting: Breaking TETRA After Decades in the Shadows | Carlo Meijer | Midnight Blue | 2023 | Windows |
+| BingBang: Hacking Bing.com (and much more) with Azure Active Directory | Hillai Ben-Sasson | Wiz | 2023 | AD;Azure |
 | Chained to Hit: Discovering New Vectors to Gain Remote and Root Access in SAP Enterprise Software | Yvan Genuer | Security Researcher, Onapsis | 2023 | Java;RMI |
+| Defender-Pretender: When Windows Defender Updates Become a Security Risk | Tomer Bar | SafeBreach | 2023 | Windows;Defender |
+| Route to Bugs: Analyzing the Security of BGP Message Parsing | Daniel dos Santos | Forescout | 2023 | BGP |
+| Smashing the State Machine: The True Potential of Web Race Conditions | James Kettle | Portswigger | 2023 | Race Conditions |
+| Weaponizing Plain Text: ANSI Escape Sequences as a Forensic Nightmare | STOK | Truesec | 2023 | ANSI |
 | A Journey Into Fuzzing WebAssembly Virtual Machines | Patrick Ventuzelo | FuzzingLabs | 2022 | Fuzz;WebAssembly |
 | A New Trend for the Blue Team - Using a Practical Symbolic Engine to Detect Evasive Forms of Malware/Ransomware | Sheng-Hao Ma | TXOne | 2022 | symbolic execution;malware detection |
 | Another Way to Talk with Browser: Exploiting Chrome at Network Layer | Rong Jian | 360 | 2022 | Chrome;WASM |

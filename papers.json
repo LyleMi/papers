@@ -6226,5 +6226,83 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "483": {
+        "Title": "Defender-Pretender: When Windows Defender Updates Become a Security Risk",
+        "Author": ["Tomer Bar"],
+        "Org": "SafeBreach",
+        "Date": "2023",
+        "Tag": ["Windows", "Defender"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "484": {
+        "Title": "Smashing the State Machine: The True Potential of Web Race Conditions",
+        "Author": ["James Kettle"],
+        "Org": "Portswigger",
+        "Date": "2023",
+        "Tag": ["Race Conditions"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "485": {
+        "Title": "All Cops Are Broadcasting: Breaking TETRA After Decades in the Shadows",
+        "Author": ["Carlo Meijer"],
+        "Org": "Midnight Blue",
+        "Date": "2023",
+        "Tag": ["Windows"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "486": {
+        "Title": "Weaponizing Plain Text: ANSI Escape Sequences as a Forensic Nightmare",
+        "Author": ["STOK"],
+        "Org": "Truesec",
+        "Date": "2023",
+        "Tag": ["ANSI"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "487": {
+        "Title": "Route to Bugs: Analyzing the Security of BGP Message Parsing",
+        "Author": ["Daniel dos Santos"],
+        "Org": "Forescout",
+        "Date": "2023",
+        "Tag": ["BGP"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "488": {
+        "Title": "BingBang: Hacking Bing.com (and much more) with Azure Active Directory",
+        "Author": ["Hillai Ben-Sasson"],
+        "Org": "Wiz",
+        "Date": "2023",
+        "Tag": ["AD", "Azure"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
