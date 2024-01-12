@@ -205,7 +205,9 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | BingBang: Hacking Bing.com (and much more) with Azure Active Directory | Hillai Ben-Sasson | Wiz | 2023 | AD;Azure |
 | Chained to Hit: Discovering New Vectors to Gain Remote and Root Access in SAP Enterprise Software | Yvan Genuer | Security Researcher, Onapsis | 2023 | Java;RMI |
 | Defender-Pretender: When Windows Defender Updates Become a Security Risk | Tomer Bar | SafeBreach | 2023 | Windows;Defender |
+| MaginotDNS: Attacking the Boundary of DNS Caching Protection | Zhou Li | University of California, Irvine | 2023 | DNS |
 | Route to Bugs: Analyzing the Security of BGP Message Parsing | Daniel dos Santos | Forescout | 2023 | BGP |
+| Second Breakfast: Implicit and Mutation-Based Serialization Vulnerabilities in .NET | Jonathan Birch | Microsoft | 2023 | .NET;Serialize |
 | Smashing the State Machine: The True Potential of Web Race Conditions | James Kettle | Portswigger | 2023 | Race Conditions |
 | Weaponizing Plain Text: ANSI Escape Sequences as a Forensic Nightmare | STOK | Truesec | 2023 | ANSI |
 | A Journey Into Fuzzing WebAssembly Virtual Machines | Patrick Ventuzelo | FuzzingLabs | 2022 | Fuzz;WebAssembly |

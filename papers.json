@@ -6304,5 +6304,31 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "489": {
+        "Title": "MaginotDNS: Attacking the Boundary of DNS Caching Protection",
+        "Author": ["Zhou Li"],
+        "Org": "University of California, Irvine",
+        "Date": "2023",
+        "Tag": ["DNS"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "490": {
+        "Title": "Second Breakfast: Implicit and Mutation-Based Serialization Vulnerabilities in .NET",
+        "Author": ["Jonathan Birch"],
+        "Org": "Microsoft",
+        "Date": "2023",
+        "Tag": [".NET", "Serialize"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
