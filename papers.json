@@ -6330,5 +6330,70 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "491": {
+        "Title": "The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders",
+        "Author": ["Willy Vasquez"],
+        "Org": "The University of Texas at Austin",
+        "Date": "2023",
+        "Tag": ["H264"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "492": {
+        "Title": "Bad io_uring: A New Era of Rooting for Android",
+        "Author": ["Zhenpeng Lin"],
+        "Org": "Northwestern University",
+        "Date": "2023",
+        "Tag": ["Android"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "493": {
+        "Title": "Close Encounters of the Advanced Persistent Kind: Leveraging Rootkits for Post-Exploitation",
+        "Author": ["Ruben Boonen"],
+        "Org": "IBM",
+        "Date": "2023",
+        "Tag": ["rootkit"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "494": {
+        "Title": "Exploiting OPC-UA in Every Possible Way: Practical Attacks Against Modern OPC-UA Architectures",
+        "Author": ["Sharon Brizinov"],
+        "Org": "Claroty",
+        "Date": "2023",
+        "Tag": ["ICS"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "495": {
+        "Title": "EDR = Erase Data Remotely, By Cooking An Unforgettable (Byte) Signature Dish",
+        "Author": ["Tomer Bar"],
+        "Org": "SafeBreach",
+        "Date": "2023",
+        "Tag": ["EDR"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }
