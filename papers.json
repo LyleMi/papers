@@ -6395,5 +6395,57 @@
         "Reading Notes": [],
         "Slides": "",
         "Code": ""
+    },
+    "496": {
+        "Title": "Three New Attacks Against JSON Web Tokens",
+        "Author": ["Tom Tervoort"],
+        "Org": "Secura",
+        "Date": "2023",
+        "Tag": ["JWT"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "497": {
+        "Title": "Uncovering Azure's Silent Threats: A Journey into Cloud Vulnerabilities",
+        "Author": ["Nitesh Surana"],
+        "Org": "Trend Micro",
+        "Date": "2023",
+        "Tag": ["cloud"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "498": {
+        "Title": "Houston, We Have a Problem: Analyzing the Security of Low Earth Orbit Satellites",
+        "Author": ["Johannes Willbold"],
+        "Org": "Ruhr University Bochum",
+        "Date": "2023",
+        "Tag": ["Orbit"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
+    },
+    "499": {
+        "Title": "One Drive, Double Agent: Clouded OneDrive Turns Sides",
+        "Author": ["Or Yair"],
+        "Org": "SafeBreach",
+        "Date": "2023",
+        "Tag": ["Cloud"],
+        "Conference": "Black Hat USA",
+        "Abstract": "",
+        "Comment": "",
+        "Reading Notes": [],
+        "Slides": "",
+        "Code": ""
     }
 }

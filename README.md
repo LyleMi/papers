@@ -209,11 +209,15 @@ Recently read academic papers, articles on Web Security/Fuzzing, etc., and some 
 | Defender-Pretender: When Windows Defender Updates Become a Security Risk | Tomer Bar | SafeBreach | 2023 | Windows;Defender |
 | EDR = Erase Data Remotely, By Cooking An Unforgettable (Byte) Signature Dish | Tomer Bar | SafeBreach | 2023 | EDR |
 | Exploiting OPC-UA in Every Possible Way: Practical Attacks Against Modern OPC-UA Architectures | Sharon Brizinov | Claroty | 2023 | ICS |
+| Houston, We Have a Problem: Analyzing the Security of Low Earth Orbit Satellites | Johannes Willbold | Ruhr University Bochum | 2023 | Orbit |
 | MaginotDNS: Attacking the Boundary of DNS Caching Protection | Zhou Li | University of California, Irvine | 2023 | DNS |
+| One Drive, Double Agent: Clouded OneDrive Turns Sides | Or Yair | SafeBreach | 2023 | Cloud |
 | Route to Bugs: Analyzing the Security of BGP Message Parsing | Daniel dos Santos | Forescout | 2023 | BGP |
 | Second Breakfast: Implicit and Mutation-Based Serialization Vulnerabilities in .NET | Jonathan Birch | Microsoft | 2023 | .NET;Serialize |
 | Smashing the State Machine: The True Potential of Web Race Conditions | James Kettle | Portswigger | 2023 | Race Conditions |
 | The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders | Willy Vasquez | The University of Texas at Austin | 2023 | H264 |
+| Three New Attacks Against JSON Web Tokens | Tom Tervoort | Secura | 2023 | JWT |
+| Uncovering Azure's Silent Threats: A Journey into Cloud Vulnerabilities | Nitesh Surana | Trend Micro | 2023 | cloud |
 | Weaponizing Plain Text: ANSI Escape Sequences as a Forensic Nightmare | STOK | Truesec | 2023 | ANSI |
 | A Journey Into Fuzzing WebAssembly Virtual Machines | Patrick Ventuzelo | FuzzingLabs | 2022 | Fuzz;WebAssembly |
 | A New Trend for the Blue Team - Using a Practical Symbolic Engine to Detect Evasive Forms of Malware/Ransomware | Sheng-Hao Ma | TXOne | 2022 | symbolic execution;malware detection |
